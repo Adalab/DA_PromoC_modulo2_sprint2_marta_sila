@@ -1,0 +1,1621 @@
+,YEAR,COUNTRY,SEX_,AGE,SPECIES_,fecha,FATALIDAD
+0,2018,usa,F,57,White shark,,N
+1,2018,brazil,M,18,Tiger shark,,N
+2,2018,usa,M,15,"Bull shark, 6'",,N
+3,2018,australia,M,32,Grey reef shark,,N
+4,2018,england,M,21,Invalid incident,,N
+5,2018,costa rica,M,30,Tiger shark,,N
+6,2018,australia,M,60,3 m shark,,N
+7,2018,maldives,M,32,Tiger shark,,N
+8,2018,south africa,M,33,"White shark, 2.5 m",,N
+9,2018,south africa,M,19,White shark,,N
+10,2018,usa,M,25,"Tiger shark, 12'",,N
+11,2018,australia,M,10,Wobbegong shark,,N
+12,2018,australia,M,69,3.5 m shark,,N
+13,2018,australia,M,18,1.8 m shark,,N
+14,2018,australia,F,55,"Juvenile white shark,  2.7 to 3.2 m",,N
+15,2018,australia,M,35,"Bull shark, 2 m",,N
+16,2018,brazil,M,20,small shark,,N
+17,2017,usa,F,54,Tiger shark,,N
+18,2017,usa,M,25,"White shark, 4.6 m",,N
+19,2017,australia,M,25,2 m shark,,N
+20,2017,cuba,M,22,Tiger shark,,N
+21,2017,australia,M,31,"Wobbegong shark, 1 m",,N
+22,2017,australia,F,15,"White shark, 4.5 m",,N
+23,2017,usa,M,54,"Tiger shark, 8 to 10 feet",,N
+24,2017,usa,F,40,8' shark,,N
+25,2017,usa,M,33,Questionable,,N
+26,2017,usa,M,18,5' to 6' shark,,N
+27,2017,australia,M,35,"White shark, 3 to 3.5m ",,N
+28,2017,australia,M,37,"White shark, 3 m",,N
+29,2017,spain,F,11,Shark involvement questionable,,N
+30,2017,usa,M,69,"White shark, 5' to 7'",,N
+31,2017,usa,M,13,Possibly a juvenile blacktip shark,,N
+32,2017,usa,M,34,4' shark,,N
+33,2017,usa,M,10,A small shark,,N
+34,2017,usa,M,40,"White shark, 11' to 13'",,N
+35,2017,usa,M,50,"White shark, 8' to 10'",,N
+36,2017,usa,M,46,"Bull shark, 4' to 5'",,N
+37,2017,south africa,F,13,"White shark, 2.5 m",,N
+38,2017,australia,M,48,"White shark, 4 m",,N
+39,2017,bahamas,F,32,Tiger shark,,N
+40,2017,usa,F,18,Shark involvement highly doubtful,,N
+41,2017,australia,F,17,White shark,,N
+42,2017,usa,M,28,"Tiger shark, 12'",,N
+43,2017,usa,F,17,"Bull shark, 5' to 7'",,N
+44,2017,australia,M,55,"Bull shark, 4 m",,N
+45,2017,indonesia,M,48,"Bull shark, 1 m",,N
+46,2017,australia,M,20,Shark involvement not confirmed,,N
+47,2016,south africa,M,55,"White shark, 4 m",,N
+48,2016,usa,M,19,Shark involvement not confirmed,,N
+49,2016,australia,M,20,"Wobbegong shark, 2m",,N
+50,2016,australia,M,65,White shark,,N
+51,2016,australia,M,73,"Broadnose sevengill shark, 1.5 m",,N
+52,2016,usa,F,58,Tiger shark,,N
+53,2016,usa,M,36, 6' to 8' shark,,N
+54,2016,australia,M,17,"White shark, 3.5 m",,N
+55,2016,usa,M,60s,3' to 4' shark,,N
+56,2016,usa,F,51,"Tiger shark, 10'",,N
+57,2016,usa,M,25,"Bull shark, 6'",,N
+58,2016,usa,M,21,"Tiger shark, 10' ",,N
+59,2016,spain,M,40,Blue shark,,N
+60,2016,australia,M,31,"reef shark, 1m",,N
+61,2016,usa,M,61,"White shark, 10' to 12'",,N
+62,2016,usa,M,59,dogfish shark,,N
+63,2016,australia,M,34,Tawny nurse shark,,N
+64,2016,usa,M,42,3' to 5' shark,,N
+65,2016,usa,F,6,3' to 4' shark,,N
+66,2016,usa,M,19,3' shark,,N
+67,2016,usa,M,27,Said to involve an 8' shark but more likely damage caused by debris,,N
+68,2016,australia,F,60,3+ m shark,,N
+69,2016,egypt,M,23,Mako shark,,N
+70,2016,australia,M,29,White shark,,N
+71,2016,usa,M,13,5' shark,,N
+72,2016,usa,F,22,"Bull shark, 4' to 5'",,N
+73,2016,usa,M,48,"Blacktip shark, 4'",,N
+74,2016,usa,F,23,"Nurse shark, 2'",,N
+75,2016,new zealand,M,39,"Mako shark, 1.5 m [5'] ",,N
+76,2016,indonesia,M,24,"Bull shark, 6'",,N
+77,2016,australia,M,12,Wobbegong shark,,N
+78,2016,french polynesia,M,22,"Grey reef shark, 2 m",,N
+79,2016,french polynesia,M,26,"Grey reef shark, 2 m",,N
+80,2016,new caledonia,F,69,"Tiger shark, 2.5 m",,N
+81,2016,usa,M,48,"Tiger shark, 14'",,N
+82,2016,australia,M,11,Blacktip shark,,N
+83,2016,australia,M,31,3 m shark,,N
+84,2015,usa,M,71,9' shark,,N
+85,2015,australia,M,43,"Bronze whaler shark, 6'",,N
+86,2015,ecuador,M,55,Galapagos shark,,N
+87,2015,australia,M,20,"Bull shark, 2.8 to 3.1 m",,N
+88,2015,usa,F,9,Shark involvement not confirmed,,N
+89,2015,usa,F,28,3' to 5' shark,,N
+90,2015,south africa,M,42,"White shark, 3 to 3.5m ",,N
+91,2015,usa,M,21,5' shark,,N
+92,2015,usa,M,21,"Spinner shark, 5'",,N
+93,2015,usa,M,32,No shark involvement,,N
+94,2015,usa,M,44,"Tiger shark, 7'",,N
+95,2015,usa,M,25,"Tiger shark, 13' ",,N
+96,2015,usa,M,13,4' to 5' shark,,N
+97,2015,usa,M,14,"Blacktip shark, 4' to 5'",,N
+98,2015,usa,M,22,"Blacktip shark, 5' to 6'",,N
+99,2015,usa,M,14,juvenile shark,,N
+100,2015,usa,M,27,"Tiger shark, 13'",,N
+101,2015,usa,M,12,4' shark,,N
+102,2015,australia,M,42,6' shark,,N
+103,2015,usa,F,50,"White shark, 11' to 12'",,N
+104,2015,usa,M,29,Hammerhead shark.,,N
+105,2015,australia,M,62,"White shark, 2.5 m",,N
+106,2015,thailand,F,37,small shark,,N
+107,2015,usa,F,54,"White shark, 11' to 12'",,N
+108,2015,usa,M,21,"White shark, 10' to 12' ",,N
+109,2015,usa,M,15,4' shark,,N
+110,2015,usa,F,10,3' shark,,N
+111,2015,usa,M,22,"White shark, 13'",,N
+112,2015,spain,M,10,Shark involvement not confirmed,,N
+113,2015,usa,M,57,Hammerhead shark. 6' to 7',,N
+114,2015,australia,M,52,White shark,,N
+115,2015,usa,M,25,"Blacktip or spinner shark, 4'",,N
+116,2015,usa,F,35,"Thought to involve a 3' to 4' shark, but shark involvement not confirmed",,N
+117,2015,australia,M,46,"White shark, 3.9 to 4.2 m",,N
+118,2015,usa,M,38,"White shark, 7'",,N
+120,2015,australia,M,32,White shark,,N
+121,2015,usa,M,68,6' to 7' shark,,N
+122,2015,usa,M,12,4' to 5' shark,,N
+123,2015,usa,M,18,Bull shark,,N
+124,2015,south africa,M,19,White shark,,N
+125,2015,south africa,M,23,"White shark, 2m to 3 m",,N
+126,2015,usa,M,43,4' shark,,N
+127,2015,usa,M,6,Sandtiger shark,,N
+128,2015,australia,F,37,White shark,,N
+129,2015,usa,M,16,Bull shark,,N
+130,2015,usa,F,12,Bull shark,,N
+131,2015,usa,F,13,4' shark,,N
+132,2015,usa,M,11,"Bull shark, 5'",,N
+133,2015,reunion,M,47,"Bull shark, 2.5 m",,N
+134,2015,french polynesia,M,19,1m to 1.2 m shark,,N
+135,2015,usa,M,18,5' shark,,N
+136,2015,south africa,M,29,"White shark, 3.5 m",,N
+137,2015,usa,M,63,3- to 4-foot shark,,N
+138,2015,australia,M,26,"White shark, 6 m",,N
+139,2015,australia,M,71,"White shark, 3 m",,N
+140,2015,reunion,M,13,Bull shark,,N
+141,2015,usa,M,70,Bull shark,,N
+142,2015,brazil,M,23,No shark involvement,,N
+143,2015,usa,M,58,"Tiger shark, 8 to 12 feet",,N
+144,2015,french polynesia,M,9,Blacktip shark,,N
+145,2015,reunion,F,22,"Tiger shark, 3.5 m",,N
+146,2015,australia,M,41,3.5 to 4 m shark,,N
+147,2015,australia,M,35,2 m to  3 m shark,,N
+148,2015,australia,M,57,"Bull shark, 1.3 m",,N
+149,2015,usa,M,20,4' shark,,N
+150,2015,bahamas,F,34,White shark or oceanic whitetip shark,,N
+151,2015,south africa,M,15,"Raggedtooth shark, 1.3 m",,N
+152,2014,australia,M,17,"White shark, 4 to 5 m",,N
+153,2014,usa,M,50,"White shark, 8' to 10'",,N
+154,2014,australia,M,40s,1.5 m shark,,N
+155,2014,australia,M,17,Tiger shark,,N
+156,2014,usa,M,44,2' shark,,N
+157,2014,usa,M,53,1.5 m shark,,N
+158,2014,usa,F,34,"Tiger shark, 12'",,N
+159,2014,australia,F,13,1 m shark,,N
+160,2014,usa,M,29,Blacktip shark,,N
+161,2014,usa,M,15,Blacktip shark,,N
+162,2014,usa,M,28,8' to 10' shark,,N
+163,2014,australia,M,23,"2 white shark: 13' & 9""8""",,N
+164,2014,australia,M,50,7' shark,,N
+165,2014,usa,M,43,Bull shark,,N
+166,2014,usa,F,20s,"White shark, 12' to 14'",,N
+167,2014,usa,M,52,3' to 4' shark,,N
+168,2014,usa,F,13,Spinner shark,,N
+169,2014,usa,M,7," Bull shark, 5'",,N
+170,2014,usa,M,10,4' tp 5' shark,,N
+171,2014,south africa,M,20,White shark,,N
+172,2014,usa,M,61,6' to 8' shark,,N
+173,2014,usa,M,39,4' shark,,N
+174,2014,bahamas,M,63,Shark involvement not confirmed,,N
+175,2014,usa,M,19,4' to 5' shark,,N
+176,2014,usa,M,16," Sandbar shark, 3' to 4'",,N
+177,2014,australia,M,39,"Bronze whaler shark, 1.5m",,N
+178,2014,usa,F,22,Bull shark,,N
+179,2014,australia,M,35," white shark, 15' ",,N
+180,2014,usa,F,40,4' to 5' shark,,N
+181,2014,usa,M,23,3' shark,,N
+182,2014,australia,F,63,3 m to 4 m white shark,,N
+183,2014,australia,M,38,Shark involvement prior to death not confirmed,,N
+184,2014,south africa,M,66,2 m shark,,N
+185,2014,french polynesia,M,21,Blacktip reef shark ,,N
+186,2014,new zealand,M,28,7-gill shark?,,N
+187,2013,new caledonia,M,37,Reported to involve a bull shark,,N
+188,2013,south africa,M,19,"White shark, 3m ",,N
+189,2013,usa,M,29,"Tiger shark, 10' to 12'",,N
+190,2013,usa,M,30,4' to 6' shark,,N
+191,2013,australia,M,26," Wobbegong shark, 1.6 to 1.8m ",,N
+192,2013,australia,M,19,"Tiger shark, 3m ",,N
+193,2013,australia,M,35,Thought to involve a white shark,,N
+194,2013,usa,M,25,"White shark, 10 '",,N
+195,2013,usa,M,46,Tiger shark,,N
+196,2013,australia,F,60,"Blacktip reef shark, 1m",,N
+197,2013,reunion,M,24,Thought to involve a bull shark,,N
+198,2013,australia,M,41,Wobbegong shark,,N
+199,2013,usa,M,45,"Whitetip reef shark, 4' to 6'",,N
+200,2013,usa,M,25,Tiger shark,,N
+201,2013,usa,M,6,Nurse shark?,,N
+202,2013,south africa,M,74,White shark,,N
+203,2013,australia,M,55,White shark,,N
+204,2013,usa,M,45,"White shark, 8' to 10'",,N
+205,2013,usa,M,21,Bull shark,,N
+206,2013,usa,F,13,3' shark,,N
+207,2013,usa,M,43,3' shark,,N
+208,2013,usa,M,25,3' shark,,N
+209,2013,usa,M,9,4' shark,,N
+210,2013,usa,F,20,Tiger shark?,,N
+211,2013,usa,M,10,"Bull shark, 8'",,N
+212,2013,usa,M,17,"Bull shark, 6' to 8'",,N
+213,2013,bahamas,M,40,6' shark,,N
+214,2013,usa,M,18,"Tiger shark, 8' to 10' ",,N
+215,2013,bahamas,M,64,Nurse shark,,N
+216,2013,usa,M,14,4' to 5' shark,,N
+217,2013,usa,M,28,"Tiger shark, 14'",,N
+218,2013,usa,F,10,4' to 5' shark,,N
+219,2013,ecuador,M,29,Galapagos shark,,N
+220,2013,reunion,M,36,Bull shark,,N
+221,2013,usa,M,16,a small shark,,N
+222,2013,mexico,F,34,Tiger shark,,N
+223,2013,australia,M,51,"Grey nurse shark, 3m",,N
+224,2013,usa,M,9,3' shark,,N
+226,2013,french polynesia,M,53,Possibly a blacktip reef shark,,N
+227,2013,usa,M,58,4' shark,,N
+228,2013,south africa,M,30,"Raggedtooth shark, 1.5 m",,N
+229,2013,jamaica,M,68,"Tiger shark, 4.8 m",,N
+230,2013,australia,M,28,"Bronze whaler shark, 2.5m",,N
+231,2013,new zealand,M,46,"White shark, 4m",,N
+232,2013,usa,M,16,"Blacktip shark, 4' to 5'",,N
+233,2013,french polynesia,M,48,Lemon shark,,N
+234,2013,usa,M,43,"Tiger shark, 15'",,N
+235,2012,australia,M,23,2.5 m shark,,N
+236,2012,australia,M,29,"Bull shark, 2m ",,N
+237,2012,australia,M,32,"Tiger shark, 6'",,N
+238,2012,usa,M,60,10' shark,,N
+239,2012,australia,M,31,Sandtiger shark,,N
+240,2012,usa,M,61,"Tiger shark, 10'",,N
+241,2012,mexico,M,32,2.5 m shark,,N
+242,2012,usa,M,14,2' to 3' shark,,N
+243,2012,usa,M,30,"Tiger shark, 15'",,N
+244,2012,usa,M,43,"Tiger shark, 8'",,N
+245,2012,usa,M,25,White shark,,N
+246,2012,usa,F,51,"Tiger shark, 10' to 12' ",,N
+247,2012,usa,M,39,"White shark, 15' to 16' ",,N
+248,2012,usa,M,55,6' to 8' shark,,N
+249,2012,australia,M,11,2m shark,,N
+250,2012,usa,M,21,5' shark,,N
+251,2012,usa,M,22,4' shark,,N
+252,2012,usa,F,8,3.5' to 4' shark,,N
+253,2012,usa,F,56,3.5' to 4' shark,,N
+254,2012,usa,M,56,"Lemon shark, 4' to 5' ",,N
+255,2012,australia,M,48,White shark or bronze whaler,,N
+256,2012,usa,M,50,Thought to involve a white shark,,N
+257,2012,australia,M,24,"White shark, 5m",,N
+258,2012,usa,M,52,14' to 18'shark,,N
+259,2012,south africa,M,29,15' shark,,N
+260,2012,usa,M,6,possibly a bull shark,,N
+261,2012,usa,F,16,a small reef shark,,N
+262,2012,australia,M,62,3 m shark,,N
+263,2012,usa,M,23,Nurse shark,,N
+264,2012,usa,F,18,small blacktip shark?,,N
+265,2012,usa,M,16,Blacktip shark ,,N
+266,2012,australia,M,42,1.5 m shark,,N
+267,2012,italy,M,57,"Blue shark, 2.5m",,N
+268,2012,australia,M,30,"White shark, 2 m",,N
+269,2012,usa,F,33,"18"" to 24"" shark",,N
+270,2012,mexico,M,46,"Bull shark, 3m",,N
+271,2012,usa,M,22,4' to 5' shark,,N
+272,2012,usa,M,30,White shark,,N
+273,2012,usa,F,15,White shark,,N
+274,2012,usa,M,28,5' shark,,N
+275,2012,south africa,M,20,"White shark, 4 m to 5m ",,N
+276,2012,usa,M,28,"Tiger shark, 10'  ",,N
+277,2012,australia,M,33,"White shark, 4m ",,N
+278,2012,australia,M,20,Possibly a bull shark,,N
+279,2012,usa,M,61,Possibly a 5' to 6' bull shark,,N
+280,2012,usa,F,15,4' to 5' shark,,N
+281,2012,usa,M,17,4' to 5' shark,,N
+282,2012,australia,F,34,"Tawny nurse shark, 40cm",,N
+283,2012,usa,M,19,4' shark,,N
+284,2012,australia,M,26,"Tiger shark, 3m",,N
+285,2012,australia,M,44,"White shark, 2.7 m",,N
+286,2012,south africa,M,25,Thought to involve a bull shark,,N
+287,2012,australia,M,28,2 m shark,,N
+288,2012,australia,M,34,Allegedly a 4 m tiger shark,,N
+289,2011,australia,M,51,"White shark, 2.5m",,N
+290,2011,australia,M,10,Wobbegong shark?,,N
+291,2011,australia,M,32,"White shark, 10'",,N
+292,2011,australia,M,50,"Port Jackson shark, 1m",,N
+293,2011,usa,M,27,No shark involvement,,N
+294,2011,south africa,M,43,White shark,,N
+295,2011,usa,M,21,"Bull shark, 6'",,N
+296,2011,usa,M,25,4' to 6' shark,,N
+297,2011,papua new guinea,M,30,"Tiger shark, 2m",,N
+298,2011,australia,M,21,White shark,,N
+299,2011,usa,M,19,"6' shark, possibly a blactip or spinner shark",,N
+300,2011,usa,M,19,6' shark,,N
+301,2011,australia,M,48,Shark involvement prior to death not confirmed,,N
+302,2011,south africa,M,49,"White shark, >6'",,N
+303,2011,usa,F,20s,Possibly a 5' to 6' sandtiger shark,,N
+304,2011,russia,M,25,4 m shark,,N
+305,2011,french polynesia,M,32,Grey reef shark ,,N
+306,2011,seychelles,M,30,"Bull shark, 6'",,N
+307,2011,south africa,M,29,"White shark, 3m to 4m",,N
+308,2011,south africa,M,22,"Bull shark, 3m female",,N
+309,2011,usa,F,10,"Bull shark, 6'",,N
+310,2011,usa,M,28,"Blacktip shark, 4'",,N
+311,2011,usa,M,19,3' to 4' shark,,N
+312,2011,south africa,M,28,Zambesi shark,,N
+313,2011,new caledonia,M,15," Tiger shark, 2.8m",,N
+314,2011,australia,M,17,"reef shark, 1.5m",,N
+315,2011,usa,M,49,1' to 2' shark,,N
+316,2011,new zealand,M,41,possibly a bronze whaler shark,,N
+317,2011,australia,M,48,"Bull shark, 2.5m",,N
+318,2011,australia,F,24,3 m to 4 m shark,,N
+319,2011,australia,M,36,"Bull shark, 2m",,N
+320,2011,new caledonia,M,21,1.5 m shark,,N
+321,2011,australia,M,49,White shark x 2,,N
+322,2011,mexico,F,38,6' shark,,N
+323,2011,bahamas,M,55,Caribbean reef shark,,N
+324,2011,australia,F,7,Shark involvement not confirmed,,N
+325,2010,usa,M,16,6' shark,,N
+326,2010,egypt,F,70,"Oceanic whitetip shark, 2.5m ",,N
+327,2010,egypt,M,54,Mako shark ,,N
+328,2010,egypt,M,46,Mako shark,,N
+329,2010,egypt,F,70,"Oceanic whitetip shark, 2.5m, female",,N
+330,2010,egypt,F,48,"Oceanic whitetip shark, 2.5m, female",,N
+331,2010,australia,F,20,White shark,,N
+332,2010,usa,M,30,"Porbeagle shark, 8' ",,N
+333,2010,usa,M,19,"White shark, 14' to 18' ",,N
+334,2010,australia,M,22,"Bull shark, 1.4m ",,N
+335,2010,usa,M,29,White shark,,N
+336,2010,australia,M,15,2m shark,,N
+337,2010,australia,M,31,White shark,,N
+338,2010,usa,F,37,3' to 4' shark,,N
+339,2010,usa,M,10,Possibly a small blacktip shark,,N
+340,2010,usa,F,13,"Sandtiger shark, 4' to 5'",,N
+341,2010,spain,M,9,Angel shark,,N
+342,2010,usa,M,20,"Blue shark, 7'",,N
+343,2010,usa,M,19,4' shark,,N
+344,2010,usa,M,48,8' shark,,N
+345,2010,vietnam,M,17,1 m shark,,N
+346,2010,usa,F,18,4' shark,,N
+347,2010,usa,M,49,"Lemon shark, 4'",,N
+348,2010,vietnam,F,58,20 to 30kg shark,,N
+349,2010,vietnam,F,60,20 to 30kg shark,,N
+350,2010,usa,F,10,4' shark,,N
+351,2010,usa,M,29,"Lemon shark, 6'",,N
+352,2010,usa,M,68,14' shark,,N
+353,2010,south africa,M,35,2 m shark,,N
+354,2010,egypt,M,24,"Oceanic whitetip shark, 6'",,N
+355,2010,reunion,M,34,1.5 m shark,,N
+356,2010,australia,F,60,2 m shark,,N
+357,2010,australia,M,46,"Wobbegong shark, 1.6m",,N
+358,2010,australia,M,18,"White shark, 2.5m",,N
+359,2010,guam,M,31,Invalid,,N
+360,2010,new zealand,F,14,1.5 m shark,,N
+361,2010,south africa,M,37,White shark,,N
+362,2009,mozambique,M,27,"Zambesi shark, 2m ",,N
+363,2009,australia,M,18,"Bull shark, 3m",,N
+364,2009,usa,M,58,"Sandtiger shark, 8'",,N
+365,2009,usa,M,49,Shark involvement not confirmed,,N
+366,2009,usa,M,10,6' shark,,N
+367,2009,usa,M,31,Thresher shark,,N
+368,2009,usa,M,18,4' shark,,N
+369,2009,australia,M,25,2 m shark,,N
+370,2009,australia,M,27,"White shark, 4m",,N
+371,2009,usa,M,54,6' to 8' shark,,N
+372,2009,scotland,M,23,Angel shark,,N
+373,2009,united kingdom,M,39,Spurdog,,N
+374,2009,usa,M,60,Shark involvement prior to death not confirmed,,N
+375,2009,south africa,M,25,White shark,,N
+376,2009,usa,F,22,"White shark, 5' to 6' juvenile ",,N
+377,2009,usa,M,56,Bull shark?,,N
+378,2009,usa,F,43,"Nurse shark, 6'",,N
+379,2009,australia,M,52,"Thought to involve a Bronze whale shark, 2m",,N
+380,2009,usa,M,14,"Shark involvement probable, but not confirmed",,N
+381,2009,egypt,F,50,"Oceanic whitetip shark, 2.5 to 3m",,N
+382,2009,taiwan,M,46,80 kg shark,,N
+383,2009,usa,M,31,blacktip or spinner shark,,N
+384,2009,usa,M,49,blacktip or spinner shark,,N
+385,2009,usa,M,55,blacktip or spinner shark,,N
+386,2009,guam,M,27,"Blacktip shark, 4'",,N
+387,2009,usa,M,31,2' to 3' shark,,N
+388,2009,australia,M,40,2' to 3' shark,,N
+389,2009,south africa,M,24,Shark involvement not confirmed,,N
+390,2009,australia,M,17,Bronze whaler shark?,,N
+391,2009,usa,F,17,3' to 4' shark,,N
+392,2009,usa,M,61,Thought to involve a cookie cutter shark,,N
+393,2009,south africa,M,40,"Blue shark, 1m",,N
+394,2009,australia,M,15,2.6 m shark,,N
+395,2009,australia,M,33,"White shark, 2.5m ",,N
+396,2009,australia,M,31,"Bull shark, 2.7 m ",,N
+397,2009,australia,M,41,"White shark, 12' ",,N
+398,2009,cuba,M,15,Bull shark,,N
+399,2009,south africa,M,25,Tiger shark,,N
+400,2009,australia,M,24,"Dusky shark, 2m",,N
+401,2009,australia,F,13,"White shark, 5m",,N
+402,2009,australia,M,31,"White shark, 3.5m",,N
+403,2009,new zealand,M,49,Broadnose sevengill shark,,N
+404,2008,australia,M,29,"White shark, 4m to 5m ",,N
+405,2008,australia,M,51,4 to 5m white shark,,N
+406,2008,south africa,M,15,"Raggedtooth shark, 2m",,N
+407,2008,australia,M,34,"Grey nurse shark, 3m",,N
+408,2008,croatia,M,43,5 m white shark,,N
+409,2008,usa,M,40,+3' shark,,N
+410,2008,australia,M,43,Bronze whaler shark,,N
+411,2008,usa,M,40,Tiger shark,,N
+412,2008,australia,M,51,3 m shark,,N
+413,2008,usa,M,52,4' shark,,N
+414,2008,usa,M,27,Shark involvement not confirmed,,N
+415,2008,usa,M,26,6' shark,,N
+416,2008,usa,F,20,Shark involvement not confirmed,,N
+417,2008,usa,F,38,8' bull shark or Caribbean reef shark,,N
+418,2008,australia,M,31,8' white shark or 7-gill shark,,N
+419,2008,usa,F,8,3' to 4' shark,,N
+420,2008,usa,M,16,4' shark,,N
+421,2008,usa,M,53,Shark involvement prior to death not confirmed,,N
+422,2008,south africa,M,46,"White shark, 2m",,N
+423,2008,usa,M,37,4.5 to 5' shark,,N
+424,2008,usa,F,40,"White shark, 15'",,N
+425,2008,usa,F,15,5' shark,,N
+426,2008,brazil,M,14,Bull shark,,N
+427,2008,mexico,M,49,3 m shark,,N
+428,2008,australia,M,37,"White shark, 4m",,N
+429,2008,new caledonia,M,40,2 small bull sharks,,N
+430,2008,mexico,M,24,Tiger shark,,N
+431,2008,usa,M,18,4' shark,,N
+432,2008,new caledonia,M,32,"Bull shark, 1.8m",,N
+433,2008,usa,M,66,"White shark, 12' to 15'",,N
+434,2008,mexico,M,32,"Reported by media as shark attack, but shark involvement prior to death was not confirmed",,N
+435,2008,australia,M,19,Shark involvement not confirmed; thought to be a barracuda bite,,N
+436,2008,usa,M,30,1.5' to 2' shark,,N
+437,2008,australia,M,16,Bull shark,,N
+438,2008,usa,M,52,4' to 5' shark,,N
+439,2008,usa,M,13,2.5' shark,,N
+440,2008,usa,M,8,Shark involvement not confirmed,,N
+441,2008,usa,M,27,White shark,,N
+442,2008,bahamas,M,49,"A bull shark, according to some of the divers on the boat",,N
+443,2008,australia,M,20,"Mako shark, 90kg",,N
+444,2007,australia,M,31,2 m shark,,N
+445,2007,australia,M,34,Not a shark attack; it was a hoax,,N
+446,2007,usa,M,52,Tiger shark,,N
+447,2007,south africa,M,14,1.5 to 2 m shark,,N
+448,2007,usa,M,21,4' to 5' shark,,N
+449,2007,usa,M,42,5' shark,,N
+450,2007,south africa,M,37,"White shark, 3m to 4m",,N
+451,2007,usa,M,32,Tiger shark,,N
+452,2007,australia,F,52,"White shark, 2.5m ",,N
+453,2007,australia,M,31,Bronze whaler shark,,N
+454,2007,usa,M,22,3' to 4' shark,,N
+455,2007,usa,M,16,"Blacktip shark, 5'",,N
+456,2007,new caledonia,F,23,Tiger shark,,N
+457,2007,bahamas,F,48,Caribbean reef shark,,N
+458,2007,egypt,F,18 or 20,Oceanic whitetip sharks were in the vicinity,,N
+459,2007,usa,M,23,3' shark,,N
+460,2007,usa,F,Teen,9.5' shark?,,N
+461,2007,usa,M,14,"Nurse shark, 2' to 3' ",,N
+462,2007,usa,F,12,"18"" to 24"" shark",,N
+463,2007,usa,M,58,Possibly a spinner shark,,N
+464,2007,usa,M,15,"Tiger shark, 10' to 12' ",,N
+465,2007,usa,M,24,"White shark, 12'",,N
+466,2007,usa,M,54,3' shark,,N
+467,2007,usa,M,27,3' shark,,N
+468,2007,usa,M,16,4' to 5' shark,,N
+469,2007,usa,M,20,Possibly a 6' bull shark,,N
+470,2007,usa,F,15,_,,N
+471,2007,usa,F,19,Possibly a 10' bull shark,,N
+472,2007,usa,M,36,_,,N
+473,2007,australia,M,15,"Bronze whaler shark, 1.5 m ",,N
+474,2007,usa,M,14,2' to 3' shark,,N
+475,2007,usa,F,43,Shark involvement not confirmed,,N
+476,2007,usa,F,30,5' shark,,N
+477,2007,bahamas,F,48,"Bull shark, 5' ",,N
+478,2007,usa,M,20,4' shark,,N
+479,2007,usa,F,9,Shark involvement not confirmed,,N
+480,2007,usa,F,40,A 10-year-old 94-pound pregnant blacktip reef shark,,N
+481,2007,england,M,38,"Lesser spotted dogfish, Scyliorhinus canicula, less than 80 cm in length",,N
+482,2007,australia,F,38,2.5 m shark,,N
+483,2007,australia,M,19,10' shark,,N
+484,2007,usa,F,21,4' to 5' shark,,N
+485,2007,australia,M,45,Shark involvement prior to death was not confirmed,,N
+486,2007,usa,F,63,"Tiger shark, 14' ",,N
+487,2007,usa,M,68,6' to 8' shark,,N
+488,2007,australia,F,13,"""a small shark""",,N
+489,2007,usa,M,12,blacktip or spinner shark,,N
+490,2007,usa,M,24,3' to 4' shark,,N
+491,2007,new caledonia,M,26,Tiger shark,,N
+493,2007,usa,M,11,4' to 5' shark,,N
+494,2007,australia,F,42,1.5 m shark,,N
+495,2007,australia,F,59,2 to 2.5 m shark,,N
+496,2007,new caledonia,M,30,Tiger shark,,N
+497,2007,australia,M,41,"White shark, 3m",,N
+498,2007,south africa,M,24,Tiger shark,,N
+499,2007,usa,M,54,"24"" to 30"" shark",,N
+500,2007,usa,M,24,"6' to 8' shark, possibly a tiger shark",,N
+501,2006,australia,M,25,2.5 to 3 m shark,,N
+502,2006,new zealand,M,10,2 to 3 m shark,,N
+503,2006,usa,M,43,"White shark, 12' to 15' ",,N
+504,2006,south africa,M,25,"Raggedtooth shark, 150-kg",,N
+505,2006,australia,M,15,"White shark, 5m ",,N
+506,2006,usa,M,29,2 m to 3 m shark,,N
+507,2006,usa,M,22,"White shark, 16' ",,N
+508,2006,usa,M,18,3' to 3.5' shark,,N
+509,2006,usa,M,55,Spinner shark,,N
+510,2006,australia,M,44,No shark involvement,,N
+511,2006,usa,M,33,3' shark,,N
+512,2006,south africa,M,24,White shark,,N
+513,2006,usa,M,41,White shark?,,N
+514,2006,south africa,M,19,"White shark, 3m to 4m",,N
+515,2006,usa,M,14,_,,N
+516,2006,usa,M,49,"Angel shark, 1.2m ",,N
+517,2006,usa,F,14,5' to 6' spinner or bull shark,,N
+518,2006,usa,F,22,Possibly a 1' to 3' blacktip or spinner shark,,N
+519,2006,usa,M,24,2' to 3' shark,,N
+520,2006,usa,F,7,3' to 4' shark,,N
+521,2006,australia,M,40,14' white shark,,N
+522,2006,usa,M,26,"Tiger shark, 8' to 12'",,N
+523,2006,usa,M,15,"Grey reef shark, 5' to 8' ",,N
+524,2006,usa,F,30s,"Tiger shark, 10' to 12'",,N
+525,2006,australia,M,46,"Wobbegong shark, 2 m ",,N
+526,2006,usa,M,35,"Bull shark, 4' to bull shark",,N
+527,2006,australia,M,15,"Bronze whaler shark, a  juvenile ",,N
+528,2006,south africa,M,15,"Raggedtooth shark, 2.5 m to 3 m ",,N
+529,2006,brazil,M,35,Tiger shark,,N
+530,2006,usa,F,28,"Tiger shark, 10'  ",,N
+531,2006,fiji,M,21,"Tiger shark, 5' ",,N
+532,2006,australia,M,15,"Bronze whaler shark, 2 m",,N
+533,2006,usa,F,15,5' to 7' shark,,N
+534,2006,usa,M,45,Invalid,,N
+535,2006,south africa,M,15,Raggedtooth shark,,N
+536,2006,tonga,F,24,Tiger shark,,N
+537,2006,usa,M,57,12' to 18' shark,,N
+538,2006,australia,M,52,3.5 m white shark,,N
+539,2006,australia,F,21,Bull shark,,N
+540,2006,usa,M,21,4' shark,,N
+541,2005,usa,M,30,White shark,,N
+542,2005,usa,M,29,Tiger shark,,N
+543,2005,australia,M,44,Whitetip reef shark,,N
+544,2005,usa,M,23,4' shark,,N
+545,2005,australia,M,18,1.8 m shark,,N
+546,2005,usa,M,30s,4' shark,,N
+547,2005,south africa,M,32,"Raggedtooth shark, 2.5m ",,N
+548,2005,usa,M,18,6' shark,,N
+549,2005,usa,M,26,12' to 14' white shark,,N
+550,2005,st. maartin,M,55,2' shark,,N
+551,2005,south africa,M,20,3 m shark,,N
+552,2005,usa,M,36,White shark,,N
+553,2005,usa,F,20,18' white shark,,N
+554,2005,usa,M,22,"Tiger shark, less than 10'",,N
+555,2005,grand cayman,F,57,Caribbean reef sharks,,N
+556,2005,south africa,M,52,White shark,,N
+557,2005,australia,M,26,14' to 16' white shark,,N
+558,2005,australia,M,44,Bronze whaler shark,,N
+559,2005,usa,F,68,3' to 4' shark,,N
+560,2005,usa,F,18,Bull shark,,N
+561,2005,australia,M,40,4 m [13'] white shark,,N
+562,2005,australia,M,23,White shark,,N
+563,2005,usa,M,37,juvenile white shark,,N
+564,2005,usa,M,17,Shark involvement not confirmed,,N
+565,2005,usa,M,8,Possibly a sandbar shark or small blacktip shark,,N
+566,2005,usa,M,16,1.8 m [6'] shark,,N
+567,2005,usa,M,25,Shark involvement not confirmed,,N
+568,2005,usa,M,22,[4.5' to 5'] shark,,N
+569,2005,usa,F,14,[4' to 5'],,N
+570,2005,usa,M,16,Bull shark,,N
+571,2005,usa,F,14,1.8 m [6'] bull shark,,N
+572,2005,vanuatu,F,7,"On 8/13/2005 anglers from New Zealand caught a 2.8 m [9'3""], 140-kg [309-lb] shark at the same spot. It was believed this was the same shark that killed Alysha",,N
+573,2005,usa,M,49,Invalid,,N
+574,2005,usa,M,20,"Unknown, but it was reported that a shark tooth was recovered from the wound",,N
+575,2005,usa,M,17,"Mr. Burgess of ISAF announced the injury was the bite of a 1.8 m [6'], 2- to 3-year old white shark. Subsequent investigation revealed there was  no shark involvement in this incident",,N
+576,2005,south africa,M,22,White shark,,N
+577,2005,usa,M,33,"""small shark""",,N
+578,2005,south africa,M,32,Raggedtooth shark,,N
+579,2005,usa,M,47,"Tiger shark, 3 m [10']",,N
+580,2005,australia,M,25,"Mako shark, 1.5 m [5'] ",,N
+581,2005,australia,M,40,Bronze whaler shark,,N
+582,2005,south africa,M,32,4 m [13'] shark,,N
+583,2005,australia,M,26,6 m [20'] white shark,,N
+584,2005,usa,M,45,"Sandtiger shark, 2.1 m [7'] ",,N
+585,2005,new zealand,M,39,White shark,,N
+586,2004,australia,M,18,4.5 m & 5 m white shark ,,N
+587,2004,australia,M,38,Bull shark,,N
+588,2004,south africa,M,20,Raggedtooth shark,,N
+589,2004,south africa,F,77,6 m [20'] white shark,,N
+590,2004,usa,lli,38,5.5 m [18'] white shark,,N
+591,2004,cuba,M,40,2.5 m [8.25'] bull shark,,N
+592,2004,south africa,M,52,2 m [6.75'] white shark,,N
+593,2004,australia,M,59,"Bronze whaler shark, 2.4 m [8'] ",,N
+594,2004,usa,M,34,"Tiger shark, 2.4 m to 3.7 m [8' to 12'] ",,N
+595,2004,south africa,M,34,"Raggedtooth shark, 1.5 to 2 m [5' to 6.75']",,N
+596,2004,reunion,M,15,Thought to involve a 2.5 m bull or tiger shark,,N
+597,2004,usa,M,26,White shark,,N
+598,2004,usa,F,17,2.4 m [8'] shark,,N
+599,2004,brazil,M,24,"Tiger shark, 1.5 m ",,N
+600,2004,usa,M,50,4.9 m to 5.5 m [16' to 18'] white shark,,N
+601,2004,usa,M,47,1.2 m [4'] shark,,N
+602,2004,usa,F,13,1.8 m [6'] shark,,N
+603,2004,usa,F,19,1.2 m to 1.5 m [4' to 5'] shark,,N
+604,2004,usa,M,11,Bull shark,,N
+605,2004,australia,M,30,"2 sharks, 4.5 m & 3 m ",,N
+606,2004,usa,M,7,4' to 5' shark,,N
+607,2004,usa,M,45,"9'2"" white shark",,N
+608,2004,australia,M,17,"Bronze whaler shark, 2.5 m [8.25'] ",,N
+609,2004,usa,M,8,1.2 m [4'] shark,,N
+610,2004,south africa,M,21,White shark,,N
+611,2004,usa,M,16,0.9 m to 1.5 m [3' to 5'] shark,,N
+612,2004,brazil,M,17,Bull shark,,N
+613,2004,usa,M,44,2.4 m to 3.7 m [8' to 12'] shark,,N
+614,2004,bahamas,M,63,"1,5 m [5'] Caribbean reef shark (Carcharhinus  perezi)",,N
+615,2004,usa,M,28,"Mako shark, 1.8 m [6']",,N
+616,2004,usa,M,57,Tiger shark,,N
+617,2004,south africa,M,16,5 m [16.5'] white shark,,N
+618,2004,usa,M,20,1.2 m [4'] bull shark,,N
+619,2004,brazil,M,22,bull shark,,N
+620,2004,reunion,M,20,2.5 m shark,,N
+621,2004,usa,M,51,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",,N
+622,2004,new zealand,M,15,2 m [6.75'] sevengill  shark,,N
+623,2004,australia,M,31,Shark involvement not confirmed,,N
+624,2004,australia,M,46,4 m to 5 m [13' to 16.5'] white shark,,N
+625,2004,venezuela,M,40,"Bull shark, 132-kg [291-lb] ",,N
+626,2003,south africa,M,21,"Tiger shark, 4 m [13']  ?",,N
+627,2003,usa,F,35,4' shark,,N
+628,2003,usa,M,18,1.2 m to 1.5 m [4' to 5'] shark,,N
+629,2003,australia,M,22,"1.5 m [5'] shark, either a bronze whaler or a grey nurse shark",,N
+630,2003,usa,F,13,"Tiger shark, 14' ",,N
+631,2003,usa,M,56,Shark involvement not confirmed,,N
+632,2003,usa,M,19,1.2 m [4'] shark,,N
+633,2003,usa,F,41,"1.2 m [4'] ""grey-colored shark""",,N
+634,2003,usa,M,30,3' shark,,N
+635,2003,usa,F,8 or 10,Shark involvement doubtful,,N
+636,2003,usa,M,18,6' shark,,N
+637,2003,usa,M,15,7' shark,,N
+638,2003,south africa,M,19,White shark,,N
+639,2003,usa,F,50,4.5 m to 5.5 m [15' to 18'] white shark,,N
+640,2003,usa,M,31,Shark involvement not confirmed,,N
+641,2003,south africa,M,16,3.5 m [11.5'] white shark,,N
+642,2003,bahamas,M,58,Unidentified species,,N
+643,2003,usa,M,10,2' shark,,N
+644,2003,bahamas,M,39,2.1 m  [7'] bull shark,,N
+645,2003,usa,M,17,Unidentified species,,N
+646,2003,usa,M,15,106 cm [3.5']  shark,,N
+647,2003,usa,F,12,small brown shark,,N
+648,2003,usa,M,60,3.7 m to 4.3 m [12' to 14'] shark,,N
+649,2003,usa,M,33,"""sand shark""",,N
+650,2003,usa,M,22,3' to 5' shark,,N
+651,2003,usa,M,20,1.8 m [6'] reef shark - or a 2.1 m to 2.4 m [7' to 8'] grey-colored shark,,N
+652,2003,usa,M,34,4' to 5' shark,,N
+653,2003,brazil,M,17,Bull shark,,N
+654,2003,usa,M,36,Unidentified species,,N
+656,2003,usa,M,30,Unidentified species,,N
+657,2003,usa,M,23,0.9 m to 1.2 m [3' to 4'] shark,,N
+658,2003,usa,M,18,Unidentified species,,N
+659,2003,usa,M,11,A small shark,,N
+660,2003,usa,M,12,Unidentified species,,N
+661,2003,usa,M,20,"15 cm to 20 cm [6"" to 8""] bite diameter just below left knee",,N
+662,2003,venezuela,M,28,"Mako shark, 3 m [10']",,N
+663,2003,usa,M,50,4' to 5' shark,,N
+664,2003,new zealand,M,44,2.5 m [8.25'] white shark,,N
+665,2003,australia,M,37,"""a small shark""",,N
+666,2003,usa,M,54,Species unidentified,,N
+667,2003,australia,M,24,Thought to involve a 2 m [6.75'] grey nurse shark,,N
+668,2003,australia,M,84,Thought to involve a >2 m [6.75'] bull shark,,N
+669,2003,south africa,M,14,Shark involvement prior to death was not confirmed,,N
+670,2002,south africa,M,25,"White shark, 4 m white shark",,N
+671,2002,australia,M,23,Bull shark,,N
+672,2002,usa,M,48,3 m to 4.5 m [10' to 15'] white shark,,N
+673,2002,usa,F,34,2.4 m to 3 m [8' to 10'] grey colored shark,,N
+674,2002,turks & caicos,F,41,1.8 m to 2.1 m [6' to 7']  Caribbean Reef Shark ,,N
+675,2002,usa,M,21,6' shark,,N
+676,2002,usa,M,16,3' to 4' shark,,N
+677,2002,usa,F,60,A small shark,,N
+678,2002,brazil,M,36,Possibly a bull shark or tiger shark,,N
+679,2002,usa,M,14,Blacktip or spinner shark,,N
+680,2002,usa,M,35,3.5' to 4.5' shark,,N
+681,2002,usa,M,18,3.5' to 4' shark,,N
+682,2002,usa,M,47,4' to 5' shark,,N
+683,2002,usa,M,55,1.2 m [4'] blacktip shark,,N
+684,2002,usa,M,  ,1.8 m [6'] blacktip shark,,N
+685,2002,tonga,M,_,"Tiger shark, 1.5 m [5']k",,N
+686,2002,usa,M,24,2.4 m [8'] shark,,N
+687,2002,usa,M,35,3 m to 3.7 m [10' to 12'] shark,,N
+688,2002,brazil,M,19,Bull or tiger shark,,N
+689,2002,south africa,M,47,White shark,,N
+690,2002,usa,M,20,4' to 6' shark,,N
+691,2002,usa,M,36,1' to 2' hammerhead or bonnethed shark,,N
+692,2002,usa,M,16,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",,N
+693,2002,usa,M,27,0.9 m  to 1.2 m [3' to 4'] shark,,N
+694,2002,usa,M,15,"Nurse shark, 1.5 m [5'] ",,N
+695,2002,usa,M,14,1.2 m to 1.5 m [4' to 5'] shark,,N
+696,2002,usa,M,13,1.2 m [4'] blacktip or sandbar shark,,N
+697,2002,usa,F,15,"Bull shark, 1.8 m to 2.1 m [6' to 7'] ",,N
+698,2002,usa,M,41,"Mako shark, 400-lb ",,N
+699,2002,brazil,M,22,Bull or tiger shark,,N
+700,2002,usa,F,9,"1.2 m to 1.5 m [4' to 5'] shark, possibly a bull shark",,N
+701,2002,usa,M,28,0.9 m to 1.2 m [3' to 4'] shark; Tooth fragment recovered from hand,,N
+702,2002,usa,M,50,  ,,N
+703,2002,south africa,M,50,1.5 to 2.5 m [5' to 8.25'] copper shark,,N
+704,2002,usa,M,24,3.7 m to 4.3 m [12' to 14'] white shark,,N
+705,2002,usa,M,16,1 m  shark,,N
+706,2002,usa,M,55,3' blacktip shark,,N
+707,2002,australia,M,23,"White shark, 6m [20']",,N
+708,2002,usa,M,34,1.2 m [4'] shark,,N
+709,2002,bahamas,M,43,"Bull shark, 400-lb ",,N
+710,2002,usa,M,41,3'  shark,,N
+711,2002,usa,M,29,0.9 m [3'] shark,,N
+712,2002,usa,M,17,Tiger shark,,N
+713,2002,usa,F,11,  ,,N
+714,2002,usa,M,20,4' shark,,N
+715,2002,usa,M,39,"Nurse shark, 1m ",,N
+716,2002,usa,M,31,"Spinner shark, 3' to 4' ",,N
+717,2002,australia,M,30 or 36,"1.5 m [5'] ""whaler shark""",,N
+718,2002,australia,M,35,C. leucas tooth fragment recovered from kayak,,N
+719,2002,australia,M,20,"Tiger shark, 3 m [10']",,N
+720,2002,south africa,M,16,Zambesi shark?,,N
+721,2002,south africa,M,26,Unidentified,,N
+722,2002,usa,M,35,"Tiger shark, 1.8 m [6'] ",,N
+723,2001,australia,F,20,Bronze whaler shark?,,N
+724,2001,mexico,M,26,"Tiger shark, 1.8 m [6']",,N
+725,2001,usa,M,21,4' shark,,N
+726,2001,usa,M,42,Questionable incident - shark bite may have precipitated drowning,,N
+727,2001,usa,M,6½,2' to 3.5' shark,,N
+728,2001,usa,M,28,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,,N
+729,2001,usa,F,23,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,,N
+730,2001,usa,M,20,1.5 m [5'] shark,,N
+731,2001,usa,M,10,bull shark,,N
+732,2001,bahamas,M,44,3 m [10'] bull shark,,N
+733,2001,usa,M,17,a small shark,,N
+734,2001,usa,M,20,Possibly  a blacktip or spinner shark,,N
+735,2001,usa,M,19,"3' shark, possibly  a blacktip or spinner shark",,N
+736,2001,usa,M,19,"Blacktip shark, 5' to 6' ",,N
+737,2001,bahamas,M,43,1.9 m [6.5'] bull shark,,N
+738,2001,usa,M,18,0.9 m  [3'] shark,,N
+739,2001,usa,M,8,"Bull shark, 2.3 m [7.5'] ",,N
+740,2001,usa,M,52,"White shark, 2.4 m to 3 m [8' to 10'] ",,N
+741,2001,usa,F,29,2' shark,,N
+742,2001,usa,M,45,1.2 m to 1.5 m [4' to 5'] shark,,N
+743,2001,usa,M,12,Possibly a juvenile blacktip or spinner shark,,N
+744,2001,usa,M,21,Possibly a juvenile blacktip or spinner shark,,N
+746,2001,usa,M,22,Possibly a 1.5 m [5'] blacktip or spinner shark,,N
+747,2001,usa,M,19,Possibly a juvenile blacktip or spinner shark,,N
+748,2001,south africa,M,46,"White shark, 2.7 m [9'] ",,N
+749,2001,usa,M,26,"""small shark""",,N
+750,2001,australia,M,40,Bronze whaler shark,,N
+751,2001,australia,M,40,"Bronze whaler shark, 2.5 m [8.25']  k",,N
+752,2000,fiji,M,47,6 m [20'] shark,,N
+753,2000,australia,M,38,"Bronze whaler shark, 2.5 m [8.25'] ",,N
+754,2000,usa,M,73,1.2 m to 1.8 m [4' to 6'] shark,,N
+755,2000,australia,M,52,"White shark, 4.9 m [16'] ",,N
+756,2000,australia,M,49,"White shark, 5 m [16.5'] ",,N
+757,2000,usa,M,27,"White shark, 2.4 m to 3 m [8' to 10'] ",,N
+758,2000,usa,F,56,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",,N
+759,2000,usa,M,17,2.1 to 2.4 m [7' to 8'] shark,,N
+760,2000,usa,M,23,"Blacktip shark, 2' ",,N
+761,2000,australia,M,17,White shark,,N
+762,2000,australia,M,25,"White shark, 4 m to 5 m [13' to 16.5'] ",,N
+763,2000,okinawa,M,31,"White shark, 2.5 m ",,N
+764,2000,usa,M,25,60 cm to 90 cm [2' to 3'] shark,,N
+765,2000,south africa,M,48,"White shark, 3.5 m [11.5']  male ",,N
+766,2000,usa,M,40,1.5 m [5'] shark,,N
+767,2000,reunion,M,27,"Tiger shark, 3 m [10'] ",,N
+768,2000,usa,M,47,A 2' shark was seen in the area by witnesses,,N
+769,2000,usa,M,69,"Thought to involve a 2.7 m [9'], 400-lb bull shark",,N
+770,2000,usa,M,53,"Tiger shark, 3.7 m to 4.5 m [12' to 14'9""]  ",,N
+771,2000,usa,M,27,juvenile shark,,N
+772,2000,usa,F,44,"Blacktip shark, 2.4 m to 3 m [8' to 10'] ",,N
+773,2000,usa,F,12,"Tiger shark, 0.9 m to 1.5 m [3' to 5'] ?",,N
+774,2000,usa,F,55,"Nurse shark, 1.2 m [4'] ",,N
+775,2000,usa,F,13,0.9 m [3'] shark,,N
+776,2000,usa,F,19,"0.9 m [3'] shark,  probably a blacktip or spinner shark",,N
+777,2000,usa,M,17,"Blacktip shark, 1.2 m to 1.8 m [4' to 6'] ",,N
+778,2000,usa,M,55,Bull shark?,,N
+779,2000,usa,M,44,Bull shark,,N
+780,2000,australia,M,26,2.5 m shark,,N
+781,2000,usa,F,14,1.8 m [6'] shark,,N
+782,2000,usa,M,37,1.2 m [4'] shark,,N
+783,2000,new caledonia,M,35,Tiger shark?,,N
+784,2000,usa,M,39,"Shortfin mako shark, 3 m to 3.4 m [10' to 11'] ",,N
+785,1999,brazil,M,39,Shark involvement not confirmed,,N
+786,1999,usa,F,51,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",,N
+787,1999,brazil,M,39,1.3 to 1.6 m shark,,N
+788,1999,usa,M,16,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",,N
+789,1999,usa,M,37,White shark,,N
+790,1999,usa,M,28,"""a small shark""",,N
+791,1999,marshall islands,M,23,7' shark,,N
+792,1999,usa,M,10,1.8 m [6'] shark,,N
+793,1999,usa,M,62,4' to 5' shark,,N
+794,1999,bahamas,M,35,2.7 m [9']  bull shark or Caribbean reef shark,,N
+795,1999,south africa,M,42,"White shark, 3 m to 5 m [10' to 16.5'] ",,N
+796,1999,usa,M,43,"Bull shark, 2.1 m [7']",,N
+797,1999,usa,M,43,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",,N
+798,1999,south africa,M,14,White shark,,N
+799,1999,usa,F,30,"Blacktip shark, 1.8 m [6'] ",,N
+800,1999,south africa,M,29,"White shark, 4 m [13'] ",,N
+801,1999,usa,M,21,3' to 4' shark,,N
+802,1999,usa,M,5,Blacktip or spinner shark,,N
+803,1999,australia,M,22,Thought to involve a white shark,,N
+804,1999,brazil,M,21,"Tiger shark, 2.5 m [8.25']",,N
+805,1999,mauritius,F,41,"Grey reef shark, 1.5 m ",,N
+806,1999,reunion,M,52,3 bull sharks,,N
+807,1999,usa,F,29,3.7 m to 4.6 m [12' to 15'] shark seen in the vicinity,,N
+808,1999,australia,M,35,Bronze whaler or tiger shark,,N
+809,1999,usa,M,25,Spinner shark,,N
+810,1999,south africa,M,30,"White shark, 4.6 m [15'] ",,N
+811,1998,south africa,M,18,Possibly a white shark,,N
+812,1998,usa,M,9,Tiger shark,,N
+813,1998,usa,M,14,1.2 m [4'] shark,,N
+814,1998,usa,M,13,"A ""small shark""",,N
+815,1998,brazil,M,22,Though to involve a white shark,,N
+816,1998,usa,M,26,3' to 4' shark,,N
+817,1998,usa,M,16,"White shark, 5 m to 6 m [16.5' to 20'] ",,N
+818,1998,bahamas,M,28,"Caribbean reef shark, 1.2 m to 1.5 m [4' to 5'] ",,N
+819,1998,south africa,M,24,"White shark, 4.9 m [16']",,N
+820,1998,south africa,M,16,5' to 6' shark,,N
+821,1998,australia,M,26,Thought to involve a 5.5 m white shark named Kong,,N
+822,1998,south africa,M,20,White shark,,N
+823,1998,south africa,M,15,3 m to 4 m [10' to 13'] white shark,,N
+824,1998,south africa,M,16,Unidentified,,N
+825,1998,usa,M,40,"Lemon shark, 1.5 m [5'], identified  by the surfer",,N
+826,1998,usa,F,14,"1.8 m [6'] shark, possibly a blacktip",,N
+827,1998,south africa,M,22,4 m [13'] white shark,,N
+828,1998,mozambique,F,35,3 m [10'] shark,,N
+829,1998,usa,M,50,5 m [16.5'] white shark,,N
+830,1998,south africa,M,33,3 m [10'] white shark,,N
+831,1998,usa,M,32,5' spinner shark,,N
+832,1998,australia,M,31,Shark involvement not confirmed,,N
+833,1998,mozambique,M,23,Small dusky shark or blackfin shark,,N
+834,1997,south africa,M,39,White shark,,N
+835,1997,australia,M,42,White shark,,N
+836,1997,usa,M,19,"Tiger shark, 4 m to 4.3 m [13' to 14'] ",,N
+837,1997,usa,M,23,Possibly a blacktip shark,,N
+838,1997,usa,M,12,1.2 m to 1.5 m [4' to 5'] shark,,N
+839,1997,usa,M,29,5 m [16.5'] white shark,,N
+840,1997,usa,M,17,juvenile shark,,N
+841,1997,usa,M,19,"""juvenile shark""",,N
+842,1997,south africa,M,25,4.5 m white shark,,N
+843,1997,usa,M,50,Blacktip shark,,N
+844,1997,fiji,F,47,"Tiger shark, 2.7m  [9']",,N
+845,1997,usa,M,18,Possibly a spinner shark,,N
+846,1997,usa,M,33,1.2 m [4'] shark (spinner shark?),,N
+847,1997,usa,M,35,4' shark,,N
+848,1997,usa,M,34,Possibly a sand shark,,N
+849,1997,usa,M,12,Possibly a sand shark,,N
+850,1997,australia,M, 30,"Tiger shark, 2m to 3m ",,N
+851,1997,australia,M,27,1.8 m to 2.1 m [6' to 7'] shark,,N
+852,1997,australia,M,41,"Tiger shark, 4.5 m [14'9""]",,N
+853,1996,usa,M,45,3 m to 5 m [10' to 16.5'] white shark,,N
+854,1996,usa,M,22,5.5 m to 6 m [18' to 20'] white shark,,N
+855,1996,usa,M,21,1.2 m [4'] shark,,N
+856,1996,usa,M,31,5 m [16.5'] white shark,,N
+857,1996,new zealand,M,23,White shark,,N
+858,1996,usa,M,19,"""a young shark""",,N
+859,1996,usa,F,28,Shark involvement not confirmed,,N
+860,1996,south africa,M,29,White shark,,N
+861,1996,usa,M,19,"Tiger shark, 2.4 m [8'] ",,N
+862,1996,usa,M,36,6 m [20'] white shark,,N
+863,1996,usa,M,21,1.8 m to 2.1 m [6' to 7'] hammerhead shark,,N
+864,1996,usa,F,63,5' to 6' shark,,N
+865,1996,south africa,M,17,2.5 m [8.25'] white shark ,,N
+866,1996,usa,M,22,1.2 m [4'] shark,,N
+867,1996,usa,M,27,60 cm to 90 cm [2' to 3'] blacktip or spinner shark,,N
+868,1996,australia,F,47,Tiger shark,,N
+869,1996,australia,M,24,Bronze whaler shark,,N
+870,1996,australia,M,7,"""reef shark""",,N
+871,1996,usa,M,53,Possibly a tiger shark,,N
+872,1996,reunion,M,25,"Tiger shark, 300-kg [662-lb] ",,N
+873,1995,australia,F,15,4 m shark,,N
+874,1995,usa,M,39,1.2 m to 1.5 m [4' to 5']   shark,,N
+875,1995,usa,M,14,1.5 to 1.8 m [5' to 6'] shark,,N
+876,1995,usa,M,25,4 m [13'] white shark,,N
+877,1995,australia,M,29,White shark,,N
+878,1995,usa,M,32,3 m to 4 m [10' to 13'] white shark,,N
+879,1995,usa,M,16,5' shark,,N
+880,1995,usa,M,18,"""a small shark""",,N
+881,1995,usa,M,16,1.2 m to 1.5 m [4' to 5'] shark,,N
+882,1995,usa,M,23,"""sand"" shark",,N
+883,1995,usa,M,19,"""small shark""",,N
+884,1995,tonga,M,18,"""small shark""",,N
+885,1995,usa,M,20,1.8 m [6'] shark,,N
+886,1995,usa,M,12,1.2 m to 1.5 m [4' to 5'] shark,,N
+887,1995,usa,M,31,6 m [20'] white shark,,N
+888,1995,usa,M,45,1.8 m [6'] shark,,N
+889,1995,usa,F,10,6' shark,,N
+890,1995,usa,M,38,"Tiger shark, 3.7 m [12'] ",,N
+891,1995,hong kong,M,29,1.8 m to 2.1 m [6' to 7'] shark,,N
+892,1995,japan,M,47,6 m [20'] white shark,,N
+893,1995,australia,M,35,"Bronze whaler shark, 2 m ",,N
+894,1995,south africa,M,22,Raggedtooth shark,,N
+895,1995,south africa,M,14,"Tiger shark, 1.8 m [6'] ",,N
+896,1994,south africa,M,26,5.5 m [18'] white shark,,N
+897,1994,usa,M,42,5 m to 5.5 m [16.5' to 18'] white shark,,N
+898,1994,usa,F,34,2.7 m [9'] shark,,N
+899,1994,usa,F,9,Thought to involve a small sand shark,,N
+900,1994,usa,M,43,5 m [16.5'] white shark,,N
+901,1994,usa,F,12,Small shark,,N
+902,1994,reunion,M,24,3 to 3.5 m [10' to 11.5'] bull shark,,N
+903,1994,south africa,M,22,4 m [13'] white shark,,N
+904,1994,south africa,M,31,4 m [13'] white shark,,N
+905,1994,usa,M,15,"""small shark""",,N
+906,1994,bahamas,M,30,1.8 m [6'] shark,,N
+907,1994,usa,M, 28,1.2 m [4'] spinner shark,,N
+908,1994,usa,M,22,>1.8 m [6'] shark,,N
+909,1994,usa,M,23,1.2 m [4'] shark,,N
+910,1994,south africa,M,15,3 m [10'] white shark,,N
+911,1994,south africa,M,33,"1.3 m [4'3""] shark",,N
+912,1993,australia,M,27,Tiger shark caught 6 days later with divers remains in its gut,,N
+913,1993,usa,M,26,4 m to 5 m [13' to 16.5'] white shark,,N
+914,1993,usa,F,26,3 m [10'] bull shark,,N
+915,1993,usa,F,34,>6 m [20'] white shark,,N
+916,1993,south africa,M,36,3 m [10'] white shark,,N
+917,1993,spain,M,69,1.2 m [4'] shark,,N
+918,1993,bahamas,M,51,1.8 m [6'] blacktip shark or Caribbean reef shark,,N
+919,1993,usa,F,19,Bull shark,,N
+920,1993,usa,M,39,5.5 m to 6 m [18' to 20']  white shark,,N
+921,1993,south africa,M,28,4 m [13'] white shark,,N
+922,1993,usa,F,12,"1.8 m to 2.4 m [6' to 8'] shark, tooth fragments recovered ",,N
+923,1993,usa,M,22,Thought to involve a tiger shark,,N
+924,1993,australia,M,31,Remains recovered from 5.5 m [18'] white shark,,N
+925,1993,australia,F,34,5 m [16.5'] white shark,,N
+926,1993,usa,F,60's,6' shark,,N
+927,1993,usa,M,35,"Tiger shark, 3.7 m [12'], (tooth fragment recovered from wound)",,N
+928,1993,usa,M,55,White shark,,N
+929,1993,australia,M,69,"Bronze whaler shark, 1.5 m ",,N
+930,1993,australia,M,21,1.5 m shark,,N
+931,1993,usa,M,29,6 m [20'] white shark,,N
+932,1992,usa,M,10,"Tiger shark, 2.4 m [8']",,N
+933,1992,usa,M,30,"Tiger shark, 3 m to 4.9 m [10' to 16'] ",,N
+934,1992,usa,M,31,"Mako shark, 1.8 m [6']  ",,N
+935,1992,usa,M,19,6' to 7' blacktip shark,,N
+936,1992,usa,M,46,5 m to 6 m white shark,,N
+937,1992,usa,M,40,Unidentified shark,,N
+938,1992,usa,M,18,"Tiger shark, 3 m to 3.7 m [10' to 12'] ",,N
+939,1992,usa,M,40,2.5 m [8.25'] white shark,,N
+940,1992,usa,M,28,"Tiger shark, 4.3 m [14'] ",,N
+941,1992,australia,M,28,4.2 m white shark,,N
+942,1992,usa,M,20,4 m to 5 m [13' to 16.5']  white shark ,,N
+943,1992,australia,M,17,4 m white shark,,N
+944,1992,usa,M,22,5.5 m to 6 m [18' to 20'] white shark,,N
+945,1992,usa,F,42,"""a small shark""",,N
+946,1992,reunion,M,16,Bull shark or lemon shark,,N
+947,1992,south africa,M,35,>2 m shark,,N
+948,1992,usa,F,36,Tiger shark,,N
+949,1992,japan,M,41,"5 m [16.5'] white shark, identification by K. Nakaya",,N
+950,1992,usa,M,21,Said to involve a 6 m to 7 m [20' to 23'] white shark,,N
+951,1992,australia,M,19,Questionable incident,,N
+952,1992,australia,M,19,"Bronze whaler shark, 2.3 m [7.5'] ",,N
+953,1992,south africa,M,19,"Zambesi shark, 1.7 m [5.5'] ",,N
+954,1992,south africa,M,36,Possibly a 1.5 m [5'] blacktip shark,,N
+955,1991,usa,M,25,6 m [20'] white shark,,N
+956,1991,usa,F,41,"Tiger shark, 2.4 m 3.4 m [8' to 11']  ",,N
+957,1991,usa,M,21,1.8 m [6'] shark,,N
+958,1991,usa,M,32,5 m to 6 m [16.5' to 20'] white shark,,N
+959,1991,australia,M,19,4 m [13'] white shark,,N
+960,1991,australia,M,36,"3 m [10'], 270- kg [595-lb] shark",,N
+961,1991,usa,M,23,sand shark,,N
+962,1991,usa,F,10,3' shark,,N
+963,1991,italy,F,40,4 m [13'] white shark,,N
+964,1991,reunion,M,30,"Tiger shark, 3 to 4 m [10' to 13'] ",,N
+965,1991,usa,M,32,5 m [16.5'] white shark,,N
+966,1991,usa,M,31,2.7 m [9'] bull or lemon shark,,N
+967,1991,hong kong,F,65,"Tiger shark, >3 m [10']",,N
+968,1991,usa,M,23,2.4 m [8'] shark,,N
+969,1991,usa,M,22,1.2 m to 1.5 m [4' to 5'] shark,,N
+970,1991,usa,M,38,5.5 m [18'] white shark,,N
+971,1991,south africa,M,20,5.5 m [18'] white shark,,N
+972,1990,usa,M,24,5' shark,,N
+973,1990,usa,M,50,1.8 m [6'] shark ,,N
+974,1990,usa,M,25,4' spinner shark,,N
+975,1990,usa,M,43,"Tiger shark, 3.7 m [12'] ",,N
+976,1990,usa,M,19,1.8 m to 2.4 m [6' to 8'] shark,,N
+977,1990,south africa,M,26,5 m  [16.5'] white shark,,N
+978,1990,usa,M,49,White shark,,N
+979,1990,usa,M,44,2.5 m to 3 m [8.25' to 10']  white shark,,N
+980,1990,usa,M,22,5 m to 6 m [16.5' to 20'] white shark,,N
+981,1990,south africa,F,21,"4.5 m [14'9""] white shark",,N
+982,1990,south africa,M,22,"5.5 m [18'] white shark, identified by witnesses & tooth marks",,N
+983,1990,south africa,M,23,"2.3 m [7.5'] white shark, identified by M. Smale",,N
+984,1990,australia,M,31,"Tiger shark, 3 m ",,N
+985,1989,south africa,M,29,White shark,,N
+986,1989,australia,M,17,2.7 m [9'] white shark,,N
+987,1989,usa,M,12,4' shark,,N
+988,1989,usa,M,49,Shark involvement suspected but not confirmed,,N
+989,1989,south africa,M,29,"White shark, identified by tooth pattern",,N
+990,1989,usa,M,51,150-lb shark,,N
+991,1989,usa,M,38,4 m to 5 m [13' to 16.5']  white shark,,N
+992,1989,australia,M,30,Grey nurse shark,,N
+993,1989,south africa,M,21,>3.4 m [11'] white shark,,N
+994,1989,australia,M,17,"Bronze whaler shark, 3 m [10'] ",,N
+995,1989,south africa,M,34,2.5 m [8.25'] white shark,,N
+996,1989,south africa,M,16,3 m [10'] white shark,,N
+997,1989,south africa,M,28,2.5 m [8.25'] white shark,,N
+998,1989,australia,M,27,2 m [6.75'] white shark,,N
+999,1989,italy,M,47,6 m [20'] white shark,,N
+1000,1989,usa,M,24,Invalid,,N
+1001,1989,usa,F,24,5 m [16.5'] white shark,,N
+1002,1989,australia,M,17,"Tiger shark, 4 m [13'] ",,N
+1003,1988,usa,M,21,5.5 m to 6 m [18' to 20']  white shark,,N
+1004,1988,usa,M,30,1.2 m to 1.5 m [4' to 5'] shark,,N
+1005,1988,usa,M,23,1.2 m to 1.5 m [4' to 5'] shark,,N
+1006,1988,usa,M,21,5' shark,,N
+1007,1988,usa,M,38,3 m [10'] bull shark,,N
+1008,1988,usa,M,27,2.4 m to 3 m [8' to 10'] white shark,,N
+1009,1988,south africa,M,36,White shark,,N
+1010,1988,usa,M,37,Sand shark?,,N
+1011,1988,usa,M,25,1.8 m to 2.4 m [6' to 8'] shark,,N
+1012,1988,south africa,M,17,1.5 m to 2 m [5' to 6.75'] shark,,N
+1013,1988,south africa,M,20,"1 m ""grey-colored"" shark",,N
+1014,1988,south africa,F,15,Zambezi shark (tooth fragments recovered),,N
+1015,1988,south africa,M,22,Shark involvement not confirmed,,N
+1016,1988,south africa,M,33,1.5 m copper shark,,N
+1017,1987,usa,M,16,1.8 m [6'] blacktip shark,,N
+1018,1987,usa,M,20,2 m [6.75'] shark,,N
+1019,1987,south africa,M,14,Questionable incident,,N
+1020,1987,south africa,M,21,White shark,,N
+1021,1987,south africa,M,24,3.5 m [11.5']  white shark,,N
+1022,1987,usa,M,12,1.2 m to 1.5 m [4' to 5'] shark,,N
+1023,1987,usa,M,40,5.7 m white shark,,N
+1024,1987,usa,M,27,3' to 4' shark,,N
+1025,1987,usa,F,32,4' shark,,N
+1026,1987,usa,F,16,4' shark,,N
+1027,1987,vanuatu,M,8,4.3 m shark,,N
+1028,1987,south africa,M,30,>2.5 m [8.25'] white shark,,N
+1029,1986,south africa,M,21,3 m [10'] white shark,,N
+1030,1986,usa,M,40,1.8 m to 2.1 m [6' to 7'] spinner or blacktip shark,,N
+1031,1986,usa,M,27,5 m to 6 m [16.5' to 20'] white shark,,N
+1032,1986,usa,F,6,"Lemon shark, 1.8 m to 2.4 m [6' to 8'], tooth fragment recovered",,N
+1033,1986,south africa,M,32,1.6 m shark,,N
+1034,1986,south africa,M,35,Invalid,,N
+1035,1986,south africa,M,26,1.2 m [4'] dusky shark,,N
+1036,1986,south africa,M,26,>1 m shark,,N
+1037,1986,south africa,M,21,>2.4 m [8'] white shark,,N
+1038,1986,south africa,M,46,Raggedtooth shark,,N
+1039,1986,south africa,M,29,"Raggedtooth shark, 2 m [6.75'] ",,N
+1040,1986,australia,M,29,"Bronze whaler shark, 3.5 m ",,N
+1041,1986,usa,M,22,Blacktip shark,,N
+1042,1986,usa,M,16,1.5 m [5'] shark,,N
+1043,1985,south africa,M,22,2.5 m [8.25'] white shark,,N
+1044,1985,usa,M,46,2 m to 2.5 m [6.75'  to 8.25'] sixgill or sevengill shark,,N
+1045,1985,usa,M,17,Invalid,,N
+1046,1985,usa,M,11,Shark involvement not confirmed,,N
+1047,1985,usa,M,67,Shark involvement prior to death not confirmed,,N
+1048,1985,usa,F,13,Possibly a small hammerhead shark,,N
+1049,1985,italy,M,13,"3 m to 3.6 m  [10' to 11'9""] white shark",,N
+1050,1985,australia,F,33,6 m [20'] white shark,,N
+1051,1985,usa,M,29,6 m [20'] white shark,,N
+1052,1985,south africa,M,15,Raggedtooth shark,,N
+1053,1985,south africa,M,18,"3.5 m white shark, tooth fragments recovered",,N
+1054,1985,south africa,M,34,3.5 m [11.5'] white shark,,N
+1055,1985,south africa,M,20,1.5 m [5'] dusky shark,,N
+1056,1984,australia,M,16,"Tiger shark, 4 m ",,N
+1057,1984,usa,M,22,Shark involvement prior to death was not confirmed,,N
+1058,1984,usa,F,23,1.5 m [5'] shark,,N
+1059,1984,usa,F,77,Shark involvement not confirmed; officials considered barracua,,N
+1060,1984,usa,M,15,1.2 m [4'] blacktip shark,,N
+1061,1984,usa,M,25,3 m to 5 m [10' to 16.5'] white shark,,N
+1062,1984,usa,M,16,Hammerhead shark?+O2356,,N
+1063,1984,usa,M,28,4.5 m to 5 m white shark,,N
+1064,1984,usa,F,18,1.2 m [4'] shark,,N
+1065,1984,south africa,M,21,Shark involvement prior to death was not confirmed,,N
+1066,1984,south africa,M,27,2.4 m [8'] white shark,,N
+1067,1984,usa,F,13,1.2 m to 1.5 m [4' to 5'] hammerhead shark,,N
+1068,1984,south africa,M,33, 1.5 m [5'] dusky shark,,N
+1069,1984,south africa,M,14,"Raggedtooth shark, 1 m ",,N
+1070,1983,south africa,M,47,"Raggedtooth shark, >1 m ",,N
+1071,1983,south africa,M,29,5 m [16.5'] white shark,,N
+1072,1983,usa,F,14,Sand shark,,N
+1073,1983,usa,F,22,6' to 8' bull shark,,N
+1074,1983,australia,F,21,"Tiger shark, 5 m [16.5']",,N
+1075,1983,australia,M,24,"Tiger shark, 5 m [16.5']",,N
+1076,1983,australia,M,28,"Tiger shark, 5 m [16.5']",,N
+1077,1983,usa,F,39,3.5' hammerhead shark,,N
+1078,1983,usa,M,21,6' shark,,N
+1079,1983,south africa,M,27,"Raggedtooth shark, 1.5 m [5'] (tooth fragment recovered)",,N
+1080,1983,south africa,M,17,1.8 m [6'] Zambezi shark,,N
+1081,1983,south africa,M,16,3 m [10'] shark,,N
+1082,1983,south africa,M,32,White shark,,N
+1083,1982,usa,M,26,1.5 m [5'] shark,,N
+1084,1982,south africa,M,16,"Believed to involve a 2.8 m [9'3""] white shark",,N
+1085,1982,usa,M,20,1.5 m [5'] shark,,N
+1086,1982,usa,M,36,White shark,,N
+1087,1982,usa,M,28,5 m to 6 m [16.5' to 20'] white shark,,N
+1088,1982,usa,M,17,Questionable incident; reported as shark attack but thought to involve a pinniped instead ,,N
+1089,1982,south africa,M,20,Invalid,,N
+1090,1982,south africa,M,38,"2.4 m [8'] white shark, species identity confirmed by tooth fragment",,N
+1091,1982,usa,M,26,4.5 m to 5.5 m [14.7' to 18'] white shark,,N
+1092,1982,usa,M,17,0.9 m to 1.2 m [3' to 4'] shark,,N
+1093,1982,south africa,M,27,"2.4 m [8'] white shark, species identity confirmed by witnesses & tooth pattern in surfboard",,N
+1094,1982,usa,M,20,5' shark,,N
+1095,1982,south africa,M,20,Raggedtooth shark,,N
+1096,1981,usa,M,24,7 m [23'] white shark,,N
+1097,1981,usa,M,19,1.8 m to 2.4 m [6' to 8'] shark,,N
+1098,1981,usa,M,26,Said to involve a tiger shark or a hammerhead shark,,N
+1099,1981,bahamas,M,53,Mako shark (tooth fragments recovered),,N
+1100,1981,south africa,M,32,Possibly a  1.8 m [6'] Zambezi shark,,N
+1101,1981,south korea,F,27,6 m  white shark,,N
+1102,1981,south africa,M,27,Raggedtooth shark,,N
+1103,1981,south africa,M,19,"Raggedtooth shark, 2.5 m [8.25'] ",,N
+1104,1981,south africa,M,24,"Tiger shark, 2.1 m [7']",,N
+1105,1981,usa,M,19,"1.2 m to 1.5 m [4' to 5'] bull, sandbar or dusky shark",,N
+1106,1981,usa,M,24,C. maculpinnis or C. limbatus,,N
+1107,1981,south africa,M,30,Juvenile dusky or blacktip shark,,N
+1108,1981,usa,M,15,1.8 m to 2.4 m [6' to 8'] hammerhead shark,,N
+1109,1981,australia,M,27,"Tiger shark, 2.5 m ",,N
+1110,1980,south africa,M,25,3.5 m [11.5'] shark,,N
+1111,1980,reunion,M,22,1.8 m [6'] white shark,,N
+1112,1980,usa,M,29,4 m to 5 m [13' to 16.5'] white shark,,N
+1113,1980,usa,M,19,4 m to 5 m [13' to 16.5'] white shark,,N
+1114,1980,usa,F,22,4' to 8' shark,,N
+1115,1980,south africa,M,22,1.8 m [6'] shark,,N
+1116,1980,mexico,F,13,Tiger shark,,N
+1117,1980,south africa,M,24,"2.8 m [9'3""] white shark",,N
+1118,1980,south africa,M,29,"2 m [6'9""] Zambesi shark",,N
+1119,1980,south africa,M,25,"Raggedtooth shark, 2 m [6'9""] ",,N
+1120,1980,south africa,M,20,Invalid,,N
+1121,1979,usa,M,20,"White shark, 4 m [13'] ",,N
+1122,1979,south africa,M,25,"White shark, 2.5 m [8.25']  ",,N
+1123,1979,usa,M,27,Blacktip or spinner shark,,N
+1124,1979,south africa,M,19,1.5 m to 2 m [5' to 6.75'] shark,,N
+1125,1978,south africa,M,23,"White shark, 2.3 m [7.5'], tooth fragment recovered",,N
+1126,1978,south africa,M,27,"White shark, 3.7 m [12'] ",,N
+1127,1978,south africa,M,17,Thought to involve a blacktip shark,,N
+1128,1977,south africa,M,18,"Tiger shark, 3 m [10']",,N
+1129,1977,south africa,M,25,"White shark, 5 m [16.5'] ",,N
+1130,1977,australia,M,17,White shark,,N
+1131,1977,usa,M,20,"White shark, 5.5 m to 6 m [18' to 20']  ",,N
+1132,1977,usa,M,27,"Bull shark, 8",,N
+1133,1976,usa,M,29,"White shark, 5.5 m [18'] ",,N
+1134,1976,south africa,M,19,"White shark, 3 m [10'] k",,N
+1135,1976,usa,M,19,2.1 m [7'] lemon shark or bull shark,,N
+1136,1976,usa,M,25,"White shark, 3 m to 4 m [10' to 13'] ",,N
+1137,1976,south africa,M,20,"White shark, 3.5 m [11.5'], species identity confirmed by tooth fragment",,N
+1138,1976,usa,M,15,"Tiger shark, 6' ",,N
+1139,1976,usa,M,19,"White shark, 4.5 m ",,N
+1140,1976,usa,M,17,12' to 14' shark,,N
+1141,1975,usa,M,27,White shark,,N
+1142,1975,south africa,M,33,Juvenile dusky shark,,N
+1143,1975,south africa,M,19,"White shark, 2.4 m [8']",,N
+1144,1975,usa,M,20,1.5 m [5'] shark,,N
+1145,1975,usa,M,44,White shark,,N
+1146,1975,australia,M,37,White shark,,N
+1147,1975,usa,M,23,"White shark, 5.8 m [19'] ",,N
+1148,1975,usa,M,34,"White shark, 5m to 6m",,N
+1149,1975,usa,F,14,1.2 m [4'] shark,,N
+1150,1975,usa,M,18,4' shark,,N
+1151,1975,south africa,M,16,1.5 m [5'] shark,,N
+1152,1975,australia,M,12,"White shark, 3 m [10'] ",,N
+1153,1974,usa,M,17,"White shark, 5.5 m to 6 m [18' to 20'] ",,N
+1154,1974,usa,M,29,"White shark, 4 m to 5 m ",,N
+1155,1974,israel,F,20,"Shortfin mako shark, 2.3 m [7.5'] ",,N
+1156,1974,usa,M,41,"White shark, 5 m to 6 m [16.5 to 20'] ",,N
+1157,1974,usa,M,48,"White shark, 5 m to 6 m [16.5 to 20'] ",,N
+1158,1974,usa,M,24,"White shark, 4.5 m ",,N
+1159,1974,usa,M,45,"White shark, 5 m [16.5']",,N
+1160,1974,south africa,M,22,"Raggedtooth shark, 1.5 m [5'] ",,N
+1161,1974,south africa,M,17,Juvenile dusky shark,,N
+1162,1974,south africa,M,21,1.8 m [6'] shark,,N
+1163,1974,south africa,M,33,2 m to 2.5 m [6.75'  to 8.25'] shark,,N
+1164,1973,bahamas,M,11,7' to 8' bull shark,,N
+1165,1973,mexico,M,37,White shark,,N
+1166,1973,south africa,M,26,"2 m shark, possibly a dusky or blacktip shark",,N
+1167,1972,mozambique,M,25,2 m to 3 m shark,,N
+1168,1972,usa,M,22,4.5' shark,,N
+1169,1972,usa,M,32,"White shark, 4.4 m to 5 m [14.5' to 16.5'] ",,N
+1170,1972,australia,M,18,7' shark,,N
+1171,1972,south africa,F,30,Zambesi shark,,N
+1172,1972,mozambique,M,24,"White shark, 2.5 m [8.25'] ",,N
+1173,1971,south africa,F,16,"White shark, 3 m [10']rk",,N
+1174,1971,usa,M,18,5' to 6' shark,,N
+1175,1971,south africa,M,25,1.5 m to 2 m shark,,N
+1176,1971,usa,M,30,"White shark, 5 m to 6 m [16.5' to 20']  ",,N
+1177,1971,croatia,M,34,White shark,,N
+1178,1971,australia,M,26,"Grey nurse shark, 11'",,N
+1179,1971,south africa,M,21,"White shark, 3 m [10'], species identity confirmed by witnesses & tooth pattern in leg & board ",,N
+1180,1971,south africa,M,>50,White shark according to tooth pattern and witnesses,,N
+1181,1971,new zealand,M,16,"White shark, 4.6 m [15'] ",,N
+1182,1970,micronesia,M,43,1.8 to 2 m C. albimarginatus,,N
+1183,1970,south africa,M,25,"Raggedtooth shark, 2 m [6'9""], 5-year-old, captive female ",,N
+1184,1969,usa,M,53,"White shark, 4.3 m 4.9 m [14' to 16'] ",,N
+1185,1969,usa,M,13,4' shark,,N
+1186,1969,usa,M,23,Nurse shark,,N
+1187,1969,usa,M,16,"White shark, identified by tooth fragments in surfboard",,N
+1188,1969,australia,M,49,7-gill shark,,N
+1189,1968,australia,M,27,"Grey nurse shark, 10' ",,N
+1190,1968,new zealand,M,17,White shark,,N
+1191,1968,new zealand,M,24,"White shark, 4.3 m [14'], (tooth fragment recovered)",,N
+1192,1968,columbia,M,18,2 m shark,,N
+1193,1968,usa,M,25,"White shark, 4 m [13'] ",,N
+1194,1968,usa,M,33,4m [13'] shark,,N
+1195,1968,usa,M,63,Shark involvement not confirmed,,N
+1196,1968,south africa,M,35,1.5 m to 1.8m [5' to 6'] shark,,N
+1197,1968,usa,M,28,Invalid,,N
+1198,1968,australia,M,26,"Bronze whaler shark, 3 m [10'] ",,N
+1199,1967,south africa,M,22,1.5 m to 1.8 m [5' to 6'] shark,,N
+1200,1967,usa,M,19,small blacktip shark,,N
+1201,1967,usa,M,24,5' blue shark,,N
+1202,1967,australia,M,23,White shark,,N
+1203,1967,australia,M,? & 19,Shark involvement prior to death was not confirmed,,N
+1204,1967,usa,M,15,"Nurse shark, 106 cm, 28-lb, male ",,N
+1205,1967,bahamas,M,41,1.5 m to 1.8 m [5' to 6'] sandbar shark,,N
+1206,1967,usa,M,26,"Nurse shark, 1 m ",,N
+1207,1967,south africa,M,32,"White shark, 3 m [10'] ",,N
+1208,1967,australia,M,36,Grey nurse shark,,N
+1209,1967,new zealand,M,21,Thought to involve a white shark,,N
+1210,1966,papua new guinea,F,13,3.7 m [12'] shark,,N
+1211,1966,papua new guinea,F,8,3.7 m [12'] shark,,N
+1212,1966,australia,M,32,"Bronze whaler shark, 2.1 m [7'], a tooth was embedded in the speargun ",,N
+1213,1966,australia,M,43,"Mako shark, 1.9 m [6.5'] ",,N
+1214,1966,new britain,F,13,A pack of 6 sharks,,N
+1215,1966,new britain,F,9,A pack of 6 sharks,,N
+1216,1966,usa,M,26,Invalid,,N
+1217,1966,usa,M,8,Spinner or blacktip sharks,,N
+1218,1966,usa,M,34,4' shark,,N
+1219,1966,usa,M,46,Invalid,,N
+1220,1966,usa,M,15,"Local authorities speculated that the water was too cold for sharks, but a 2.1 m [7'], 200-lb pregnant sandbar shark was caught next day",,N
+1221,1966,usa,M,18,1.2 m [4'] hammerhead shark,,N
+1222,1966,usa,M,18,a small shark,,N
+1223,1966,usa,M,24,Invalid,,N
+1224,1966,australia,M,13,"White shark, 2.5 m [8.25'], an immature female, previously injured",,N
+1225,1966,south africa,M,33,Copper shark,,N
+1226,1966,usa,M,29,"White shark, 3 m [10'] ",,N
+1227,1966,south africa,M,16,1.5 m to 1.8 m [5' to 6'] Zambesi shark,,N
+1228,1966,south africa,M,15,"1.8 m to 2 m [6' to 6'9""] shark",,N
+1229,1966,usa,M,35,Hammerhead shark,,N
+1230,1966,usa,F,15,Shark involvement not confirmed,,N
+1231,1965,australia,M,24,"Grey nurse shark, 2.4 m [8'] ",,N
+1232,1965,usa,M,19,Invalid,,N
+1233,1965,usa,M,28,"White shark, 10' to 12' ",,N
+1234,1965,palau,M,8,"Tiger shark, tooth fragment recovered",,N
+1235,1965,usa,M,17,Blacktip or spinner shark,,N
+1236,1965,usa,M,16,Mako shark,,N
+1237,1965,south africa,M,25,"1.8 m [6'], 136-kg [300-lb] shark ",,N
+1238,1965,usa,M,18,1.2 m [4'] shark,,N
+1239,1965,south africa,M,22,"White shark, 3.7 m [12'] ",,N
+1240,1964,south africa,M,19,Raggedtooth shark ,,N
+1241,1964,papua new guinea,M,28,2.1 m [7'] shark,,N
+1242,1964,australia,M,25,"White shark, 2.4 m [8'] ",,N
+1243,1964,australia,M,19,"Grey nurse shark, 1.8 m [6']",,N
+1244,1964,taiwan,M,20,1.8 m [6'] shark,,N
+1245,1964,mexico,M,19,1.8 to 2.4 m [6' to 8'] shark,,N
+1246,1964,usa,M,18,Invalid,,N
+1247,1964,usa,M,28,Hammerhead shark,,N
+1248,1964,usa,F,29,Shark involvement prior to death was not confirmed,,N
+1249,1964,south africa,M,40,Shark involvement prior to death was not confirmed,,N
+1250,1964,fiji,M,35,Tiger shark,,N
+1251,1964,usa,M,38,1.7 m [5.5'] shark,,N
+1252,1964,new zealand,M,26,"White shark, 3 m [10'] ",,N
+1253,1964,south africa,M,25,"White shark, 1.5 m [5'] k",,N
+1254,1964,new zealand,M,19,"White shark, 3 m to 3.7 m [10' to 12'] ",,N
+1255,1964,australia,M,23,Shark involvement prior to death was not confirmed,,N
+1256,1964,usa,M,21,White shark (tooth fragment recovered),,N
+1257,1963,south africa,F,20,"Zambesi shark, 1.8 m [6'] ",,N
+1258,1963,south africa,M,24,1.8 m [6']  shark,,N
+1259,1963,south africa,M,13,"Dusky shark, 1 m ",,N
+1260,1963,south africa,M,15,300- to 400-lb Zambesi shark,,N
+1261,1963,australia,M,23,White shark,,N
+1262,1963,new zealand,M,20,Possibly a broadnose 7-gill shark,,N
+1263,1963,papua new guinea,F,18,Tiger shark,,N
+1264,1963,fiji,F,21,>1.2 m [4'] tiger shark,,N
+1265,1963,palau,M,35,Dooley believed his Injury was caused by stingray (Dasyatidae family),,N
+1266,1963,usa,M,28,500-lb shark,,N
+1267,1963,solomon islands,M,30,5.5 m [18'] shark,,N
+1268,1963,australia,M,18,1.5 m [5'] shark,,N
+1269,1963,usa,M,16,"Nurse shark, 1.2 m [4'] ",,N
+1270,1963,federated states of micronesia,M,26,Tiger shark,,N
+1271,1963,greece,F,42,"White shark, 3 m ",,N
+1272,1963,papua new guinea,M,30,1.8 m [6'] shark,,N
+1273,1963,usa,M,25,"Hand found in gut of 2.9 m to 3.3 m [9'7"" to 10'11""] Galapagos shark, C. galapagensis",,N
+1274,1963,usa,M,15,3.7 to 4.5 m [12' to 15'] shark seen in vicinity,,N
+1275,1963,australia,M,18,"Bronze whaler shark, 3 m [10'] ",,N
+1276,1963,fiji,M,28,"White shark, 2.1 m [7'] ",,N
+1277,1963,australia,F,32,"Tooth fragments of whaler shark were recovered, a bull shark, according to Edwards",,N
+1278,1963,australia,M,25,Shark involvement prior to death was not confirmed,,N
+1279,1963,south africa,M,27,1 m shark,,N
+1280,1963,south africa,M,24,"Zambesi shark, 2 m [6'9""] ",,N
+1281,1962,australia,M,16,"White shark, 4.3 m [14'] (or bronze whaler)",,N
+1282,1962,usa,M,24,"White shark, 4.3 m to 4.9m [14' to 16']",,N
+1283,1962,mexico,M,32,2.7 m [9'] shark,,N
+1284,1962,british west indies,M,24," Blacktip shark, C. maculipinnis. 1.9 m to 2.1 m [6.5' to 7'] ",,N
+1285,1962,italy,M,28,White shark,,N
+1286,1962,papua new guinea,M,49,"""A long thin brown-colored shark""",,N
+1287,1962,usa,M,39,"Horn shar,k Heterodontus francisci, 1.2 m [4'] ",,N
+1288,1962,usa,M,40,Unknown,,N
+1289,1962,usa,M,24,1.8 m [6'] shark,,N
+1290,1962,usa,M,19,Blue shark,,N
+1291,1962,usa,M,11,1.8 m [6'] shark,,N
+1292,1962,usa,M,55," Sevengill  shark, 1.2 m [4'] ",,N
+1293,1962,south africa,M,13,"Zambesi shark, 1.2 m [4'] ",,N
+1294,1962,papua new guinea,M,10,Possibly a bronze whaler shark,,N
+1295,1962,south africa,M,13,"White shark, 3 m ",,N
+1296,1962,australia,M,35,60 cm  shark ,,N
+1297,1962,new zealand,M,18,1.5 m [5'] shark,,N
+1298,1962,south africa,M,40,Shark involvement prior to death was not confirmed,,N
+1299,1962,usa,M,29,"White shark, 4 m [13'] ",,N
+1300,1962,australia,M,19,"Bronze whaler shark, 2.1 m [7'] shark",,N
+1301,1962,papua new guinea,M,24,White shark,,N
+1302,1962,new zealand,F,54,"36""  shark",,N
+1303,1962,marshall islands,M,57,1.8 m [6'] shark,,N
+1304,1961,australia,F,18,3 m [10'] shark,,N
+1305,1961,australia,M,24,3 m [10'] shark,,N
+1306,1961,south africa,M,18,Zambesi shark,,N
+1307,1961,australia,M,23,"Grey nurse shark, 2.4 m [8'] ",,N
+1308,1961,australia,M,22,Next morning a 3 m [10'] shark was caught that had Andrews' leg in its gut,,N
+1309,1961,australia,M,17,1.8 m [6'] shark,,N
+1310,1961,croatia,M,19,White shark,,N
+1311,1961,usa,M,16,"White shark, 4 m [13'] ",,N
+1312,1961,usa,M,19,White shark,,N
+1313,1961,usa,M,38,2.4 m [8'] shark,,N
+1314,1961,usa,M,57,"43"" shark",,N
+1315,1961,italy,M,21,"White shark, 4.5 m ",,N
+1316,1961,usa,M,20,White shark,,N
+1317,1961,usa,M,52,"Hammerhead shark, 500-llb ",,N
+1318,1961,usa,M,10,Shark involvement not confirmed,,N
+1319,1961,mozambique,M,37,Zambesi shark,,N
+1320,1961,australia,M,40," ""gummy"" shark (Rhizoprionodon or Loxodon) 1.2 m [4']",,N
+1321,1961,mozambique,M,38,Zambesi shark,,N
+1323,1961,australia,M,21,"White shark, 3.7 m [12'] ",,N
+1324,1961,north pacific ocean,M,33,"Grey reef shark, 1.8 m [6'] grey reef shark, identified by Dr. L.P. L. Schultz based on photographs; identified as C. melanopterus by Stewart",,N
+1325,1961,south africa,M,27,1.5 m [5'] shark,,N
+1326,1961,south africa,M,14,"2.1 m [7'], 90-kg shark",,N
+1327,1961,south africa,M,15,White shark,,N
+1328,1961,australia,M,27,"Wobbegong shark, 1.5 m [5'] ",,N
+1329,1961,south africa,M,13,"White shark, based on bite pattern",,N
+1330,1960,south africa,M,25,"White shark, 3 m [10'], tooth fragment from wounds identified as that of a white shark",,N
+1331,1960,australia,M,33,"Grey nurse shark, 1m ",,N
+1332,1960,australia,M,41,3' shark,,N
+1333,1960,usa,M,15,"Lemon shark, 1164 mm, immature male, identified by  V.G. Springer",,N
+1334,1960,usa,M,41,"""sand shark""",,N
+1335,1960,usa,M,39,"Mako shark, 1.8 m to 2.1 m [6' to 7']  with hook & wire leader caught in mouth",,N
+1336,1960,bermuda,M,25,"Dusky shark, 2.7 m [9'] dusky shark C. obscurus identified by S. Springer on tooth recovered",,N
+1337,1960,usa,F,16,"White shark, 4 m to 5 m [13' to 16.5'] ",,N
+1338,1960,south africa,M,16,"White shark, 2.1 m [7']  based on tooth pattern",,N
+1339,1960,usa,M,48,"White shark, 4.9 m [16'] ",,N
+1340,1960,bermuda,M,"21, 34,24 & 35",Questionable incident,,N
+1341,1960,australia,M,17,"White shark, 3.7 m [12'] ",,N
+1342,1960,usa,M,42,"1.2 m [4'], possibly  larger shark",,N
+1343,1960,australia,M,30 & 32,Two 2.1 m [7'] sharks,,N
+1344,1960,usa,M,36,"According to Benjamin, the injury was inflicted by a barracuda, not a shark",,N
+1345,1960,australia,M,13,Bull shark,,N
+1346,1959,australia,M,19,3.5 m [11.5'] shark,,N
+1347,1959,australia,M,17,"""a small shark""",,N
+1348,1959,australia,M,19,3 m to 4.3 m [10' to 14'] shark,,N
+1349,1959,usa,M,21,"Blue shark, 1.5 m [5'] ",,N
+1350,1959,usa,M,30,"White shark, 5 m [16.5'], identified by Dr. W. I. Follett on tooth marks",,N
+1351,1959,fiji,M,36,"Tiger shark, 1.8 m [6']",,N
+1352,1959,usa,M,30,"A hammerhead shark, then 8 to 10 other sharks were said to be  involved",,N
+1353,1959,philippines,M,10,Shark involvement prior to death was not confirmed,,N
+1354,1959,japan,M,13 or 18,"Blue shark, 3 m [10']",,N
+1355,1959,usa,M,25,"Hammerhead shark, 1.8 m [6'] S. zygena identified by C. Limbaugh on description",,N
+1356,1959,usa,M,33,"Reported to involve a White shark, 6 m to 7m [20' to 23'] ",,N
+1357,1959,usa,M,18,"White shark, 3 m [10']; identifed by Dr. W.I. Follett on tooth marks",,N
+1358,1959,usa,M,19,"Tiger shark, 3.7 m [12']",,N
+1359,1959,south africa,M,14,1.8 to 2.1 m [6' to 7'] shark,,N
+1360,1959,australia,M,20,"Grey nurse shark, 1.8 m [6']",,N
+1361,1959,australia,M,22,Said to involve 2 sharks: 5.2 m & 6 m [17' & 20'] ,,N
+1362,1959,australia,M,17,1.8 m [6'] shark,,N
+1363,1959,south africa,M,18,"White shark, 1.8 m to 2.1 m [6' to 7']  according to Shreuder and a witness",,N
+1364,1958,usa,M,15,"Tiger shark, 4.6 m to 7.6 m [15' to 25'] ",,N
+1365,1958,american samoa,M,22,Tiger shark,,N
+1366,1958,australia,M,21,12' shark,,N
+1367,1958,bahamas,M,42,200-lb shark,,N
+1368,1958,usa,M,12,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] ",,N
+1369,1958,usa,M,8,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] ",,N
+1370,1958,pacific ocean,M,31,Sharks averaged 1.8 m [6'] in length,,N
+1371,1958,usa,M,20,"Nurse shark, 1.5 m [5']  identified by Dr. E. Clark on description of shark",,N
+1372,1958,bahamas,M,36,"Tiger shark, <2 m TL",,N
+1373,1958,usa,M,59,"Nurse shark, 2.1 m [7']  identified by Dr. E. Clark on color & tooth impressions",,N
+1374,1958,usa,M,17,Tiger shark?,,N
+1375,1958,taiwan,M,29,"Mako shark, 100-kg [221-lb] ",,N
+1376,1958,south africa,F,28,3 m [10'] shark,,N
+1377,1958,south africa,M,29,3 m [10'] shark,,N
+1378,1958,australia,M,14,6' shark,,N
+1379,1957,south africa,F,14,1.8 m [6'] shark,,N
+1380,1957,south africa,M,23,>3 m [10'] shark,,N
+1381,1957,usa,M,57,White shark,,N
+1382,1957,australia,M,28,4.6 m [15'] shark,,N
+1383,1957,usa,M,25,White shark,,N
+1384,1957,usa,M,17,4 m [13'] shark,,N
+1385,1957,australia,M,22,Shark seen feeding on turtle scraps thrown overboard prior to incident.,,N
+1386,1956,papua new guinea,M,19,2.4 m [8'] tiger shark caught 40 hours later with shorts of the boy in its gut,,N
+1387,1956,senegal,M,19,Lemon shark,,N
+1388,1956,usa,M,10,"White shark, 2.7 m [9'] ",,N
+1389,1956,australia,M,26,3.7 m [12'] shark & may have been another shark nearby,,N
+1390,1956,australia,M,15,1.8 m [6'] shark,,N
+1391,1955,papua new guinea,M,8,Wobbegong shark,,N
+1392,1955,american samoa,M,28,Blue shark,,N
+1393,1955,usa,M,19,"White shark, 5 m to 6 m [16.5' to 20] ",,N
+1394,1955,australia,M,25,3.6 m  white shark  (or bronze whaler),,N
+1395,1955,australia,M,13,"Bronze whaler shark,3.7 m [12'] ",,N
+1396,1954,australia,M,30,2.4 m [8']  shark,,N
+1397,1954,argentina,M,18,White shark tooth fragment recovered from ankle & identified by Dr. W. I. Follett,,N
+1398,1954,papua new guinea,M,26,14' shark,,N
+1399,1953,mexico,M,19,Invalid,,N
+1400,1953,usa,M,15,3 m [10'] shark seen in vicinity,,N
+1401,1953,australia,M,25,Wobbegong shark,,N
+1402,1952,australia,M,25,2.4 m [8'] shark,,N
+1403,1952,usa,M,17,"White shark,4.6 m [15'] ",,N
+1404,1951,australia,M,21,2.4 m [8']  shark,,N
+1405,1951,south africa,M,23,"White shark, 1.8 m [6'] ",,N
+1406,1951,south africa,M,24,"White shark, 2.4 m [8'] ",,N
+1407,1951,australia,M,23,"Wobbegong shark, 4'",,N
+1408,1951,south africa,M,31,136-kg [300-lb] shark,,N
+1409,1950,australia,M,21,"White shark, 3m, seen in area and hooked 3 days later",,N
+1410,1950,usa,M,31,White shark,,N
+1411,1950,australia,M,25,4' shark,,N
+1412,1950,el salvador,M,27,"1,100-lb shark",,N
+1413,1950,south africa,M,14,"White shark, 3.7 m [12']  according to witnesses",,N
+1414,1950,indonesia,M,7 or 8,"Tiger shark, 3.7 m to 4.3 m  [12' to 14']",,N
+1415,1949,australia,M,36,6' shark,,N
+1416,1949,australia,M,13,"3.3 m [10'9""] shark",,N
+1417,1949,australia,M,20,"White shark, 3.6 m [11'9""] ",,N
+1418,1949,australia,M,32,Invalid,,N
+1419,1948,greece,M,17,Said to be 6.4 m [21'] shark,,N
+1420,1948,usa,M,48,Nurse shark,,N
+1421,1947,australia,M,9,Grey nurse shark,,N
+1422,1947,usa,M,20,Possibly C. leucas,,N
+1423,1947,south africa,M,21,"1.5 m, 45-kg shark",,N
+1424,1947,south africa,M,22,"Blacktip shark, 2 m [6.75'] ",,N
+1425,1947,south africa,M,18,>1.6 m shark,,N
+1426,1946,australia,M,30,4.3 m [14'] shark,,N
+1427,1946,australia,M,18,"White shark, 4.2 m [13'9""] ",,N
+1428,1946,south africa,M,18,1.5 m [5'] shark,,N
+1429,1945,south africa,M,37,Thought to involve a Zambesi shark,,N
+1430,1945,iraq,M,15,Bull shark,,N
+1431,1944,south africa,M,17,"White shark, according to witnesses",,N
+1432,1943,panama,M,20,"White shark, 2 m [6'9""]  (Tooth fragment recovered from victim's shoulder & identified by J.T. Nicholls)",,N
+1433,1943,mexico,M,68,Invalid,,N
+1434,1942,australia,F,15,Bull shark,,N
+1435,1942,south africa,M,18,"White shark, 4.5 m  to 6 m [14'9"" to 20'] according to witnesses",,N
+1436,1942,australia,M,24,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",,N
+1437,1942,australia,F,28,"Bull shark, 4 m [13'] ",,N
+1438,1942,bahamas,M,48,1.2 m to 1.5 m [4' to 5'] shark,,N
+1439,1941,usa,M,43,2.1 m [7'] shark,,N
+1440,1941,usa,M,53,Mako shark (aka bonito shark) 1.2 m [4'] ,,N
+1441,1940,south africa,M,25,"White shark, species identity confirmed by tooth pattern",,N
+1442,1940,south africa,M,17,"White shark, 160-kg [353-lb], identity confirmed by tooth pattern",,N
+1443,1940,australia,M,13,3 m [10'] shark,,N
+1444,1940,south africa,M,18,2.4 m [8'] shark,,N
+1445,1939,australia,M,20,2.6 m [8.5'] shark landed 2 hours later,,N
+1446,1939,bahamas,M,38,"Nurse shark, 2.1 m [7']",,N
+1447,1938,australia,M,18,"Tiger shark, 6'",,N
+1448,1938,iraq,M,9 or 10,Bull shark,,N
+1449,1938,australia,M,24,Questionable incident,,N
+1450,1937,australia,M,25,Tiger shark,,N
+1451,1937,australia,M,18,"Tiger shark,  3.6 m [11'9""], 850-kg [1874-lb] female, contained Girvan's remains ",,N
+1452,1937,australia,M,38,"Tiger shark, 9' to 10' ",,N
+1453,1937,australia,M,33,2 days later a 600-lb shark was caught 100 yards from the site,,N
+1454,1937,australia,M,32,White shark,,N
+1455,1936,usa,M,16,White shark (identified by Dr. Hugh Smith) ,,N
+1456,1936,australia,M,16,"Tiger shark, 4.6 m [15'] ",,N
+1457,1936,australia,M,14,White shark,,N
+1458,1936,australia,M,13,White shark,,N
+1459,1935,australia,M,38,3.7 m [12'] shark,,N
+1460,1935,australia,M,27,"White shark, 4 m [13'] ",,N
+1461,1935,australia,M,22,"White shark, 3.5 m to 4 m [11.5' to 13'] ",,N
+1462,1934,australia,F,13,"Tiger shark, 1.5 m [5'] ",,N
+1463,1934,australia,M,15,4.3 m [14'] shark seen in vicinity,,N
+1464,1934,australia,M,17,4 m [13'] shark seen in vicinity,,N
+1465,1934,australia,M,22,4.3 m [14'] shark seen in area previous week,,N
+1466,1932,australia,M,24,Thought to involve a mako or grey nurse shark,,N
+1467,1932,south africa,M,23,"Raggedtooth shark, 1.2 m to 1.5 m [4' to 5'] ",,N
+1468,1931,australia,M,39,Shark involvement prior to death unconfirmed,,N
+1469,1931,australia,M,18,1.5 m [5'] shark,,N
+1470,1930,australia,M,18,White shark 4.9 m [16'] ,,N
+1471,1930,south africa,M,23,"White shark, 4.5 m [14'9""], identity confirmed by witness & tooth pattern",,N
+1472,1929,australia,M,19,"Grey nurse shark, 4' ",,N
+1473,1929,australia,M,39,Galapagos shark,,N
+1474,1929,australia,M,14,12' shark,,N
+1475,1928,panama,M,17,Morenos leg  & part of his swim suit found in 9' shark caught two hours after the attack. Identified as carcharhinid shark by L. Schultz & C. Limbaugh on photograph,,N
+1476,1928,australia,M,15,4' shark,,N
+1477,1928,south africa,M,18,1.2 m [4'] shark,,N
+1478,1927,south africa,M,17,"White shark, 4.4 m [14.5'] . ",,N
+1479,1927,australia,M,17,Grey nurse shark?,,N
+1480,1927,australia,M,15,3.7 m [12'] shark,,N
+1481,1926,australia,M,17,"Grey nurse shark, 4'",,N
+1482,1926,italy,M,20,Said to involve 6 to 7 m [20' to 23'] white shark,,N
+1483,1926,usa,M,15,1.5 m [5'] white shark or sevengill shark,,N
+1484,1925,australia,M,55,"Tiger shark, 4 m [13'] female",,N
+1485,1925,australia,M,16,Said to be a small shark,,N
+1486,1924,australia,M,16,3 m [10'] shark,,N
+1487,1922,australia,M,19,"2.7 m [9'] ""blue"" shark",,N
+1488,1922,jamaica,M,19,6' shark,,N
+1489,1922,south africa,M,18,"White shark, 12', identity confirmed by tooth fragment, witness and photograph of captured shark ",,N
+1490,1922,australia,M,21,"White shark, 2.4 m [8'] ",,N
+1491,1922,australia,M,18,White shark,,N
+1492,1919,australia,M,13,12' shark,,N
+1493,1916,usa,M,24,Thought to involve a 2.6 m [8.5'] white shark,,N
+1494,1912,australia,M,21,"2.8 m [9'3""] whaler shark captured 3 days later with his remains in its gut",,N
+1495,1906,south africa,M,30,1.8 m to 2.7 m [6' to 9'] shark,,N
+1496,1905,australia,M,40,5' shark,,N
+1497,1901,south africa,M,29,White shark,,N
+1498,1894,australia,M,19,10' to 12' shark,,N
+1499,1892,australia,M,21,12' shark,,N
+1500,1880,australia,M,12,Bull shark,,N
+1501,1868,india,M,35,Identified as C. gangeticus by Dr. J. Fayrer,,N
+1502,1800,seychelles,,,,,Y
+1503,1797,,,,,,Y
+1504,1792,england,,,,Sep,Y
+1505,1791,australia,,,,,Y
+1506,1788,australia,,,,May,N
+1507,1787,,,,,Jul,Y
+1508,1786,barbados,,,,,Y
+1509,1785,england,,,,,Y
+1510,1784,jamaica,,,,Dec,Y
+1511,1783,martinique,,,,Mar,Y
+1512,1780,usa,,,,Aug,Y
+1513,1779,usa,,young,,,Y
+1514,1776,guinea,,,,,Y
+1515,1776,greenland,,,,,Y
+1516,1771,usa,,,,,Y
+1517,1767,france,,,,,
+1518,1764,spain,,,,,Y
+1519,1758,mediterranean sea,,,,,N
+1520,1753,jamaica,,,,,Y
+1521,1751,usa,,,,Jul,Y
+1522,1749,cuba,,14,,,N
+1523,1755,sweden,,,,,
+1524,1748,panama,,,,,Y
+1525,1742,,,,,Dec,Y
+1526,1738,italy,,,,,Y
+1527,1733,iceland,,,,,
+1528,1723,roatan,,,,,
+1529,1721,italy,,,,,Y
+1530,1703,barbados,,19,,Mar,N
+1531,1700,france,,,,,Y
+1532,1700,france,,,,,N
+1533,1700,barbados,,,,,Y
+1534,1642,guinea,,,,,
+1535,1638,,,,,,
+1536,1637,india,,,,,
+1537,1617,india,,,,,
+1538,1642,usa,,,,,Y
+1539,1595,india,,,,,
+1540,1580,between portugal & india,,,,,Y
+1541,1555,,,,,,
+1542,1554,france,,,,,
+1543,1543,venezuela,,,,,Y
+1544,500,mexico,,,,,N
+1545,77,,,,,,Y
+1546,5,australia,,,,,N
+1547,0,,,,,,Y
+1548,0,greece,,,,,Y
+1550,0,italy,,,,,Y
+1551,0,canada,,,,,N
+1552,0,kenya,,,,,N
+1553,0,kenya,,,,,Y
+1554,0,panama,,20,,,Y
+1555,0,uruguay,,,,,N
+1556,0,uruguay,,,,,Y
+1557,0,usa,,,,,N
+1558,0,papua new guinea,,,,,Y
+1559,0,australia,,15,,,N
+1560,0,australia,,,,,Y
+1562,0,bermuda,,,,,Y
+1564,0,usa,,,,,Y
+1565,0,india,,,,,N
+1566,0,lebanon,,,,,N
+1567,0,spain,,,,,N
+1568,0,sudan,,,,,N
+1569,0,,,,,,N
+1570,0,usa,,21,,,N
+1572,0,djibouti,,,,,Y
+1573,0,libya,,,,,Y
+1574,0,australia,,,,,N
+1575,0,new zealand,,,,,Y
+1577,0,vietnam,,,,,N
+1578,0,sri lanka,,,,,N
+1579,0,venezuela,,,,,Y
+1582,0,mozambique,,,,,N
+1583,0,south africa,,,,,Y
+1585,0,bahrein,,,,,Y
+1586,0,bahamas,,,,,N
+1588,0,reunion,,,,,N
+1589,0,solomon islands,,,,,N
+1590,0,korea,,,,,Y
+1591,0,french polynesia,,,,,N
+1593,0,vanuatu,,,,,Y
+1594,0,vanuatu,,,,,N
+1595,0,iran,,,,,N
+1596,0,usa,,19,,,N
+1598,0,red sea?,,,,,N
+1602,0,usa,,,,,
+1604,0,mediterranean sea,,,,,Y
+1607,0,singapore,,,,,N
+1608,0,fiji,,27,,,N
+1609,0,mozambique,,36,,,N
+1610,0,seychelles,,,,,Y
+1611,0,iraq,,25,,,N
+1612,0,iraq,,6,,,N
+1613,0,iraq,,16,,,N
+1616,0,bermuda,,,,,N
+1617,0,fiji,,,,,N
+1618,0,madagascar,,,,,Y
+1621,0,indonesia,,,,,Y
+1622,0,india,,,,,Y
+1623,0,nicaragua,,,,,Y
+1624,0,cuba,,50,,,Y
+1625,0,marshall islands,,,,,N
+1626,0,kiribati,,,,,N
+1627,0,north pacific ocean,,,,,N
+1628,0,kiribati,,,,,Y
+1632,0,iran,,,,,Y
+1635,0,iraq,,13 or 14,,,Y
+1636,0,saudi arabia,,,,,Y
+1637,0,saudi arabia,,,,,N
+1639,0,pacific ocean,,,,,Y
+1640,0,burma,,,,,N
+1641,0,papua new guinea,,,,,N
+1643,0,burma,,,,,Y
+1644,0,italy,,,,,N
+1645,0,greece,,,,,N
+1646,0,belize,,16,,,Y
+1647,0,australia,,,,,
+1648,0,reunion,,,,,Y
+1649,0,south africa,,,,,N
+1657,0,fiji,,,,,Y
+1661,0,asia?,,,,,N
+1670,0,panama,,,,,Y
+1671,0,ceylon (sri lanka),,15,,,Y
