@@ -1,0 +1,1621 @@
+,COUNTRY,SEX_,AGE,SPECIES_,fecha,FATALIDAD,nueva_especie,YEAR,edad_limpia
+0,usa,F,57,White shark,,N,white,YEAR,edad_limpia
+1,brazil,M,18,Tiger shark,,N,Tiger,YEAR,edad_limpia
+2,usa,M,15,"Bull shark, 6'",,N,Bull,YEAR,edad_limpia
+3,australia,M,32,Grey reef shark,,N,Grey,YEAR,edad_limpia
+4,england,M,21,Invalid incident,,N,Desconocido,YEAR,edad_limpia
+5,costa rica,M,30,Tiger shark,,N,Tiger,YEAR,edad_limpia
+6,australia,M,60,3 m shark,,N,Desconocido,YEAR,edad_limpia
+7,maldives,M,32,Tiger shark,,N,Tiger,YEAR,edad_limpia
+8,south africa,M,33,"White shark, 2.5 m",,N,white,YEAR,edad_limpia
+9,south africa,M,19,White shark,,N,white,YEAR,edad_limpia
+10,usa,M,25,"Tiger shark, 12'",,N,Tiger,YEAR,edad_limpia
+11,australia,M,10,Wobbegong shark,,N,Desconocido,YEAR,edad_limpia
+12,australia,M,69,3.5 m shark,,N,Desconocido,YEAR,edad_limpia
+13,australia,M,18,1.8 m shark,,N,Desconocido,YEAR,edad_limpia
+14,australia,F,55,"Juvenile white shark,  2.7 to 3.2 m",,N,white,YEAR,edad_limpia
+15,australia,M,35,"Bull shark, 2 m",,N,Bull,YEAR,edad_limpia
+16,brazil,M,20,small shark,,N,Desconocido,YEAR,edad_limpia
+17,usa,F,54,Tiger shark,,N,Tiger,YEAR,edad_limpia
+18,usa,M,25,"White shark, 4.6 m",,N,white,YEAR,edad_limpia
+19,australia,M,25,2 m shark,,N,Desconocido,YEAR,edad_limpia
+20,cuba,M,22,Tiger shark,,N,Tiger,YEAR,edad_limpia
+21,australia,M,31,"Wobbegong shark, 1 m",,N,Desconocido,YEAR,edad_limpia
+22,australia,F,15,"White shark, 4.5 m",,N,white,YEAR,edad_limpia
+23,usa,M,54,"Tiger shark, 8 to 10 feet",,N,Tiger,YEAR,edad_limpia
+24,usa,F,40,8' shark,,N,Desconocido,YEAR,edad_limpia
+25,usa,M,33,Questionable,,N,Desconocido,YEAR,edad_limpia
+26,usa,M,18,5' to 6' shark,,N,Desconocido,YEAR,edad_limpia
+27,australia,M,35,"White shark, 3 to 3.5m ",,N,white,YEAR,edad_limpia
+28,australia,M,37,"White shark, 3 m",,N,white,YEAR,edad_limpia
+29,spain,F,11,Shark involvement questionable,,N,Desconocido,YEAR,edad_limpia
+30,usa,M,69,"White shark, 5' to 7'",,N,white,YEAR,edad_limpia
+31,usa,M,13,Possibly a juvenile blacktip shark,,N,Desconocido,YEAR,edad_limpia
+32,usa,M,34,4' shark,,N,Desconocido,YEAR,edad_limpia
+33,usa,M,10,A small shark,,N,Desconocido,YEAR,edad_limpia
+34,usa,M,40,"White shark, 11' to 13'",,N,white,YEAR,edad_limpia
+35,usa,M,50,"White shark, 8' to 10'",,N,white,YEAR,edad_limpia
+36,usa,M,46,"Bull shark, 4' to 5'",,N,Bull,YEAR,edad_limpia
+37,south africa,F,13,"White shark, 2.5 m",,N,white,YEAR,edad_limpia
+38,australia,M,48,"White shark, 4 m",,N,white,YEAR,edad_limpia
+39,bahamas,F,32,Tiger shark,,N,Tiger,YEAR,edad_limpia
+40,usa,F,18,Shark involvement highly doubtful,,N,Desconocido,YEAR,edad_limpia
+41,australia,F,17,White shark,,N,white,YEAR,edad_limpia
+42,usa,M,28,"Tiger shark, 12'",,N,Tiger,YEAR,edad_limpia
+43,usa,F,17,"Bull shark, 5' to 7'",,N,Bull,YEAR,edad_limpia
+44,australia,M,55,"Bull shark, 4 m",,N,Bull,YEAR,edad_limpia
+45,indonesia,M,48,"Bull shark, 1 m",,N,Bull,YEAR,edad_limpia
+46,australia,M,20,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+47,south africa,M,55,"White shark, 4 m",,N,white,YEAR,edad_limpia
+48,usa,M,19,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+49,australia,M,20,"Wobbegong shark, 2m",,N,Desconocido,YEAR,edad_limpia
+50,australia,M,65,White shark,,N,white,YEAR,edad_limpia
+51,australia,M,73,"Broadnose sevengill shark, 1.5 m",,N,Desconocido,YEAR,edad_limpia
+52,usa,F,58,Tiger shark,,N,Tiger,YEAR,edad_limpia
+53,usa,M,36, 6' to 8' shark,,N,Desconocido,YEAR,edad_limpia
+54,australia,M,17,"White shark, 3.5 m",,N,white,YEAR,edad_limpia
+55,usa,M,60s,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+56,usa,F,51,"Tiger shark, 10'",,N,Tiger,YEAR,edad_limpia
+57,usa,M,25,"Bull shark, 6'",,N,Bull,YEAR,edad_limpia
+58,usa,M,21,"Tiger shark, 10' ",,N,Tiger,YEAR,edad_limpia
+59,spain,M,40,Blue shark,,N,Desconocido,YEAR,edad_limpia
+60,australia,M,31,"reef shark, 1m",,N,Desconocido,YEAR,edad_limpia
+61,usa,M,61,"White shark, 10' to 12'",,N,white,YEAR,edad_limpia
+62,usa,M,59,dogfish shark,,N,Desconocido,YEAR,edad_limpia
+63,australia,M,34,Tawny nurse shark,,N,Desconocido,YEAR,edad_limpia
+64,usa,M,42,3' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+65,usa,F,6,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+66,usa,M,19,3' shark,,N,Desconocido,YEAR,edad_limpia
+67,usa,M,27,Said to involve an 8' shark but more likely damage caused by debris,,N,Desconocido,YEAR,edad_limpia
+68,australia,F,60,3+ m shark,,N,Desconocido,YEAR,edad_limpia
+69,egypt,M,23,Mako shark,,N,Desconocido,YEAR,edad_limpia
+70,australia,M,29,White shark,,N,white,YEAR,edad_limpia
+71,usa,M,13,5' shark,,N,Desconocido,YEAR,edad_limpia
+72,usa,F,22,"Bull shark, 4' to 5'",,N,Bull,YEAR,edad_limpia
+73,usa,M,48,"Blacktip shark, 4'",,N,Desconocido,YEAR,edad_limpia
+74,usa,F,23,"Nurse shark, 2'",,N,Desconocido,YEAR,edad_limpia
+75,new zealand,M,39,"Mako shark, 1.5 m [5'] ",,N,Desconocido,YEAR,edad_limpia
+76,indonesia,M,24,"Bull shark, 6'",,N,Bull,YEAR,edad_limpia
+77,australia,M,12,Wobbegong shark,,N,Desconocido,YEAR,edad_limpia
+78,french polynesia,M,22,"Grey reef shark, 2 m",,N,Grey,YEAR,edad_limpia
+79,french polynesia,M,26,"Grey reef shark, 2 m",,N,Grey,YEAR,edad_limpia
+80,new caledonia,F,69,"Tiger shark, 2.5 m",,N,Tiger,YEAR,edad_limpia
+81,usa,M,48,"Tiger shark, 14'",,N,Tiger,YEAR,edad_limpia
+82,australia,M,11,Blacktip shark,,N,Desconocido,YEAR,edad_limpia
+83,australia,M,31,3 m shark,,N,Desconocido,YEAR,edad_limpia
+84,usa,M,71,9' shark,,N,Desconocido,YEAR,edad_limpia
+85,australia,M,43,"Bronze whaler shark, 6'",,N,Desconocido,YEAR,edad_limpia
+86,ecuador,M,55,Galapagos shark,,N,Desconocido,YEAR,edad_limpia
+87,australia,M,20,"Bull shark, 2.8 to 3.1 m",,N,Bull,YEAR,edad_limpia
+88,usa,F,9,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+89,usa,F,28,3' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+90,south africa,M,42,"White shark, 3 to 3.5m ",,N,white,YEAR,edad_limpia
+91,usa,M,21,5' shark,,N,Desconocido,YEAR,edad_limpia
+92,usa,M,21,"Spinner shark, 5'",,N,Desconocido,YEAR,edad_limpia
+93,usa,M,32,No shark involvement,,N,Desconocido,YEAR,edad_limpia
+94,usa,M,44,"Tiger shark, 7'",,N,Tiger,YEAR,edad_limpia
+95,usa,M,25,"Tiger shark, 13' ",,N,Tiger,YEAR,edad_limpia
+96,usa,M,13,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+97,usa,M,14,"Blacktip shark, 4' to 5'",,N,Desconocido,YEAR,edad_limpia
+98,usa,M,22,"Blacktip shark, 5' to 6'",,N,Desconocido,YEAR,edad_limpia
+99,usa,M,14,juvenile shark,,N,Desconocido,YEAR,edad_limpia
+100,usa,M,27,"Tiger shark, 13'",,N,Tiger,YEAR,edad_limpia
+101,usa,M,12,4' shark,,N,Desconocido,YEAR,edad_limpia
+102,australia,M,42,6' shark,,N,Desconocido,YEAR,edad_limpia
+103,usa,F,50,"White shark, 11' to 12'",,N,white,YEAR,edad_limpia
+104,usa,M,29,Hammerhead shark.,,N,Desconocido,YEAR,edad_limpia
+105,australia,M,62,"White shark, 2.5 m",,N,white,YEAR,edad_limpia
+106,thailand,F,37,small shark,,N,Desconocido,YEAR,edad_limpia
+107,usa,F,54,"White shark, 11' to 12'",,N,white,YEAR,edad_limpia
+108,usa,M,21,"White shark, 10' to 12' ",,N,white,YEAR,edad_limpia
+109,usa,M,15,4' shark,,N,Desconocido,YEAR,edad_limpia
+110,usa,F,10,3' shark,,N,Desconocido,YEAR,edad_limpia
+111,usa,M,22,"White shark, 13'",,N,white,YEAR,edad_limpia
+112,spain,M,10,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+113,usa,M,57,Hammerhead shark. 6' to 7',,N,Desconocido,YEAR,edad_limpia
+114,australia,M,52,White shark,,N,white,YEAR,edad_limpia
+115,usa,M,25,"Blacktip or spinner shark, 4'",,N,Desconocido,YEAR,edad_limpia
+116,usa,F,35,"Thought to involve a 3' to 4' shark, but shark involvement not confirmed",,N,Desconocido,YEAR,edad_limpia
+117,australia,M,46,"White shark, 3.9 to 4.2 m",,N,white,YEAR,edad_limpia
+118,usa,M,38,"White shark, 7'",,N,white,YEAR,edad_limpia
+120,australia,M,32,White shark,,N,white,YEAR,edad_limpia
+121,usa,M,68,6' to 7' shark,,N,Desconocido,YEAR,edad_limpia
+122,usa,M,12,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+123,usa,M,18,Bull shark,,N,Bull,YEAR,edad_limpia
+124,south africa,M,19,White shark,,N,white,YEAR,edad_limpia
+125,south africa,M,23,"White shark, 2m to 3 m",,N,white,YEAR,edad_limpia
+126,usa,M,43,4' shark,,N,Desconocido,YEAR,edad_limpia
+127,usa,M,6,Sandtiger shark,,N,Tiger,YEAR,edad_limpia
+128,australia,F,37,White shark,,N,white,YEAR,edad_limpia
+129,usa,M,16,Bull shark,,N,Bull,YEAR,edad_limpia
+130,usa,F,12,Bull shark,,N,Bull,YEAR,edad_limpia
+131,usa,F,13,4' shark,,N,Desconocido,YEAR,edad_limpia
+132,usa,M,11,"Bull shark, 5'",,N,Bull,YEAR,edad_limpia
+133,reunion,M,47,"Bull shark, 2.5 m",,N,Bull,YEAR,edad_limpia
+134,french polynesia,M,19,1m to 1.2 m shark,,N,Desconocido,YEAR,edad_limpia
+135,usa,M,18,5' shark,,N,Desconocido,YEAR,edad_limpia
+136,south africa,M,29,"White shark, 3.5 m",,N,white,YEAR,edad_limpia
+137,usa,M,63,3- to 4-foot shark,,N,Desconocido,YEAR,edad_limpia
+138,australia,M,26,"White shark, 6 m",,N,white,YEAR,edad_limpia
+139,australia,M,71,"White shark, 3 m",,N,white,YEAR,edad_limpia
+140,reunion,M,13,Bull shark,,N,Bull,YEAR,edad_limpia
+141,usa,M,70,Bull shark,,N,Bull,YEAR,edad_limpia
+142,brazil,M,23,No shark involvement,,N,Desconocido,YEAR,edad_limpia
+143,usa,M,58,"Tiger shark, 8 to 12 feet",,N,Tiger,YEAR,edad_limpia
+144,french polynesia,M,9,Blacktip shark,,N,Desconocido,YEAR,edad_limpia
+145,reunion,F,22,"Tiger shark, 3.5 m",,N,Tiger,YEAR,edad_limpia
+146,australia,M,41,3.5 to 4 m shark,,N,Desconocido,YEAR,edad_limpia
+147,australia,M,35,2 m to  3 m shark,,N,Desconocido,YEAR,edad_limpia
+148,australia,M,57,"Bull shark, 1.3 m",,N,Bull,YEAR,edad_limpia
+149,usa,M,20,4' shark,,N,Desconocido,YEAR,edad_limpia
+150,bahamas,F,34,White shark or oceanic whitetip shark,,N,white,YEAR,edad_limpia
+151,south africa,M,15,"Raggedtooth shark, 1.3 m",,N,Desconocido,YEAR,edad_limpia
+152,australia,M,17,"White shark, 4 to 5 m",,N,white,YEAR,edad_limpia
+153,usa,M,50,"White shark, 8' to 10'",,N,white,YEAR,edad_limpia
+154,australia,M,40s,1.5 m shark,,N,Desconocido,YEAR,edad_limpia
+155,australia,M,17,Tiger shark,,N,Tiger,YEAR,edad_limpia
+156,usa,M,44,2' shark,,N,Desconocido,YEAR,edad_limpia
+157,usa,M,53,1.5 m shark,,N,Desconocido,YEAR,edad_limpia
+158,usa,F,34,"Tiger shark, 12'",,N,Tiger,YEAR,edad_limpia
+159,australia,F,13,1 m shark,,N,Desconocido,YEAR,edad_limpia
+160,usa,M,29,Blacktip shark,,N,Desconocido,YEAR,edad_limpia
+161,usa,M,15,Blacktip shark,,N,Desconocido,YEAR,edad_limpia
+162,usa,M,28,8' to 10' shark,,N,Desconocido,YEAR,edad_limpia
+163,australia,M,23,"2 white shark: 13' & 9""8""",,N,white,YEAR,edad_limpia
+164,australia,M,50,7' shark,,N,Desconocido,YEAR,edad_limpia
+165,usa,M,43,Bull shark,,N,Bull,YEAR,edad_limpia
+166,usa,F,20s,"White shark, 12' to 14'",,N,white,YEAR,edad_limpia
+167,usa,M,52,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+168,usa,F,13,Spinner shark,,N,Desconocido,YEAR,edad_limpia
+169,usa,M,7," Bull shark, 5'",,N,Bull,YEAR,edad_limpia
+170,usa,M,10,4' tp 5' shark,,N,Desconocido,YEAR,edad_limpia
+171,south africa,M,20,White shark,,N,white,YEAR,edad_limpia
+172,usa,M,61,6' to 8' shark,,N,Desconocido,YEAR,edad_limpia
+173,usa,M,39,4' shark,,N,Desconocido,YEAR,edad_limpia
+174,bahamas,M,63,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+175,usa,M,19,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+176,usa,M,16," Sandbar shark, 3' to 4'",,N,Desconocido,YEAR,edad_limpia
+177,australia,M,39,"Bronze whaler shark, 1.5m",,N,Desconocido,YEAR,edad_limpia
+178,usa,F,22,Bull shark,,N,Bull,YEAR,edad_limpia
+179,australia,M,35," white shark, 15' ",,N,white,YEAR,edad_limpia
+180,usa,F,40,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+181,usa,M,23,3' shark,,N,Desconocido,YEAR,edad_limpia
+182,australia,F,63,3 m to 4 m white shark,,N,white,YEAR,edad_limpia
+183,australia,M,38,Shark involvement prior to death not confirmed,,N,Desconocido,YEAR,edad_limpia
+184,south africa,M,66,2 m shark,,N,Desconocido,YEAR,edad_limpia
+185,french polynesia,M,21,Blacktip reef shark ,,N,Desconocido,YEAR,edad_limpia
+186,new zealand,M,28,7-gill shark?,,N,Desconocido,YEAR,edad_limpia
+187,new caledonia,M,37,Reported to involve a bull shark,,N,Bull,YEAR,edad_limpia
+188,south africa,M,19,"White shark, 3m ",,N,white,YEAR,edad_limpia
+189,usa,M,29,"Tiger shark, 10' to 12'",,N,Tiger,YEAR,edad_limpia
+190,usa,M,30,4' to 6' shark,,N,Desconocido,YEAR,edad_limpia
+191,australia,M,26," Wobbegong shark, 1.6 to 1.8m ",,N,Desconocido,YEAR,edad_limpia
+192,australia,M,19,"Tiger shark, 3m ",,N,Tiger,YEAR,edad_limpia
+193,australia,M,35,Thought to involve a white shark,,N,white,YEAR,edad_limpia
+194,usa,M,25,"White shark, 10 '",,N,white,YEAR,edad_limpia
+195,usa,M,46,Tiger shark,,N,Tiger,YEAR,edad_limpia
+196,australia,F,60,"Blacktip reef shark, 1m",,N,Desconocido,YEAR,edad_limpia
+197,reunion,M,24,Thought to involve a bull shark,,N,Bull,YEAR,edad_limpia
+198,australia,M,41,Wobbegong shark,,N,Desconocido,YEAR,edad_limpia
+199,usa,M,45,"Whitetip reef shark, 4' to 6'",,N,white,YEAR,edad_limpia
+200,usa,M,25,Tiger shark,,N,Tiger,YEAR,edad_limpia
+201,usa,M,6,Nurse shark?,,N,Desconocido,YEAR,edad_limpia
+202,south africa,M,74,White shark,,N,white,YEAR,edad_limpia
+203,australia,M,55,White shark,,N,white,YEAR,edad_limpia
+204,usa,M,45,"White shark, 8' to 10'",,N,white,YEAR,edad_limpia
+205,usa,M,21,Bull shark,,N,Bull,YEAR,edad_limpia
+206,usa,F,13,3' shark,,N,Desconocido,YEAR,edad_limpia
+207,usa,M,43,3' shark,,N,Desconocido,YEAR,edad_limpia
+208,usa,M,25,3' shark,,N,Desconocido,YEAR,edad_limpia
+209,usa,M,9,4' shark,,N,Desconocido,YEAR,edad_limpia
+210,usa,F,20,Tiger shark?,,N,Tiger,YEAR,edad_limpia
+211,usa,M,10,"Bull shark, 8'",,N,Bull,YEAR,edad_limpia
+212,usa,M,17,"Bull shark, 6' to 8'",,N,Bull,YEAR,edad_limpia
+213,bahamas,M,40,6' shark,,N,Desconocido,YEAR,edad_limpia
+214,usa,M,18,"Tiger shark, 8' to 10' ",,N,Tiger,YEAR,edad_limpia
+215,bahamas,M,64,Nurse shark,,N,Desconocido,YEAR,edad_limpia
+216,usa,M,14,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+217,usa,M,28,"Tiger shark, 14'",,N,Tiger,YEAR,edad_limpia
+218,usa,F,10,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+219,ecuador,M,29,Galapagos shark,,N,Desconocido,YEAR,edad_limpia
+220,reunion,M,36,Bull shark,,N,Bull,YEAR,edad_limpia
+221,usa,M,16,a small shark,,N,Desconocido,YEAR,edad_limpia
+222,mexico,F,34,Tiger shark,,N,Tiger,YEAR,edad_limpia
+223,australia,M,51,"Grey nurse shark, 3m",,N,Grey,YEAR,edad_limpia
+224,usa,M,9,3' shark,,N,Desconocido,YEAR,edad_limpia
+226,french polynesia,M,53,Possibly a blacktip reef shark,,N,Desconocido,YEAR,edad_limpia
+227,usa,M,58,4' shark,,N,Desconocido,YEAR,edad_limpia
+228,south africa,M,30,"Raggedtooth shark, 1.5 m",,N,Desconocido,YEAR,edad_limpia
+229,jamaica,M,68,"Tiger shark, 4.8 m",,N,Tiger,YEAR,edad_limpia
+230,australia,M,28,"Bronze whaler shark, 2.5m",,N,Desconocido,YEAR,edad_limpia
+231,new zealand,M,46,"White shark, 4m",,N,white,YEAR,edad_limpia
+232,usa,M,16,"Blacktip shark, 4' to 5'",,N,Desconocido,YEAR,edad_limpia
+233,french polynesia,M,48,Lemon shark,,N,Lemon,YEAR,edad_limpia
+234,usa,M,43,"Tiger shark, 15'",,N,Tiger,YEAR,edad_limpia
+235,australia,M,23,2.5 m shark,,N,Desconocido,YEAR,edad_limpia
+236,australia,M,29,"Bull shark, 2m ",,N,Bull,YEAR,edad_limpia
+237,australia,M,32,"Tiger shark, 6'",,N,Tiger,YEAR,edad_limpia
+238,usa,M,60,10' shark,,N,Desconocido,YEAR,edad_limpia
+239,australia,M,31,Sandtiger shark,,N,Tiger,YEAR,edad_limpia
+240,usa,M,61,"Tiger shark, 10'",,N,Tiger,YEAR,edad_limpia
+241,mexico,M,32,2.5 m shark,,N,Desconocido,YEAR,edad_limpia
+242,usa,M,14,2' to 3' shark,,N,Desconocido,YEAR,edad_limpia
+243,usa,M,30,"Tiger shark, 15'",,N,Tiger,YEAR,edad_limpia
+244,usa,M,43,"Tiger shark, 8'",,N,Tiger,YEAR,edad_limpia
+245,usa,M,25,White shark,,N,white,YEAR,edad_limpia
+246,usa,F,51,"Tiger shark, 10' to 12' ",,N,Tiger,YEAR,edad_limpia
+247,usa,M,39,"White shark, 15' to 16' ",,N,white,YEAR,edad_limpia
+248,usa,M,55,6' to 8' shark,,N,Desconocido,YEAR,edad_limpia
+249,australia,M,11,2m shark,,N,Desconocido,YEAR,edad_limpia
+250,usa,M,21,5' shark,,N,Desconocido,YEAR,edad_limpia
+251,usa,M,22,4' shark,,N,Desconocido,YEAR,edad_limpia
+252,usa,F,8,3.5' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+253,usa,F,56,3.5' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+254,usa,M,56,"Lemon shark, 4' to 5' ",,N,Lemon,YEAR,edad_limpia
+255,australia,M,48,White shark or bronze whaler,,N,white,YEAR,edad_limpia
+256,usa,M,50,Thought to involve a white shark,,N,white,YEAR,edad_limpia
+257,australia,M,24,"White shark, 5m",,N,white,YEAR,edad_limpia
+258,usa,M,52,14' to 18'shark,,N,Desconocido,YEAR,edad_limpia
+259,south africa,M,29,15' shark,,N,Desconocido,YEAR,edad_limpia
+260,usa,M,6,possibly a bull shark,,N,Bull,YEAR,edad_limpia
+261,usa,F,16,a small reef shark,,N,Desconocido,YEAR,edad_limpia
+262,australia,M,62,3 m shark,,N,Desconocido,YEAR,edad_limpia
+263,usa,M,23,Nurse shark,,N,Desconocido,YEAR,edad_limpia
+264,usa,F,18,small blacktip shark?,,N,Desconocido,YEAR,edad_limpia
+265,usa,M,16,Blacktip shark ,,N,Desconocido,YEAR,edad_limpia
+266,australia,M,42,1.5 m shark,,N,Desconocido,YEAR,edad_limpia
+267,italy,M,57,"Blue shark, 2.5m",,N,Desconocido,YEAR,edad_limpia
+268,australia,M,30,"White shark, 2 m",,N,white,YEAR,edad_limpia
+269,usa,F,33,"18"" to 24"" shark",,N,Desconocido,YEAR,edad_limpia
+270,mexico,M,46,"Bull shark, 3m",,N,Bull,YEAR,edad_limpia
+271,usa,M,22,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+272,usa,M,30,White shark,,N,white,YEAR,edad_limpia
+273,usa,F,15,White shark,,N,white,YEAR,edad_limpia
+274,usa,M,28,5' shark,,N,Desconocido,YEAR,edad_limpia
+275,south africa,M,20,"White shark, 4 m to 5m ",,N,white,YEAR,edad_limpia
+276,usa,M,28,"Tiger shark, 10'  ",,N,Tiger,YEAR,edad_limpia
+277,australia,M,33,"White shark, 4m ",,N,white,YEAR,edad_limpia
+278,australia,M,20,Possibly a bull shark,,N,Bull,YEAR,edad_limpia
+279,usa,M,61,Possibly a 5' to 6' bull shark,,N,Bull,YEAR,edad_limpia
+280,usa,F,15,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+281,usa,M,17,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+282,australia,F,34,"Tawny nurse shark, 40cm",,N,Desconocido,YEAR,edad_limpia
+283,usa,M,19,4' shark,,N,Desconocido,YEAR,edad_limpia
+284,australia,M,26,"Tiger shark, 3m",,N,Tiger,YEAR,edad_limpia
+285,australia,M,44,"White shark, 2.7 m",,N,white,YEAR,edad_limpia
+286,south africa,M,25,Thought to involve a bull shark,,N,Bull,YEAR,edad_limpia
+287,australia,M,28,2 m shark,,N,Desconocido,YEAR,edad_limpia
+288,australia,M,34,Allegedly a 4 m tiger shark,,N,Tiger,YEAR,edad_limpia
+289,australia,M,51,"White shark, 2.5m",,N,white,YEAR,edad_limpia
+290,australia,M,10,Wobbegong shark?,,N,Desconocido,YEAR,edad_limpia
+291,australia,M,32,"White shark, 10'",,N,white,YEAR,edad_limpia
+292,australia,M,50,"Port Jackson shark, 1m",,N,Desconocido,YEAR,edad_limpia
+293,usa,M,27,No shark involvement,,N,Desconocido,YEAR,edad_limpia
+294,south africa,M,43,White shark,,N,white,YEAR,edad_limpia
+295,usa,M,21,"Bull shark, 6'",,N,Bull,YEAR,edad_limpia
+296,usa,M,25,4' to 6' shark,,N,Desconocido,YEAR,edad_limpia
+297,papua new guinea,M,30,"Tiger shark, 2m",,N,Tiger,YEAR,edad_limpia
+298,australia,M,21,White shark,,N,white,YEAR,edad_limpia
+299,usa,M,19,"6' shark, possibly a blactip or spinner shark",,N,Desconocido,YEAR,edad_limpia
+300,usa,M,19,6' shark,,N,Desconocido,YEAR,edad_limpia
+301,australia,M,48,Shark involvement prior to death not confirmed,,N,Desconocido,YEAR,edad_limpia
+302,south africa,M,49,"White shark, >6'",,N,white,YEAR,edad_limpia
+303,usa,F,20s,Possibly a 5' to 6' sandtiger shark,,N,Tiger,YEAR,edad_limpia
+304,russia,M,25,4 m shark,,N,Desconocido,YEAR,edad_limpia
+305,french polynesia,M,32,Grey reef shark ,,N,Grey,YEAR,edad_limpia
+306,seychelles,M,30,"Bull shark, 6'",,N,Bull,YEAR,edad_limpia
+307,south africa,M,29,"White shark, 3m to 4m",,N,white,YEAR,edad_limpia
+308,south africa,M,22,"Bull shark, 3m female",,N,Bull,YEAR,edad_limpia
+309,usa,F,10,"Bull shark, 6'",,N,Bull,YEAR,edad_limpia
+310,usa,M,28,"Blacktip shark, 4'",,N,Desconocido,YEAR,edad_limpia
+311,usa,M,19,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+312,south africa,M,28,Zambesi shark,,N,Desconocido,YEAR,edad_limpia
+313,new caledonia,M,15," Tiger shark, 2.8m",,N,Tiger,YEAR,edad_limpia
+314,australia,M,17,"reef shark, 1.5m",,N,Desconocido,YEAR,edad_limpia
+315,usa,M,49,1' to 2' shark,,N,Desconocido,YEAR,edad_limpia
+316,new zealand,M,41,possibly a bronze whaler shark,,N,Desconocido,YEAR,edad_limpia
+317,australia,M,48,"Bull shark, 2.5m",,N,Bull,YEAR,edad_limpia
+318,australia,F,24,3 m to 4 m shark,,N,Desconocido,YEAR,edad_limpia
+319,australia,M,36,"Bull shark, 2m",,N,Bull,YEAR,edad_limpia
+320,new caledonia,M,21,1.5 m shark,,N,Desconocido,YEAR,edad_limpia
+321,australia,M,49,White shark x 2,,N,white,YEAR,edad_limpia
+322,mexico,F,38,6' shark,,N,Desconocido,YEAR,edad_limpia
+323,bahamas,M,55,Caribbean reef shark,,N,Desconocido,YEAR,edad_limpia
+324,australia,F,7,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+325,usa,M,16,6' shark,,N,Desconocido,YEAR,edad_limpia
+326,egypt,F,70,"Oceanic whitetip shark, 2.5m ",,N,white,YEAR,edad_limpia
+327,egypt,M,54,Mako shark ,,N,Desconocido,YEAR,edad_limpia
+328,egypt,M,46,Mako shark,,N,Desconocido,YEAR,edad_limpia
+329,egypt,F,70,"Oceanic whitetip shark, 2.5m, female",,N,white,YEAR,edad_limpia
+330,egypt,F,48,"Oceanic whitetip shark, 2.5m, female",,N,white,YEAR,edad_limpia
+331,australia,F,20,White shark,,N,white,YEAR,edad_limpia
+332,usa,M,30,"Porbeagle shark, 8' ",,N,Desconocido,YEAR,edad_limpia
+333,usa,M,19,"White shark, 14' to 18' ",,N,white,YEAR,edad_limpia
+334,australia,M,22,"Bull shark, 1.4m ",,N,Bull,YEAR,edad_limpia
+335,usa,M,29,White shark,,N,white,YEAR,edad_limpia
+336,australia,M,15,2m shark,,N,Desconocido,YEAR,edad_limpia
+337,australia,M,31,White shark,,N,white,YEAR,edad_limpia
+338,usa,F,37,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+339,usa,M,10,Possibly a small blacktip shark,,N,Desconocido,YEAR,edad_limpia
+340,usa,F,13,"Sandtiger shark, 4' to 5'",,N,Tiger,YEAR,edad_limpia
+341,spain,M,9,Angel shark,,N,Desconocido,YEAR,edad_limpia
+342,usa,M,20,"Blue shark, 7'",,N,Desconocido,YEAR,edad_limpia
+343,usa,M,19,4' shark,,N,Desconocido,YEAR,edad_limpia
+344,usa,M,48,8' shark,,N,Desconocido,YEAR,edad_limpia
+345,vietnam,M,17,1 m shark,,N,Desconocido,YEAR,edad_limpia
+346,usa,F,18,4' shark,,N,Desconocido,YEAR,edad_limpia
+347,usa,M,49,"Lemon shark, 4'",,N,Lemon,YEAR,edad_limpia
+348,vietnam,F,58,20 to 30kg shark,,N,Desconocido,YEAR,edad_limpia
+349,vietnam,F,60,20 to 30kg shark,,N,Desconocido,YEAR,edad_limpia
+350,usa,F,10,4' shark,,N,Desconocido,YEAR,edad_limpia
+351,usa,M,29,"Lemon shark, 6'",,N,Lemon,YEAR,edad_limpia
+352,usa,M,68,14' shark,,N,Desconocido,YEAR,edad_limpia
+353,south africa,M,35,2 m shark,,N,Desconocido,YEAR,edad_limpia
+354,egypt,M,24,"Oceanic whitetip shark, 6'",,N,white,YEAR,edad_limpia
+355,reunion,M,34,1.5 m shark,,N,Desconocido,YEAR,edad_limpia
+356,australia,F,60,2 m shark,,N,Desconocido,YEAR,edad_limpia
+357,australia,M,46,"Wobbegong shark, 1.6m",,N,Desconocido,YEAR,edad_limpia
+358,australia,M,18,"White shark, 2.5m",,N,white,YEAR,edad_limpia
+359,guam,M,31,Invalid,,N,Desconocido,YEAR,edad_limpia
+360,new zealand,F,14,1.5 m shark,,N,Desconocido,YEAR,edad_limpia
+361,south africa,M,37,White shark,,N,white,YEAR,edad_limpia
+362,mozambique,M,27,"Zambesi shark, 2m ",,N,Desconocido,YEAR,edad_limpia
+363,australia,M,18,"Bull shark, 3m",,N,Bull,YEAR,edad_limpia
+364,usa,M,58,"Sandtiger shark, 8'",,N,Tiger,YEAR,edad_limpia
+365,usa,M,49,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+366,usa,M,10,6' shark,,N,Desconocido,YEAR,edad_limpia
+367,usa,M,31,Thresher shark,,N,Desconocido,YEAR,edad_limpia
+368,usa,M,18,4' shark,,N,Desconocido,YEAR,edad_limpia
+369,australia,M,25,2 m shark,,N,Desconocido,YEAR,edad_limpia
+370,australia,M,27,"White shark, 4m",,N,white,YEAR,edad_limpia
+371,usa,M,54,6' to 8' shark,,N,Desconocido,YEAR,edad_limpia
+372,scotland,M,23,Angel shark,,N,Desconocido,YEAR,edad_limpia
+373,united kingdom,M,39,Spurdog,,N,Desconocido,YEAR,edad_limpia
+374,usa,M,60,Shark involvement prior to death not confirmed,,N,Desconocido,YEAR,edad_limpia
+375,south africa,M,25,White shark,,N,white,YEAR,edad_limpia
+376,usa,F,22,"White shark, 5' to 6' juvenile ",,N,white,YEAR,edad_limpia
+377,usa,M,56,Bull shark?,,N,Bull,YEAR,edad_limpia
+378,usa,F,43,"Nurse shark, 6'",,N,Desconocido,YEAR,edad_limpia
+379,australia,M,52,"Thought to involve a Bronze whale shark, 2m",,N,Desconocido,YEAR,edad_limpia
+380,usa,M,14,"Shark involvement probable, but not confirmed",,N,Desconocido,YEAR,edad_limpia
+381,egypt,F,50,"Oceanic whitetip shark, 2.5 to 3m",,N,white,YEAR,edad_limpia
+382,taiwan,M,46,80 kg shark,,N,Desconocido,YEAR,edad_limpia
+383,usa,M,31,blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+384,usa,M,49,blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+385,usa,M,55,blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+386,guam,M,27,"Blacktip shark, 4'",,N,Desconocido,YEAR,edad_limpia
+387,usa,M,31,2' to 3' shark,,N,Desconocido,YEAR,edad_limpia
+388,australia,M,40,2' to 3' shark,,N,Desconocido,YEAR,edad_limpia
+389,south africa,M,24,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+390,australia,M,17,Bronze whaler shark?,,N,Desconocido,YEAR,edad_limpia
+391,usa,F,17,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+392,usa,M,61,Thought to involve a cookie cutter shark,,N,Desconocido,YEAR,edad_limpia
+393,south africa,M,40,"Blue shark, 1m",,N,Desconocido,YEAR,edad_limpia
+394,australia,M,15,2.6 m shark,,N,Desconocido,YEAR,edad_limpia
+395,australia,M,33,"White shark, 2.5m ",,N,white,YEAR,edad_limpia
+396,australia,M,31,"Bull shark, 2.7 m ",,N,Bull,YEAR,edad_limpia
+397,australia,M,41,"White shark, 12' ",,N,white,YEAR,edad_limpia
+398,cuba,M,15,Bull shark,,N,Bull,YEAR,edad_limpia
+399,south africa,M,25,Tiger shark,,N,Tiger,YEAR,edad_limpia
+400,australia,M,24,"Dusky shark, 2m",,N,Desconocido,YEAR,edad_limpia
+401,australia,F,13,"White shark, 5m",,N,white,YEAR,edad_limpia
+402,australia,M,31,"White shark, 3.5m",,N,white,YEAR,edad_limpia
+403,new zealand,M,49,Broadnose sevengill shark,,N,Desconocido,YEAR,edad_limpia
+404,australia,M,29,"White shark, 4m to 5m ",,N,white,YEAR,edad_limpia
+405,australia,M,51,4 to 5m white shark,,N,white,YEAR,edad_limpia
+406,south africa,M,15,"Raggedtooth shark, 2m",,N,Desconocido,YEAR,edad_limpia
+407,australia,M,34,"Grey nurse shark, 3m",,N,Grey,YEAR,edad_limpia
+408,croatia,M,43,5 m white shark,,N,white,YEAR,edad_limpia
+409,usa,M,40,+3' shark,,N,Desconocido,YEAR,edad_limpia
+410,australia,M,43,Bronze whaler shark,,N,Desconocido,YEAR,edad_limpia
+411,usa,M,40,Tiger shark,,N,Tiger,YEAR,edad_limpia
+412,australia,M,51,3 m shark,,N,Desconocido,YEAR,edad_limpia
+413,usa,M,52,4' shark,,N,Desconocido,YEAR,edad_limpia
+414,usa,M,27,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+415,usa,M,26,6' shark,,N,Desconocido,YEAR,edad_limpia
+416,usa,F,20,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+417,usa,F,38,8' bull shark or Caribbean reef shark,,N,Bull,YEAR,edad_limpia
+418,australia,M,31,8' white shark or 7-gill shark,,N,white,YEAR,edad_limpia
+419,usa,F,8,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+420,usa,M,16,4' shark,,N,Desconocido,YEAR,edad_limpia
+421,usa,M,53,Shark involvement prior to death not confirmed,,N,Desconocido,YEAR,edad_limpia
+422,south africa,M,46,"White shark, 2m",,N,white,YEAR,edad_limpia
+423,usa,M,37,4.5 to 5' shark,,N,Desconocido,YEAR,edad_limpia
+424,usa,F,40,"White shark, 15'",,N,white,YEAR,edad_limpia
+425,usa,F,15,5' shark,,N,Desconocido,YEAR,edad_limpia
+426,brazil,M,14,Bull shark,,N,Bull,YEAR,edad_limpia
+427,mexico,M,49,3 m shark,,N,Desconocido,YEAR,edad_limpia
+428,australia,M,37,"White shark, 4m",,N,white,YEAR,edad_limpia
+429,new caledonia,M,40,2 small bull sharks,,N,Bull,YEAR,edad_limpia
+430,mexico,M,24,Tiger shark,,N,Tiger,YEAR,edad_limpia
+431,usa,M,18,4' shark,,N,Desconocido,YEAR,edad_limpia
+432,new caledonia,M,32,"Bull shark, 1.8m",,N,Bull,YEAR,edad_limpia
+433,usa,M,66,"White shark, 12' to 15'",,N,white,YEAR,edad_limpia
+434,mexico,M,32,"Reported by media as shark attack, but shark involvement prior to death was not confirmed",,N,Desconocido,YEAR,edad_limpia
+435,australia,M,19,Shark involvement not confirmed; thought to be a barracuda bite,,N,Desconocido,YEAR,edad_limpia
+436,usa,M,30,1.5' to 2' shark,,N,Desconocido,YEAR,edad_limpia
+437,australia,M,16,Bull shark,,N,Bull,YEAR,edad_limpia
+438,usa,M,52,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+439,usa,M,13,2.5' shark,,N,Desconocido,YEAR,edad_limpia
+440,usa,M,8,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+441,usa,M,27,White shark,,N,white,YEAR,edad_limpia
+442,bahamas,M,49,"A bull shark, according to some of the divers on the boat",,N,Bull,YEAR,edad_limpia
+443,australia,M,20,"Mako shark, 90kg",,N,Desconocido,YEAR,edad_limpia
+444,australia,M,31,2 m shark,,N,Desconocido,YEAR,edad_limpia
+445,australia,M,34,Not a shark attack; it was a hoax,,N,Desconocido,YEAR,edad_limpia
+446,usa,M,52,Tiger shark,,N,Tiger,YEAR,edad_limpia
+447,south africa,M,14,1.5 to 2 m shark,,N,Desconocido,YEAR,edad_limpia
+448,usa,M,21,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+449,usa,M,42,5' shark,,N,Desconocido,YEAR,edad_limpia
+450,south africa,M,37,"White shark, 3m to 4m",,N,white,YEAR,edad_limpia
+451,usa,M,32,Tiger shark,,N,Tiger,YEAR,edad_limpia
+452,australia,F,52,"White shark, 2.5m ",,N,white,YEAR,edad_limpia
+453,australia,M,31,Bronze whaler shark,,N,Desconocido,YEAR,edad_limpia
+454,usa,M,22,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+455,usa,M,16,"Blacktip shark, 5'",,N,Desconocido,YEAR,edad_limpia
+456,new caledonia,F,23,Tiger shark,,N,Tiger,YEAR,edad_limpia
+457,bahamas,F,48,Caribbean reef shark,,N,Desconocido,YEAR,edad_limpia
+458,egypt,F,18 or 20,Oceanic whitetip sharks were in the vicinity,,N,white,YEAR,edad_limpia
+459,usa,M,23,3' shark,,N,Desconocido,YEAR,edad_limpia
+460,usa,F,Teen,9.5' shark?,,N,Desconocido,YEAR,edad_limpia
+461,usa,M,14,"Nurse shark, 2' to 3' ",,N,Desconocido,YEAR,edad_limpia
+462,usa,F,12,"18"" to 24"" shark",,N,Desconocido,YEAR,edad_limpia
+463,usa,M,58,Possibly a spinner shark,,N,Desconocido,YEAR,edad_limpia
+464,usa,M,15,"Tiger shark, 10' to 12' ",,N,Tiger,YEAR,edad_limpia
+465,usa,M,24,"White shark, 12'",,N,white,YEAR,edad_limpia
+466,usa,M,54,3' shark,,N,Desconocido,YEAR,edad_limpia
+467,usa,M,27,3' shark,,N,Desconocido,YEAR,edad_limpia
+468,usa,M,16,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+469,usa,M,20,Possibly a 6' bull shark,,N,Bull,YEAR,edad_limpia
+470,usa,F,15,_,,N,Desconocido,YEAR,edad_limpia
+471,usa,F,19,Possibly a 10' bull shark,,N,Bull,YEAR,edad_limpia
+472,usa,M,36,_,,N,Desconocido,YEAR,edad_limpia
+473,australia,M,15,"Bronze whaler shark, 1.5 m ",,N,Desconocido,YEAR,edad_limpia
+474,usa,M,14,2' to 3' shark,,N,Desconocido,YEAR,edad_limpia
+475,usa,F,43,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+476,usa,F,30,5' shark,,N,Desconocido,YEAR,edad_limpia
+477,bahamas,F,48,"Bull shark, 5' ",,N,Bull,YEAR,edad_limpia
+478,usa,M,20,4' shark,,N,Desconocido,YEAR,edad_limpia
+479,usa,F,9,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+480,usa,F,40,A 10-year-old 94-pound pregnant blacktip reef shark,,N,Desconocido,YEAR,edad_limpia
+481,england,M,38,"Lesser spotted dogfish, Scyliorhinus canicula, less than 80 cm in length",,N,Desconocido,YEAR,edad_limpia
+482,australia,F,38,2.5 m shark,,N,Desconocido,YEAR,edad_limpia
+483,australia,M,19,10' shark,,N,Desconocido,YEAR,edad_limpia
+484,usa,F,21,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+485,australia,M,45,Shark involvement prior to death was not confirmed,,N,Desconocido,YEAR,edad_limpia
+486,usa,F,63,"Tiger shark, 14' ",,N,Tiger,YEAR,edad_limpia
+487,usa,M,68,6' to 8' shark,,N,Desconocido,YEAR,edad_limpia
+488,australia,F,13,"""a small shark""",,N,Desconocido,YEAR,edad_limpia
+489,usa,M,12,blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+490,usa,M,24,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+491,new caledonia,M,26,Tiger shark,,N,Tiger,YEAR,edad_limpia
+493,usa,M,11,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+494,australia,F,42,1.5 m shark,,N,Desconocido,YEAR,edad_limpia
+495,australia,F,59,2 to 2.5 m shark,,N,Desconocido,YEAR,edad_limpia
+496,new caledonia,M,30,Tiger shark,,N,Tiger,YEAR,edad_limpia
+497,australia,M,41,"White shark, 3m",,N,white,YEAR,edad_limpia
+498,south africa,M,24,Tiger shark,,N,Tiger,YEAR,edad_limpia
+499,usa,M,54,"24"" to 30"" shark",,N,Desconocido,YEAR,edad_limpia
+500,usa,M,24,"6' to 8' shark, possibly a tiger shark",,N,Tiger,YEAR,edad_limpia
+501,australia,M,25,2.5 to 3 m shark,,N,Desconocido,YEAR,edad_limpia
+502,new zealand,M,10,2 to 3 m shark,,N,Desconocido,YEAR,edad_limpia
+503,usa,M,43,"White shark, 12' to 15' ",,N,white,YEAR,edad_limpia
+504,south africa,M,25,"Raggedtooth shark, 150-kg",,N,Desconocido,YEAR,edad_limpia
+505,australia,M,15,"White shark, 5m ",,N,white,YEAR,edad_limpia
+506,usa,M,29,2 m to 3 m shark,,N,Desconocido,YEAR,edad_limpia
+507,usa,M,22,"White shark, 16' ",,N,white,YEAR,edad_limpia
+508,usa,M,18,3' to 3.5' shark,,N,Desconocido,YEAR,edad_limpia
+509,usa,M,55,Spinner shark,,N,Desconocido,YEAR,edad_limpia
+510,australia,M,44,No shark involvement,,N,Desconocido,YEAR,edad_limpia
+511,usa,M,33,3' shark,,N,Desconocido,YEAR,edad_limpia
+512,south africa,M,24,White shark,,N,white,YEAR,edad_limpia
+513,usa,M,41,White shark?,,N,white,YEAR,edad_limpia
+514,south africa,M,19,"White shark, 3m to 4m",,N,white,YEAR,edad_limpia
+515,usa,M,14,_,,N,Desconocido,YEAR,edad_limpia
+516,usa,M,49,"Angel shark, 1.2m ",,N,Desconocido,YEAR,edad_limpia
+517,usa,F,14,5' to 6' spinner or bull shark,,N,Bull,YEAR,edad_limpia
+518,usa,F,22,Possibly a 1' to 3' blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+519,usa,M,24,2' to 3' shark,,N,Desconocido,YEAR,edad_limpia
+520,usa,F,7,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+521,australia,M,40,14' white shark,,N,white,YEAR,edad_limpia
+522,usa,M,26,"Tiger shark, 8' to 12'",,N,Tiger,YEAR,edad_limpia
+523,usa,M,15,"Grey reef shark, 5' to 8' ",,N,Grey,YEAR,edad_limpia
+524,usa,F,30s,"Tiger shark, 10' to 12'",,N,Tiger,YEAR,edad_limpia
+525,australia,M,46,"Wobbegong shark, 2 m ",,N,Desconocido,YEAR,edad_limpia
+526,usa,M,35,"Bull shark, 4' to bull shark",,N,Bull,YEAR,edad_limpia
+527,australia,M,15,"Bronze whaler shark, a  juvenile ",,N,Desconocido,YEAR,edad_limpia
+528,south africa,M,15,"Raggedtooth shark, 2.5 m to 3 m ",,N,Desconocido,YEAR,edad_limpia
+529,brazil,M,35,Tiger shark,,N,Tiger,YEAR,edad_limpia
+530,usa,F,28,"Tiger shark, 10'  ",,N,Tiger,YEAR,edad_limpia
+531,fiji,M,21,"Tiger shark, 5' ",,N,Tiger,YEAR,edad_limpia
+532,australia,M,15,"Bronze whaler shark, 2 m",,N,Desconocido,YEAR,edad_limpia
+533,usa,F,15,5' to 7' shark,,N,Desconocido,YEAR,edad_limpia
+534,usa,M,45,Invalid,,N,Desconocido,YEAR,edad_limpia
+535,south africa,M,15,Raggedtooth shark,,N,Desconocido,YEAR,edad_limpia
+536,tonga,F,24,Tiger shark,,N,Tiger,YEAR,edad_limpia
+537,usa,M,57,12' to 18' shark,,N,Desconocido,YEAR,edad_limpia
+538,australia,M,52,3.5 m white shark,,N,white,YEAR,edad_limpia
+539,australia,F,21,Bull shark,,N,Bull,YEAR,edad_limpia
+540,usa,M,21,4' shark,,N,Desconocido,YEAR,edad_limpia
+541,usa,M,30,White shark,,N,white,YEAR,edad_limpia
+542,usa,M,29,Tiger shark,,N,Tiger,YEAR,edad_limpia
+543,australia,M,44,Whitetip reef shark,,N,white,YEAR,edad_limpia
+544,usa,M,23,4' shark,,N,Desconocido,YEAR,edad_limpia
+545,australia,M,18,1.8 m shark,,N,Desconocido,YEAR,edad_limpia
+546,usa,M,30s,4' shark,,N,Desconocido,YEAR,edad_limpia
+547,south africa,M,32,"Raggedtooth shark, 2.5m ",,N,Desconocido,YEAR,edad_limpia
+548,usa,M,18,6' shark,,N,Desconocido,YEAR,edad_limpia
+549,usa,M,26,12' to 14' white shark,,N,white,YEAR,edad_limpia
+550,st. maartin,M,55,2' shark,,N,Desconocido,YEAR,edad_limpia
+551,south africa,M,20,3 m shark,,N,Desconocido,YEAR,edad_limpia
+552,usa,M,36,White shark,,N,white,YEAR,edad_limpia
+553,usa,F,20,18' white shark,,N,white,YEAR,edad_limpia
+554,usa,M,22,"Tiger shark, less than 10'",,N,Tiger,YEAR,edad_limpia
+555,grand cayman,F,57,Caribbean reef sharks,,N,Desconocido,YEAR,edad_limpia
+556,south africa,M,52,White shark,,N,white,YEAR,edad_limpia
+557,australia,M,26,14' to 16' white shark,,N,white,YEAR,edad_limpia
+558,australia,M,44,Bronze whaler shark,,N,Desconocido,YEAR,edad_limpia
+559,usa,F,68,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+560,usa,F,18,Bull shark,,N,Bull,YEAR,edad_limpia
+561,australia,M,40,4 m [13'] white shark,,N,white,YEAR,edad_limpia
+562,australia,M,23,White shark,,N,white,YEAR,edad_limpia
+563,usa,M,37,juvenile white shark,,N,white,YEAR,edad_limpia
+564,usa,M,17,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+565,usa,M,8,Possibly a sandbar shark or small blacktip shark,,N,Desconocido,YEAR,edad_limpia
+566,usa,M,16,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+567,usa,M,25,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+568,usa,M,22,[4.5' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+569,usa,F,14,[4' to 5'],,N,Desconocido,YEAR,edad_limpia
+570,usa,M,16,Bull shark,,N,Bull,YEAR,edad_limpia
+571,usa,F,14,1.8 m [6'] bull shark,,N,Bull,YEAR,edad_limpia
+572,vanuatu,F,7,"On 8/13/2005 anglers from New Zealand caught a 2.8 m [9'3""], 140-kg [309-lb] shark at the same spot. It was believed this was the same shark that killed Alysha",,N,Desconocido,YEAR,edad_limpia
+573,usa,M,49,Invalid,,N,Desconocido,YEAR,edad_limpia
+574,usa,M,20,"Unknown, but it was reported that a shark tooth was recovered from the wound",,N,Desconocido,YEAR,edad_limpia
+575,usa,M,17,"Mr. Burgess of ISAF announced the injury was the bite of a 1.8 m [6'], 2- to 3-year old white shark. Subsequent investigation revealed there was  no shark involvement in this incident",,N,white,YEAR,edad_limpia
+576,south africa,M,22,White shark,,N,white,YEAR,edad_limpia
+577,usa,M,33,"""small shark""",,N,Desconocido,YEAR,edad_limpia
+578,south africa,M,32,Raggedtooth shark,,N,Desconocido,YEAR,edad_limpia
+579,usa,M,47,"Tiger shark, 3 m [10']",,N,Tiger,YEAR,edad_limpia
+580,australia,M,25,"Mako shark, 1.5 m [5'] ",,N,Desconocido,YEAR,edad_limpia
+581,australia,M,40,Bronze whaler shark,,N,Desconocido,YEAR,edad_limpia
+582,south africa,M,32,4 m [13'] shark,,N,Desconocido,YEAR,edad_limpia
+583,australia,M,26,6 m [20'] white shark,,N,white,YEAR,edad_limpia
+584,usa,M,45,"Sandtiger shark, 2.1 m [7'] ",,N,Tiger,YEAR,edad_limpia
+585,new zealand,M,39,White shark,,N,white,YEAR,edad_limpia
+586,australia,M,18,4.5 m & 5 m white shark ,,N,white,YEAR,edad_limpia
+587,australia,M,38,Bull shark,,N,Bull,YEAR,edad_limpia
+588,south africa,M,20,Raggedtooth shark,,N,Desconocido,YEAR,edad_limpia
+589,south africa,F,77,6 m [20'] white shark,,N,white,YEAR,edad_limpia
+590,usa,lli,38,5.5 m [18'] white shark,,N,white,YEAR,edad_limpia
+591,cuba,M,40,2.5 m [8.25'] bull shark,,N,Bull,YEAR,edad_limpia
+592,south africa,M,52,2 m [6.75'] white shark,,N,white,YEAR,edad_limpia
+593,australia,M,59,"Bronze whaler shark, 2.4 m [8'] ",,N,Desconocido,YEAR,edad_limpia
+594,usa,M,34,"Tiger shark, 2.4 m to 3.7 m [8' to 12'] ",,N,Tiger,YEAR,edad_limpia
+595,south africa,M,34,"Raggedtooth shark, 1.5 to 2 m [5' to 6.75']",,N,Desconocido,YEAR,edad_limpia
+596,reunion,M,15,Thought to involve a 2.5 m bull or tiger shark,,N,Tiger,YEAR,edad_limpia
+597,usa,M,26,White shark,,N,white,YEAR,edad_limpia
+598,usa,F,17,2.4 m [8'] shark,,N,Desconocido,YEAR,edad_limpia
+599,brazil,M,24,"Tiger shark, 1.5 m ",,N,Tiger,YEAR,edad_limpia
+600,usa,M,50,4.9 m to 5.5 m [16' to 18'] white shark,,N,white,YEAR,edad_limpia
+601,usa,M,47,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+602,usa,F,13,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+603,usa,F,19,1.2 m to 1.5 m [4' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+604,usa,M,11,Bull shark,,N,Bull,YEAR,edad_limpia
+605,australia,M,30,"2 sharks, 4.5 m & 3 m ",,N,Desconocido,YEAR,edad_limpia
+606,usa,M,7,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+607,usa,M,45,"9'2"" white shark",,N,white,YEAR,edad_limpia
+608,australia,M,17,"Bronze whaler shark, 2.5 m [8.25'] ",,N,Desconocido,YEAR,edad_limpia
+609,usa,M,8,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+610,south africa,M,21,White shark,,N,white,YEAR,edad_limpia
+611,usa,M,16,0.9 m to 1.5 m [3' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+612,brazil,M,17,Bull shark,,N,Bull,YEAR,edad_limpia
+613,usa,M,44,2.4 m to 3.7 m [8' to 12'] shark,,N,Desconocido,YEAR,edad_limpia
+614,bahamas,M,63,"1,5 m [5'] Caribbean reef shark (Carcharhinus  perezi)",,N,Desconocido,YEAR,edad_limpia
+615,usa,M,28,"Mako shark, 1.8 m [6']",,N,Desconocido,YEAR,edad_limpia
+616,usa,M,57,Tiger shark,,N,Tiger,YEAR,edad_limpia
+617,south africa,M,16,5 m [16.5'] white shark,,N,white,YEAR,edad_limpia
+618,usa,M,20,1.2 m [4'] bull shark,,N,Bull,YEAR,edad_limpia
+619,brazil,M,22,bull shark,,N,Bull,YEAR,edad_limpia
+620,reunion,M,20,2.5 m shark,,N,Desconocido,YEAR,edad_limpia
+621,usa,M,51,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",,N,Tiger,YEAR,edad_limpia
+622,new zealand,M,15,2 m [6.75'] sevengill  shark,,N,Desconocido,YEAR,edad_limpia
+623,australia,M,31,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+624,australia,M,46,4 m to 5 m [13' to 16.5'] white shark,,N,white,YEAR,edad_limpia
+625,venezuela,M,40,"Bull shark, 132-kg [291-lb] ",,N,Bull,YEAR,edad_limpia
+626,south africa,M,21,"Tiger shark, 4 m [13']  ?",,N,Tiger,YEAR,edad_limpia
+627,usa,F,35,4' shark,,N,Desconocido,YEAR,edad_limpia
+628,usa,M,18,1.2 m to 1.5 m [4' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+629,australia,M,22,"1.5 m [5'] shark, either a bronze whaler or a grey nurse shark",,N,Grey,YEAR,edad_limpia
+630,usa,F,13,"Tiger shark, 14' ",,N,Tiger,YEAR,edad_limpia
+631,usa,M,56,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+632,usa,M,19,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+633,usa,F,41,"1.2 m [4'] ""grey-colored shark""",,N,Grey,YEAR,edad_limpia
+634,usa,M,30,3' shark,,N,Desconocido,YEAR,edad_limpia
+635,usa,F,8 or 10,Shark involvement doubtful,,N,Desconocido,YEAR,edad_limpia
+636,usa,M,18,6' shark,,N,Desconocido,YEAR,edad_limpia
+637,usa,M,15,7' shark,,N,Desconocido,YEAR,edad_limpia
+638,south africa,M,19,White shark,,N,white,YEAR,edad_limpia
+639,usa,F,50,4.5 m to 5.5 m [15' to 18'] white shark,,N,white,YEAR,edad_limpia
+640,usa,M,31,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+641,south africa,M,16,3.5 m [11.5'] white shark,,N,white,YEAR,edad_limpia
+642,bahamas,M,58,Unidentified species,,N,Desconocido,YEAR,edad_limpia
+643,usa,M,10,2' shark,,N,Desconocido,YEAR,edad_limpia
+644,bahamas,M,39,2.1 m  [7'] bull shark,,N,Bull,YEAR,edad_limpia
+645,usa,M,17,Unidentified species,,N,Desconocido,YEAR,edad_limpia
+646,usa,M,15,106 cm [3.5']  shark,,N,Desconocido,YEAR,edad_limpia
+647,usa,F,12,small brown shark,,N,Desconocido,YEAR,edad_limpia
+648,usa,M,60,3.7 m to 4.3 m [12' to 14'] shark,,N,Desconocido,YEAR,edad_limpia
+649,usa,M,33,"""sand shark""",,N,Desconocido,YEAR,edad_limpia
+650,usa,M,22,3' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+651,usa,M,20,1.8 m [6'] reef shark - or a 2.1 m to 2.4 m [7' to 8'] grey-colored shark,,N,Grey,YEAR,edad_limpia
+652,usa,M,34,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+653,brazil,M,17,Bull shark,,N,Bull,YEAR,edad_limpia
+654,usa,M,36,Unidentified species,,N,Desconocido,YEAR,edad_limpia
+656,usa,M,30,Unidentified species,,N,Desconocido,YEAR,edad_limpia
+657,usa,M,23,0.9 m to 1.2 m [3' to 4'] shark,,N,Desconocido,YEAR,edad_limpia
+658,usa,M,18,Unidentified species,,N,Desconocido,YEAR,edad_limpia
+659,usa,M,11,A small shark,,N,Desconocido,YEAR,edad_limpia
+660,usa,M,12,Unidentified species,,N,Desconocido,YEAR,edad_limpia
+661,usa,M,20,"15 cm to 20 cm [6"" to 8""] bite diameter just below left knee",,N,Desconocido,YEAR,edad_limpia
+662,venezuela,M,28,"Mako shark, 3 m [10']",,N,Desconocido,YEAR,edad_limpia
+663,usa,M,50,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+664,new zealand,M,44,2.5 m [8.25'] white shark,,N,white,YEAR,edad_limpia
+665,australia,M,37,"""a small shark""",,N,Desconocido,YEAR,edad_limpia
+666,usa,M,54,Species unidentified,,N,Desconocido,YEAR,edad_limpia
+667,australia,M,24,Thought to involve a 2 m [6.75'] grey nurse shark,,N,Grey,YEAR,edad_limpia
+668,australia,M,84,Thought to involve a >2 m [6.75'] bull shark,,N,Bull,YEAR,edad_limpia
+669,south africa,M,14,Shark involvement prior to death was not confirmed,,N,Desconocido,YEAR,edad_limpia
+670,south africa,M,25,"White shark, 4 m white shark",,N,white,YEAR,edad_limpia
+671,australia,M,23,Bull shark,,N,Bull,YEAR,edad_limpia
+672,usa,M,48,3 m to 4.5 m [10' to 15'] white shark,,N,white,YEAR,edad_limpia
+673,usa,F,34,2.4 m to 3 m [8' to 10'] grey colored shark,,N,Grey,YEAR,edad_limpia
+674,turks & caicos,F,41,1.8 m to 2.1 m [6' to 7']  Caribbean Reef Shark ,,N,Desconocido,YEAR,edad_limpia
+675,usa,M,21,6' shark,,N,Desconocido,YEAR,edad_limpia
+676,usa,M,16,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+677,usa,F,60,A small shark,,N,Desconocido,YEAR,edad_limpia
+678,brazil,M,36,Possibly a bull shark or tiger shark,,N,Tiger,YEAR,edad_limpia
+679,usa,M,14,Blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+680,usa,M,35,3.5' to 4.5' shark,,N,Desconocido,YEAR,edad_limpia
+681,usa,M,18,3.5' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+682,usa,M,47,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+683,usa,M,55,1.2 m [4'] blacktip shark,,N,Desconocido,YEAR,edad_limpia
+684,usa,M,  ,1.8 m [6'] blacktip shark,,N,Desconocido,YEAR,edad_limpia
+685,tonga,M,_,"Tiger shark, 1.5 m [5']k",,N,Tiger,YEAR,edad_limpia
+686,usa,M,24,2.4 m [8'] shark,,N,Desconocido,YEAR,edad_limpia
+687,usa,M,35,3 m to 3.7 m [10' to 12'] shark,,N,Desconocido,YEAR,edad_limpia
+688,brazil,M,19,Bull or tiger shark,,N,Tiger,YEAR,edad_limpia
+689,south africa,M,47,White shark,,N,white,YEAR,edad_limpia
+690,usa,M,20,4' to 6' shark,,N,Desconocido,YEAR,edad_limpia
+691,usa,M,36,1' to 2' hammerhead or bonnethed shark,,N,Desconocido,YEAR,edad_limpia
+692,usa,M,16,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",,N,Tiger,YEAR,edad_limpia
+693,usa,M,27,0.9 m  to 1.2 m [3' to 4'] shark,,N,Desconocido,YEAR,edad_limpia
+694,usa,M,15,"Nurse shark, 1.5 m [5'] ",,N,Desconocido,YEAR,edad_limpia
+695,usa,M,14,1.2 m to 1.5 m [4' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+696,usa,M,13,1.2 m [4'] blacktip or sandbar shark,,N,Desconocido,YEAR,edad_limpia
+697,usa,F,15,"Bull shark, 1.8 m to 2.1 m [6' to 7'] ",,N,Bull,YEAR,edad_limpia
+698,usa,M,41,"Mako shark, 400-lb ",,N,Desconocido,YEAR,edad_limpia
+699,brazil,M,22,Bull or tiger shark,,N,Tiger,YEAR,edad_limpia
+700,usa,F,9,"1.2 m to 1.5 m [4' to 5'] shark, possibly a bull shark",,N,Bull,YEAR,edad_limpia
+701,usa,M,28,0.9 m to 1.2 m [3' to 4'] shark; Tooth fragment recovered from hand,,N,Desconocido,YEAR,edad_limpia
+702,usa,M,50,  ,,N,Desconocido,YEAR,edad_limpia
+703,south africa,M,50,1.5 to 2.5 m [5' to 8.25'] copper shark,,N,Desconocido,YEAR,edad_limpia
+704,usa,M,24,3.7 m to 4.3 m [12' to 14'] white shark,,N,white,YEAR,edad_limpia
+705,usa,M,16,1 m  shark,,N,Desconocido,YEAR,edad_limpia
+706,usa,M,55,3' blacktip shark,,N,Desconocido,YEAR,edad_limpia
+707,australia,M,23,"White shark, 6m [20']",,N,white,YEAR,edad_limpia
+708,usa,M,34,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+709,bahamas,M,43,"Bull shark, 400-lb ",,N,Bull,YEAR,edad_limpia
+710,usa,M,41,3'  shark,,N,Desconocido,YEAR,edad_limpia
+711,usa,M,29,0.9 m [3'] shark,,N,Desconocido,YEAR,edad_limpia
+712,usa,M,17,Tiger shark,,N,Tiger,YEAR,edad_limpia
+713,usa,F,11,  ,,N,Desconocido,YEAR,edad_limpia
+714,usa,M,20,4' shark,,N,Desconocido,YEAR,edad_limpia
+715,usa,M,39,"Nurse shark, 1m ",,N,Desconocido,YEAR,edad_limpia
+716,usa,M,31,"Spinner shark, 3' to 4' ",,N,Desconocido,YEAR,edad_limpia
+717,australia,M,30 or 36,"1.5 m [5'] ""whaler shark""",,N,Desconocido,YEAR,edad_limpia
+718,australia,M,35,C. leucas tooth fragment recovered from kayak,,N,Desconocido,YEAR,edad_limpia
+719,australia,M,20,"Tiger shark, 3 m [10']",,N,Tiger,YEAR,edad_limpia
+720,south africa,M,16,Zambesi shark?,,N,Desconocido,YEAR,edad_limpia
+721,south africa,M,26,Unidentified,,N,Desconocido,YEAR,edad_limpia
+722,usa,M,35,"Tiger shark, 1.8 m [6'] ",,N,Tiger,YEAR,edad_limpia
+723,australia,F,20,Bronze whaler shark?,,N,Desconocido,YEAR,edad_limpia
+724,mexico,M,26,"Tiger shark, 1.8 m [6']",,N,Tiger,YEAR,edad_limpia
+725,usa,M,21,4' shark,,N,Desconocido,YEAR,edad_limpia
+726,usa,M,42,Questionable incident - shark bite may have precipitated drowning,,N,Desconocido,YEAR,edad_limpia
+727,usa,M,6½,2' to 3.5' shark,,N,Desconocido,YEAR,edad_limpia
+728,usa,M,28,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,,N,white,YEAR,edad_limpia
+729,usa,F,23,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.,,N,white,YEAR,edad_limpia
+730,usa,M,20,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+731,usa,M,10,bull shark,,N,Bull,YEAR,edad_limpia
+732,bahamas,M,44,3 m [10'] bull shark,,N,Bull,YEAR,edad_limpia
+733,usa,M,17,a small shark,,N,Desconocido,YEAR,edad_limpia
+734,usa,M,20,Possibly  a blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+735,usa,M,19,"3' shark, possibly  a blacktip or spinner shark",,N,Desconocido,YEAR,edad_limpia
+736,usa,M,19,"Blacktip shark, 5' to 6' ",,N,Desconocido,YEAR,edad_limpia
+737,bahamas,M,43,1.9 m [6.5'] bull shark,,N,Bull,YEAR,edad_limpia
+738,usa,M,18,0.9 m  [3'] shark,,N,Desconocido,YEAR,edad_limpia
+739,usa,M,8,"Bull shark, 2.3 m [7.5'] ",,N,Bull,YEAR,edad_limpia
+740,usa,M,52,"White shark, 2.4 m to 3 m [8' to 10'] ",,N,white,YEAR,edad_limpia
+741,usa,F,29,2' shark,,N,Desconocido,YEAR,edad_limpia
+742,usa,M,45,1.2 m to 1.5 m [4' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+743,usa,M,12,Possibly a juvenile blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+744,usa,M,21,Possibly a juvenile blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+746,usa,M,22,Possibly a 1.5 m [5'] blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+747,usa,M,19,Possibly a juvenile blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+748,south africa,M,46,"White shark, 2.7 m [9'] ",,N,white,YEAR,edad_limpia
+749,usa,M,26,"""small shark""",,N,Desconocido,YEAR,edad_limpia
+750,australia,M,40,Bronze whaler shark,,N,Desconocido,YEAR,edad_limpia
+751,australia,M,40,"Bronze whaler shark, 2.5 m [8.25']  k",,N,Desconocido,YEAR,edad_limpia
+752,fiji,M,47,6 m [20'] shark,,N,Desconocido,YEAR,edad_limpia
+753,australia,M,38,"Bronze whaler shark, 2.5 m [8.25'] ",,N,Desconocido,YEAR,edad_limpia
+754,usa,M,73,1.2 m to 1.8 m [4' to 6'] shark,,N,Desconocido,YEAR,edad_limpia
+755,australia,M,52,"White shark, 4.9 m [16'] ",,N,white,YEAR,edad_limpia
+756,australia,M,49,"White shark, 5 m [16.5'] ",,N,white,YEAR,edad_limpia
+757,usa,M,27,"White shark, 2.4 m to 3 m [8' to 10'] ",,N,white,YEAR,edad_limpia
+758,usa,F,56,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",,N,Tiger,YEAR,edad_limpia
+759,usa,M,17,2.1 to 2.4 m [7' to 8'] shark,,N,Desconocido,YEAR,edad_limpia
+760,usa,M,23,"Blacktip shark, 2' ",,N,Desconocido,YEAR,edad_limpia
+761,australia,M,17,White shark,,N,white,YEAR,edad_limpia
+762,australia,M,25,"White shark, 4 m to 5 m [13' to 16.5'] ",,N,white,YEAR,edad_limpia
+763,okinawa,M,31,"White shark, 2.5 m ",,N,white,YEAR,edad_limpia
+764,usa,M,25,60 cm to 90 cm [2' to 3'] shark,,N,Desconocido,YEAR,edad_limpia
+765,south africa,M,48,"White shark, 3.5 m [11.5']  male ",,N,white,YEAR,edad_limpia
+766,usa,M,40,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+767,reunion,M,27,"Tiger shark, 3 m [10'] ",,N,Tiger,YEAR,edad_limpia
+768,usa,M,47,A 2' shark was seen in the area by witnesses,,N,Desconocido,YEAR,edad_limpia
+769,usa,M,69,"Thought to involve a 2.7 m [9'], 400-lb bull shark",,N,Bull,YEAR,edad_limpia
+770,usa,M,53,"Tiger shark, 3.7 m to 4.5 m [12' to 14'9""]  ",,N,Tiger,YEAR,edad_limpia
+771,usa,M,27,juvenile shark,,N,Desconocido,YEAR,edad_limpia
+772,usa,F,44,"Blacktip shark, 2.4 m to 3 m [8' to 10'] ",,N,Desconocido,YEAR,edad_limpia
+773,usa,F,12,"Tiger shark, 0.9 m to 1.5 m [3' to 5'] ?",,N,Tiger,YEAR,edad_limpia
+774,usa,F,55,"Nurse shark, 1.2 m [4'] ",,N,Desconocido,YEAR,edad_limpia
+775,usa,F,13,0.9 m [3'] shark,,N,Desconocido,YEAR,edad_limpia
+776,usa,F,19,"0.9 m [3'] shark,  probably a blacktip or spinner shark",,N,Desconocido,YEAR,edad_limpia
+777,usa,M,17,"Blacktip shark, 1.2 m to 1.8 m [4' to 6'] ",,N,Desconocido,YEAR,edad_limpia
+778,usa,M,55,Bull shark?,,N,Bull,YEAR,edad_limpia
+779,usa,M,44,Bull shark,,N,Bull,YEAR,edad_limpia
+780,australia,M,26,2.5 m shark,,N,Desconocido,YEAR,edad_limpia
+781,usa,F,14,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+782,usa,M,37,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+783,new caledonia,M,35,Tiger shark?,,N,Tiger,YEAR,edad_limpia
+784,usa,M,39,"Shortfin mako shark, 3 m to 3.4 m [10' to 11'] ",,N,Desconocido,YEAR,edad_limpia
+785,brazil,M,39,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+786,usa,F,51,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",,N,Tiger,YEAR,edad_limpia
+787,brazil,M,39,1.3 to 1.6 m shark,,N,Desconocido,YEAR,edad_limpia
+788,usa,M,16,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",,N,Tiger,YEAR,edad_limpia
+789,usa,M,37,White shark,,N,white,YEAR,edad_limpia
+790,usa,M,28,"""a small shark""",,N,Desconocido,YEAR,edad_limpia
+791,marshall islands,M,23,7' shark,,N,Desconocido,YEAR,edad_limpia
+792,usa,M,10,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+793,usa,M,62,4' to 5' shark,,N,Desconocido,YEAR,edad_limpia
+794,bahamas,M,35,2.7 m [9']  bull shark or Caribbean reef shark,,N,Bull,YEAR,edad_limpia
+795,south africa,M,42,"White shark, 3 m to 5 m [10' to 16.5'] ",,N,white,YEAR,edad_limpia
+796,usa,M,43,"Bull shark, 2.1 m [7']",,N,Bull,YEAR,edad_limpia
+797,usa,M,43,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] ",,N,Tiger,YEAR,edad_limpia
+798,south africa,M,14,White shark,,N,white,YEAR,edad_limpia
+799,usa,F,30,"Blacktip shark, 1.8 m [6'] ",,N,Desconocido,YEAR,edad_limpia
+800,south africa,M,29,"White shark, 4 m [13'] ",,N,white,YEAR,edad_limpia
+801,usa,M,21,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+802,usa,M,5,Blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+803,australia,M,22,Thought to involve a white shark,,N,white,YEAR,edad_limpia
+804,brazil,M,21,"Tiger shark, 2.5 m [8.25']",,N,Tiger,YEAR,edad_limpia
+805,mauritius,F,41,"Grey reef shark, 1.5 m ",,N,Grey,YEAR,edad_limpia
+806,reunion,M,52,3 bull sharks,,N,Bull,YEAR,edad_limpia
+807,usa,F,29,3.7 m to 4.6 m [12' to 15'] shark seen in the vicinity,,N,Desconocido,YEAR,edad_limpia
+808,australia,M,35,Bronze whaler or tiger shark,,N,Tiger,YEAR,edad_limpia
+809,usa,M,25,Spinner shark,,N,Desconocido,YEAR,edad_limpia
+810,south africa,M,30,"White shark, 4.6 m [15'] ",,N,white,YEAR,edad_limpia
+811,south africa,M,18,Possibly a white shark,,N,white,YEAR,edad_limpia
+812,usa,M,9,Tiger shark,,N,Tiger,YEAR,edad_limpia
+813,usa,M,14,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+814,usa,M,13,"A ""small shark""",,N,Desconocido,YEAR,edad_limpia
+815,brazil,M,22,Though to involve a white shark,,N,white,YEAR,edad_limpia
+816,usa,M,26,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+817,usa,M,16,"White shark, 5 m to 6 m [16.5' to 20'] ",,N,white,YEAR,edad_limpia
+818,bahamas,M,28,"Caribbean reef shark, 1.2 m to 1.5 m [4' to 5'] ",,N,Desconocido,YEAR,edad_limpia
+819,south africa,M,24,"White shark, 4.9 m [16']",,N,white,YEAR,edad_limpia
+820,south africa,M,16,5' to 6' shark,,N,Desconocido,YEAR,edad_limpia
+821,australia,M,26,Thought to involve a 5.5 m white shark named Kong,,N,white,YEAR,edad_limpia
+822,south africa,M,20,White shark,,N,white,YEAR,edad_limpia
+823,south africa,M,15,3 m to 4 m [10' to 13'] white shark,,N,white,YEAR,edad_limpia
+824,south africa,M,16,Unidentified,,N,Desconocido,YEAR,edad_limpia
+825,usa,M,40,"Lemon shark, 1.5 m [5'], identified  by the surfer",,N,Lemon,YEAR,edad_limpia
+826,usa,F,14,"1.8 m [6'] shark, possibly a blacktip",,N,Desconocido,YEAR,edad_limpia
+827,south africa,M,22,4 m [13'] white shark,,N,white,YEAR,edad_limpia
+828,mozambique,F,35,3 m [10'] shark,,N,Desconocido,YEAR,edad_limpia
+829,usa,M,50,5 m [16.5'] white shark,,N,white,YEAR,edad_limpia
+830,south africa,M,33,3 m [10'] white shark,,N,white,YEAR,edad_limpia
+831,usa,M,32,5' spinner shark,,N,Desconocido,YEAR,edad_limpia
+832,australia,M,31,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+833,mozambique,M,23,Small dusky shark or blackfin shark,,N,Desconocido,YEAR,edad_limpia
+834,south africa,M,39,White shark,,N,white,YEAR,edad_limpia
+835,australia,M,42,White shark,,N,white,YEAR,edad_limpia
+836,usa,M,19,"Tiger shark, 4 m to 4.3 m [13' to 14'] ",,N,Tiger,YEAR,edad_limpia
+837,usa,M,23,Possibly a blacktip shark,,N,Desconocido,YEAR,edad_limpia
+838,usa,M,12,1.2 m to 1.5 m [4' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+839,usa,M,29,5 m [16.5'] white shark,,N,white,YEAR,edad_limpia
+840,usa,M,17,juvenile shark,,N,Desconocido,YEAR,edad_limpia
+841,usa,M,19,"""juvenile shark""",,N,Desconocido,YEAR,edad_limpia
+842,south africa,M,25,4.5 m white shark,,N,white,YEAR,edad_limpia
+843,usa,M,50,Blacktip shark,,N,Desconocido,YEAR,edad_limpia
+844,fiji,F,47,"Tiger shark, 2.7m  [9']",,N,Tiger,YEAR,edad_limpia
+845,usa,M,18,Possibly a spinner shark,,N,Desconocido,YEAR,edad_limpia
+846,usa,M,33,1.2 m [4'] shark (spinner shark?),,N,Desconocido,YEAR,edad_limpia
+847,usa,M,35,4' shark,,N,Desconocido,YEAR,edad_limpia
+848,usa,M,34,Possibly a sand shark,,N,Desconocido,YEAR,edad_limpia
+849,usa,M,12,Possibly a sand shark,,N,Desconocido,YEAR,edad_limpia
+850,australia,M, 30,"Tiger shark, 2m to 3m ",,N,Tiger,YEAR,edad_limpia
+851,australia,M,27,1.8 m to 2.1 m [6' to 7'] shark,,N,Desconocido,YEAR,edad_limpia
+852,australia,M,41,"Tiger shark, 4.5 m [14'9""]",,N,Tiger,YEAR,edad_limpia
+853,usa,M,45,3 m to 5 m [10' to 16.5'] white shark,,N,white,YEAR,edad_limpia
+854,usa,M,22,5.5 m to 6 m [18' to 20'] white shark,,N,white,YEAR,edad_limpia
+855,usa,M,21,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+856,usa,M,31,5 m [16.5'] white shark,,N,white,YEAR,edad_limpia
+857,new zealand,M,23,White shark,,N,white,YEAR,edad_limpia
+858,usa,M,19,"""a young shark""",,N,Desconocido,YEAR,edad_limpia
+859,usa,F,28,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+860,south africa,M,29,White shark,,N,white,YEAR,edad_limpia
+861,usa,M,19,"Tiger shark, 2.4 m [8'] ",,N,Tiger,YEAR,edad_limpia
+862,usa,M,36,6 m [20'] white shark,,N,white,YEAR,edad_limpia
+863,usa,M,21,1.8 m to 2.1 m [6' to 7'] hammerhead shark,,N,Desconocido,YEAR,edad_limpia
+864,usa,F,63,5' to 6' shark,,N,Desconocido,YEAR,edad_limpia
+865,south africa,M,17,2.5 m [8.25'] white shark ,,N,white,YEAR,edad_limpia
+866,usa,M,22,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+867,usa,M,27,60 cm to 90 cm [2' to 3'] blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+868,australia,F,47,Tiger shark,,N,Tiger,YEAR,edad_limpia
+869,australia,M,24,Bronze whaler shark,,N,Desconocido,YEAR,edad_limpia
+870,australia,M,7,"""reef shark""",,N,Desconocido,YEAR,edad_limpia
+871,usa,M,53,Possibly a tiger shark,,N,Tiger,YEAR,edad_limpia
+872,reunion,M,25,"Tiger shark, 300-kg [662-lb] ",,N,Tiger,YEAR,edad_limpia
+873,australia,F,15,4 m shark,,N,Desconocido,YEAR,edad_limpia
+874,usa,M,39,1.2 m to 1.5 m [4' to 5']   shark,,N,Desconocido,YEAR,edad_limpia
+875,usa,M,14,1.5 to 1.8 m [5' to 6'] shark,,N,Desconocido,YEAR,edad_limpia
+876,usa,M,25,4 m [13'] white shark,,N,white,YEAR,edad_limpia
+877,australia,M,29,White shark,,N,white,YEAR,edad_limpia
+878,usa,M,32,3 m to 4 m [10' to 13'] white shark,,N,white,YEAR,edad_limpia
+879,usa,M,16,5' shark,,N,Desconocido,YEAR,edad_limpia
+880,usa,M,18,"""a small shark""",,N,Desconocido,YEAR,edad_limpia
+881,usa,M,16,1.2 m to 1.5 m [4' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+882,usa,M,23,"""sand"" shark",,N,Desconocido,YEAR,edad_limpia
+883,usa,M,19,"""small shark""",,N,Desconocido,YEAR,edad_limpia
+884,tonga,M,18,"""small shark""",,N,Desconocido,YEAR,edad_limpia
+885,usa,M,20,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+886,usa,M,12,1.2 m to 1.5 m [4' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+887,usa,M,31,6 m [20'] white shark,,N,white,YEAR,edad_limpia
+888,usa,M,45,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+889,usa,F,10,6' shark,,N,Desconocido,YEAR,edad_limpia
+890,usa,M,38,"Tiger shark, 3.7 m [12'] ",,N,Tiger,YEAR,edad_limpia
+891,hong kong,M,29,1.8 m to 2.1 m [6' to 7'] shark,,N,Desconocido,YEAR,edad_limpia
+892,japan,M,47,6 m [20'] white shark,,N,white,YEAR,edad_limpia
+893,australia,M,35,"Bronze whaler shark, 2 m ",,N,Desconocido,YEAR,edad_limpia
+894,south africa,M,22,Raggedtooth shark,,N,Desconocido,YEAR,edad_limpia
+895,south africa,M,14,"Tiger shark, 1.8 m [6'] ",,N,Tiger,YEAR,edad_limpia
+896,south africa,M,26,5.5 m [18'] white shark,,N,white,YEAR,edad_limpia
+897,usa,M,42,5 m to 5.5 m [16.5' to 18'] white shark,,N,white,YEAR,edad_limpia
+898,usa,F,34,2.7 m [9'] shark,,N,Desconocido,YEAR,edad_limpia
+899,usa,F,9,Thought to involve a small sand shark,,N,Desconocido,YEAR,edad_limpia
+900,usa,M,43,5 m [16.5'] white shark,,N,white,YEAR,edad_limpia
+901,usa,F,12,Small shark,,N,Desconocido,YEAR,edad_limpia
+902,reunion,M,24,3 to 3.5 m [10' to 11.5'] bull shark,,N,Bull,YEAR,edad_limpia
+903,south africa,M,22,4 m [13'] white shark,,N,white,YEAR,edad_limpia
+904,south africa,M,31,4 m [13'] white shark,,N,white,YEAR,edad_limpia
+905,usa,M,15,"""small shark""",,N,Desconocido,YEAR,edad_limpia
+906,bahamas,M,30,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+907,usa,M, 28,1.2 m [4'] spinner shark,,N,Desconocido,YEAR,edad_limpia
+908,usa,M,22,>1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+909,usa,M,23,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+910,south africa,M,15,3 m [10'] white shark,,N,white,YEAR,edad_limpia
+911,south africa,M,33,"1.3 m [4'3""] shark",,N,Desconocido,YEAR,edad_limpia
+912,australia,M,27,Tiger shark caught 6 days later with divers remains in its gut,,N,Tiger,YEAR,edad_limpia
+913,usa,M,26,4 m to 5 m [13' to 16.5'] white shark,,N,white,YEAR,edad_limpia
+914,usa,F,26,3 m [10'] bull shark,,N,Bull,YEAR,edad_limpia
+915,usa,F,34,>6 m [20'] white shark,,N,white,YEAR,edad_limpia
+916,south africa,M,36,3 m [10'] white shark,,N,white,YEAR,edad_limpia
+917,spain,M,69,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+918,bahamas,M,51,1.8 m [6'] blacktip shark or Caribbean reef shark,,N,Desconocido,YEAR,edad_limpia
+919,usa,F,19,Bull shark,,N,Bull,YEAR,edad_limpia
+920,usa,M,39,5.5 m to 6 m [18' to 20']  white shark,,N,white,YEAR,edad_limpia
+921,south africa,M,28,4 m [13'] white shark,,N,white,YEAR,edad_limpia
+922,usa,F,12,"1.8 m to 2.4 m [6' to 8'] shark, tooth fragments recovered ",,N,Desconocido,YEAR,edad_limpia
+923,usa,M,22,Thought to involve a tiger shark,,N,Tiger,YEAR,edad_limpia
+924,australia,M,31,Remains recovered from 5.5 m [18'] white shark,,N,white,YEAR,edad_limpia
+925,australia,F,34,5 m [16.5'] white shark,,N,white,YEAR,edad_limpia
+926,usa,F,60's,6' shark,,N,Desconocido,YEAR,edad_limpia
+927,usa,M,35,"Tiger shark, 3.7 m [12'], (tooth fragment recovered from wound)",,N,Tiger,YEAR,edad_limpia
+928,usa,M,55,White shark,,N,white,YEAR,edad_limpia
+929,australia,M,69,"Bronze whaler shark, 1.5 m ",,N,Desconocido,YEAR,edad_limpia
+930,australia,M,21,1.5 m shark,,N,Desconocido,YEAR,edad_limpia
+931,usa,M,29,6 m [20'] white shark,,N,white,YEAR,edad_limpia
+932,usa,M,10,"Tiger shark, 2.4 m [8']",,N,Tiger,YEAR,edad_limpia
+933,usa,M,30,"Tiger shark, 3 m to 4.9 m [10' to 16'] ",,N,Tiger,YEAR,edad_limpia
+934,usa,M,31,"Mako shark, 1.8 m [6']  ",,N,Desconocido,YEAR,edad_limpia
+935,usa,M,19,6' to 7' blacktip shark,,N,Desconocido,YEAR,edad_limpia
+936,usa,M,46,5 m to 6 m white shark,,N,white,YEAR,edad_limpia
+937,usa,M,40,Unidentified shark,,N,Desconocido,YEAR,edad_limpia
+938,usa,M,18,"Tiger shark, 3 m to 3.7 m [10' to 12'] ",,N,Tiger,YEAR,edad_limpia
+939,usa,M,40,2.5 m [8.25'] white shark,,N,white,YEAR,edad_limpia
+940,usa,M,28,"Tiger shark, 4.3 m [14'] ",,N,Tiger,YEAR,edad_limpia
+941,australia,M,28,4.2 m white shark,,N,white,YEAR,edad_limpia
+942,usa,M,20,4 m to 5 m [13' to 16.5']  white shark ,,N,white,YEAR,edad_limpia
+943,australia,M,17,4 m white shark,,N,white,YEAR,edad_limpia
+944,usa,M,22,5.5 m to 6 m [18' to 20'] white shark,,N,white,YEAR,edad_limpia
+945,usa,F,42,"""a small shark""",,N,Desconocido,YEAR,edad_limpia
+946,reunion,M,16,Bull shark or lemon shark,,N,Lemon,YEAR,edad_limpia
+947,south africa,M,35,>2 m shark,,N,Desconocido,YEAR,edad_limpia
+948,usa,F,36,Tiger shark,,N,Tiger,YEAR,edad_limpia
+949,japan,M,41,"5 m [16.5'] white shark, identification by K. Nakaya",,N,white,YEAR,edad_limpia
+950,usa,M,21,Said to involve a 6 m to 7 m [20' to 23'] white shark,,N,white,YEAR,edad_limpia
+951,australia,M,19,Questionable incident,,N,Desconocido,YEAR,edad_limpia
+952,australia,M,19,"Bronze whaler shark, 2.3 m [7.5'] ",,N,Desconocido,YEAR,edad_limpia
+953,south africa,M,19,"Zambesi shark, 1.7 m [5.5'] ",,N,Desconocido,YEAR,edad_limpia
+954,south africa,M,36,Possibly a 1.5 m [5'] blacktip shark,,N,Desconocido,YEAR,edad_limpia
+955,usa,M,25,6 m [20'] white shark,,N,white,YEAR,edad_limpia
+956,usa,F,41,"Tiger shark, 2.4 m 3.4 m [8' to 11']  ",,N,Tiger,YEAR,edad_limpia
+957,usa,M,21,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+958,usa,M,32,5 m to 6 m [16.5' to 20'] white shark,,N,white,YEAR,edad_limpia
+959,australia,M,19,4 m [13'] white shark,,N,white,YEAR,edad_limpia
+960,australia,M,36,"3 m [10'], 270- kg [595-lb] shark",,N,Desconocido,YEAR,edad_limpia
+961,usa,M,23,sand shark,,N,Desconocido,YEAR,edad_limpia
+962,usa,F,10,3' shark,,N,Desconocido,YEAR,edad_limpia
+963,italy,F,40,4 m [13'] white shark,,N,white,YEAR,edad_limpia
+964,reunion,M,30,"Tiger shark, 3 to 4 m [10' to 13'] ",,N,Tiger,YEAR,edad_limpia
+965,usa,M,32,5 m [16.5'] white shark,,N,white,YEAR,edad_limpia
+966,usa,M,31,2.7 m [9'] bull or lemon shark,,N,Lemon,YEAR,edad_limpia
+967,hong kong,F,65,"Tiger shark, >3 m [10']",,N,Tiger,YEAR,edad_limpia
+968,usa,M,23,2.4 m [8'] shark,,N,Desconocido,YEAR,edad_limpia
+969,usa,M,22,1.2 m to 1.5 m [4' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+970,usa,M,38,5.5 m [18'] white shark,,N,white,YEAR,edad_limpia
+971,south africa,M,20,5.5 m [18'] white shark,,N,white,YEAR,edad_limpia
+972,usa,M,24,5' shark,,N,Desconocido,YEAR,edad_limpia
+973,usa,M,50,1.8 m [6'] shark ,,N,Desconocido,YEAR,edad_limpia
+974,usa,M,25,4' spinner shark,,N,Desconocido,YEAR,edad_limpia
+975,usa,M,43,"Tiger shark, 3.7 m [12'] ",,N,Tiger,YEAR,edad_limpia
+976,usa,M,19,1.8 m to 2.4 m [6' to 8'] shark,,N,Desconocido,YEAR,edad_limpia
+977,south africa,M,26,5 m  [16.5'] white shark,,N,white,YEAR,edad_limpia
+978,usa,M,49,White shark,,N,white,YEAR,edad_limpia
+979,usa,M,44,2.5 m to 3 m [8.25' to 10']  white shark,,N,white,YEAR,edad_limpia
+980,usa,M,22,5 m to 6 m [16.5' to 20'] white shark,,N,white,YEAR,edad_limpia
+981,south africa,F,21,"4.5 m [14'9""] white shark",,N,white,YEAR,edad_limpia
+982,south africa,M,22,"5.5 m [18'] white shark, identified by witnesses & tooth marks",,N,white,YEAR,edad_limpia
+983,south africa,M,23,"2.3 m [7.5'] white shark, identified by M. Smale",,N,white,YEAR,edad_limpia
+984,australia,M,31,"Tiger shark, 3 m ",,N,Tiger,YEAR,edad_limpia
+985,south africa,M,29,White shark,,N,white,YEAR,edad_limpia
+986,australia,M,17,2.7 m [9'] white shark,,N,white,YEAR,edad_limpia
+987,usa,M,12,4' shark,,N,Desconocido,YEAR,edad_limpia
+988,usa,M,49,Shark involvement suspected but not confirmed,,N,Desconocido,YEAR,edad_limpia
+989,south africa,M,29,"White shark, identified by tooth pattern",,N,white,YEAR,edad_limpia
+990,usa,M,51,150-lb shark,,N,Desconocido,YEAR,edad_limpia
+991,usa,M,38,4 m to 5 m [13' to 16.5']  white shark,,N,white,YEAR,edad_limpia
+992,australia,M,30,Grey nurse shark,,N,Grey,YEAR,edad_limpia
+993,south africa,M,21,>3.4 m [11'] white shark,,N,white,YEAR,edad_limpia
+994,australia,M,17,"Bronze whaler shark, 3 m [10'] ",,N,Desconocido,YEAR,edad_limpia
+995,south africa,M,34,2.5 m [8.25'] white shark,,N,white,YEAR,edad_limpia
+996,south africa,M,16,3 m [10'] white shark,,N,white,YEAR,edad_limpia
+997,south africa,M,28,2.5 m [8.25'] white shark,,N,white,YEAR,edad_limpia
+998,australia,M,27,2 m [6.75'] white shark,,N,white,YEAR,edad_limpia
+999,italy,M,47,6 m [20'] white shark,,N,white,YEAR,edad_limpia
+1000,usa,M,24,Invalid,,N,Desconocido,YEAR,edad_limpia
+1001,usa,F,24,5 m [16.5'] white shark,,N,white,YEAR,edad_limpia
+1002,australia,M,17,"Tiger shark, 4 m [13'] ",,N,Tiger,YEAR,edad_limpia
+1003,usa,M,21,5.5 m to 6 m [18' to 20']  white shark,,N,white,YEAR,edad_limpia
+1004,usa,M,30,1.2 m to 1.5 m [4' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+1005,usa,M,23,1.2 m to 1.5 m [4' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+1006,usa,M,21,5' shark,,N,Desconocido,YEAR,edad_limpia
+1007,usa,M,38,3 m [10'] bull shark,,N,Bull,YEAR,edad_limpia
+1008,usa,M,27,2.4 m to 3 m [8' to 10'] white shark,,N,white,YEAR,edad_limpia
+1009,south africa,M,36,White shark,,N,white,YEAR,edad_limpia
+1010,usa,M,37,Sand shark?,,N,Desconocido,YEAR,edad_limpia
+1011,usa,M,25,1.8 m to 2.4 m [6' to 8'] shark,,N,Desconocido,YEAR,edad_limpia
+1012,south africa,M,17,1.5 m to 2 m [5' to 6.75'] shark,,N,Desconocido,YEAR,edad_limpia
+1013,south africa,M,20,"1 m ""grey-colored"" shark",,N,Grey,YEAR,edad_limpia
+1014,south africa,F,15,Zambezi shark (tooth fragments recovered),,N,Desconocido,YEAR,edad_limpia
+1015,south africa,M,22,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+1016,south africa,M,33,1.5 m copper shark,,N,Desconocido,YEAR,edad_limpia
+1017,usa,M,16,1.8 m [6'] blacktip shark,,N,Desconocido,YEAR,edad_limpia
+1018,usa,M,20,2 m [6.75'] shark,,N,Desconocido,YEAR,edad_limpia
+1019,south africa,M,14,Questionable incident,,N,Desconocido,YEAR,edad_limpia
+1020,south africa,M,21,White shark,,N,white,YEAR,edad_limpia
+1021,south africa,M,24,3.5 m [11.5']  white shark,,N,white,YEAR,edad_limpia
+1022,usa,M,12,1.2 m to 1.5 m [4' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+1023,usa,M,40,5.7 m white shark,,N,white,YEAR,edad_limpia
+1024,usa,M,27,3' to 4' shark,,N,Desconocido,YEAR,edad_limpia
+1025,usa,F,32,4' shark,,N,Desconocido,YEAR,edad_limpia
+1026,usa,F,16,4' shark,,N,Desconocido,YEAR,edad_limpia
+1027,vanuatu,M,8,4.3 m shark,,N,Desconocido,YEAR,edad_limpia
+1028,south africa,M,30,>2.5 m [8.25'] white shark,,N,white,YEAR,edad_limpia
+1029,south africa,M,21,3 m [10'] white shark,,N,white,YEAR,edad_limpia
+1030,usa,M,40,1.8 m to 2.1 m [6' to 7'] spinner or blacktip shark,,N,Desconocido,YEAR,edad_limpia
+1031,usa,M,27,5 m to 6 m [16.5' to 20'] white shark,,N,white,YEAR,edad_limpia
+1032,usa,F,6,"Lemon shark, 1.8 m to 2.4 m [6' to 8'], tooth fragment recovered",,N,Lemon,YEAR,edad_limpia
+1033,south africa,M,32,1.6 m shark,,N,Desconocido,YEAR,edad_limpia
+1034,south africa,M,35,Invalid,,N,Desconocido,YEAR,edad_limpia
+1035,south africa,M,26,1.2 m [4'] dusky shark,,N,Desconocido,YEAR,edad_limpia
+1036,south africa,M,26,>1 m shark,,N,Desconocido,YEAR,edad_limpia
+1037,south africa,M,21,>2.4 m [8'] white shark,,N,white,YEAR,edad_limpia
+1038,south africa,M,46,Raggedtooth shark,,N,Desconocido,YEAR,edad_limpia
+1039,south africa,M,29,"Raggedtooth shark, 2 m [6.75'] ",,N,Desconocido,YEAR,edad_limpia
+1040,australia,M,29,"Bronze whaler shark, 3.5 m ",,N,Desconocido,YEAR,edad_limpia
+1041,usa,M,22,Blacktip shark,,N,Desconocido,YEAR,edad_limpia
+1042,usa,M,16,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+1043,south africa,M,22,2.5 m [8.25'] white shark,,N,white,YEAR,edad_limpia
+1044,usa,M,46,2 m to 2.5 m [6.75'  to 8.25'] sixgill or sevengill shark,,N,Desconocido,YEAR,edad_limpia
+1045,usa,M,17,Invalid,,N,Desconocido,YEAR,edad_limpia
+1046,usa,M,11,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+1047,usa,M,67,Shark involvement prior to death not confirmed,,N,Desconocido,YEAR,edad_limpia
+1048,usa,F,13,Possibly a small hammerhead shark,,N,Desconocido,YEAR,edad_limpia
+1049,italy,M,13,"3 m to 3.6 m  [10' to 11'9""] white shark",,N,white,YEAR,edad_limpia
+1050,australia,F,33,6 m [20'] white shark,,N,white,YEAR,edad_limpia
+1051,usa,M,29,6 m [20'] white shark,,N,white,YEAR,edad_limpia
+1052,south africa,M,15,Raggedtooth shark,,N,Desconocido,YEAR,edad_limpia
+1053,south africa,M,18,"3.5 m white shark, tooth fragments recovered",,N,white,YEAR,edad_limpia
+1054,south africa,M,34,3.5 m [11.5'] white shark,,N,white,YEAR,edad_limpia
+1055,south africa,M,20,1.5 m [5'] dusky shark,,N,Desconocido,YEAR,edad_limpia
+1056,australia,M,16,"Tiger shark, 4 m ",,N,Tiger,YEAR,edad_limpia
+1057,usa,M,22,Shark involvement prior to death was not confirmed,,N,Desconocido,YEAR,edad_limpia
+1058,usa,F,23,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+1059,usa,F,77,Shark involvement not confirmed; officials considered barracua,,N,Desconocido,YEAR,edad_limpia
+1060,usa,M,15,1.2 m [4'] blacktip shark,,N,Desconocido,YEAR,edad_limpia
+1061,usa,M,25,3 m to 5 m [10' to 16.5'] white shark,,N,white,YEAR,edad_limpia
+1062,usa,M,16,Hammerhead shark?+O2356,,N,Desconocido,YEAR,edad_limpia
+1063,usa,M,28,4.5 m to 5 m white shark,,N,white,YEAR,edad_limpia
+1064,usa,F,18,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+1065,south africa,M,21,Shark involvement prior to death was not confirmed,,N,Desconocido,YEAR,edad_limpia
+1066,south africa,M,27,2.4 m [8'] white shark,,N,white,YEAR,edad_limpia
+1067,usa,F,13,1.2 m to 1.5 m [4' to 5'] hammerhead shark,,N,Desconocido,YEAR,edad_limpia
+1068,south africa,M,33, 1.5 m [5'] dusky shark,,N,Desconocido,YEAR,edad_limpia
+1069,south africa,M,14,"Raggedtooth shark, 1 m ",,N,Desconocido,YEAR,edad_limpia
+1070,south africa,M,47,"Raggedtooth shark, >1 m ",,N,Desconocido,YEAR,edad_limpia
+1071,south africa,M,29,5 m [16.5'] white shark,,N,white,YEAR,edad_limpia
+1072,usa,F,14,Sand shark,,N,Desconocido,YEAR,edad_limpia
+1073,usa,F,22,6' to 8' bull shark,,N,Bull,YEAR,edad_limpia
+1074,australia,F,21,"Tiger shark, 5 m [16.5']",,N,Tiger,YEAR,edad_limpia
+1075,australia,M,24,"Tiger shark, 5 m [16.5']",,N,Tiger,YEAR,edad_limpia
+1076,australia,M,28,"Tiger shark, 5 m [16.5']",,N,Tiger,YEAR,edad_limpia
+1077,usa,F,39,3.5' hammerhead shark,,N,Desconocido,YEAR,edad_limpia
+1078,usa,M,21,6' shark,,N,Desconocido,YEAR,edad_limpia
+1079,south africa,M,27,"Raggedtooth shark, 1.5 m [5'] (tooth fragment recovered)",,N,Desconocido,YEAR,edad_limpia
+1080,south africa,M,17,1.8 m [6'] Zambezi shark,,N,Desconocido,YEAR,edad_limpia
+1081,south africa,M,16,3 m [10'] shark,,N,Desconocido,YEAR,edad_limpia
+1082,south africa,M,32,White shark,,N,white,YEAR,edad_limpia
+1083,usa,M,26,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+1084,south africa,M,16,"Believed to involve a 2.8 m [9'3""] white shark",,N,white,YEAR,edad_limpia
+1085,usa,M,20,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+1086,usa,M,36,White shark,,N,white,YEAR,edad_limpia
+1087,usa,M,28,5 m to 6 m [16.5' to 20'] white shark,,N,white,YEAR,edad_limpia
+1088,usa,M,17,Questionable incident; reported as shark attack but thought to involve a pinniped instead ,,N,Desconocido,YEAR,edad_limpia
+1089,south africa,M,20,Invalid,,N,Desconocido,YEAR,edad_limpia
+1090,south africa,M,38,"2.4 m [8'] white shark, species identity confirmed by tooth fragment",,N,white,YEAR,edad_limpia
+1091,usa,M,26,4.5 m to 5.5 m [14.7' to 18'] white shark,,N,white,YEAR,edad_limpia
+1092,usa,M,17,0.9 m to 1.2 m [3' to 4'] shark,,N,Desconocido,YEAR,edad_limpia
+1093,south africa,M,27,"2.4 m [8'] white shark, species identity confirmed by witnesses & tooth pattern in surfboard",,N,white,YEAR,edad_limpia
+1094,usa,M,20,5' shark,,N,Desconocido,YEAR,edad_limpia
+1095,south africa,M,20,Raggedtooth shark,,N,Desconocido,YEAR,edad_limpia
+1096,usa,M,24,7 m [23'] white shark,,N,white,YEAR,edad_limpia
+1097,usa,M,19,1.8 m to 2.4 m [6' to 8'] shark,,N,Desconocido,YEAR,edad_limpia
+1098,usa,M,26,Said to involve a tiger shark or a hammerhead shark,,N,Tiger,YEAR,edad_limpia
+1099,bahamas,M,53,Mako shark (tooth fragments recovered),,N,Desconocido,YEAR,edad_limpia
+1100,south africa,M,32,Possibly a  1.8 m [6'] Zambezi shark,,N,Desconocido,YEAR,edad_limpia
+1101,south korea,F,27,6 m  white shark,,N,white,YEAR,edad_limpia
+1102,south africa,M,27,Raggedtooth shark,,N,Desconocido,YEAR,edad_limpia
+1103,south africa,M,19,"Raggedtooth shark, 2.5 m [8.25'] ",,N,Desconocido,YEAR,edad_limpia
+1104,south africa,M,24,"Tiger shark, 2.1 m [7']",,N,Tiger,YEAR,edad_limpia
+1105,usa,M,19,"1.2 m to 1.5 m [4' to 5'] bull, sandbar or dusky shark",,N,Bull,YEAR,edad_limpia
+1106,usa,M,24,C. maculpinnis or C. limbatus,,N,Desconocido,YEAR,edad_limpia
+1107,south africa,M,30,Juvenile dusky or blacktip shark,,N,Desconocido,YEAR,edad_limpia
+1108,usa,M,15,1.8 m to 2.4 m [6' to 8'] hammerhead shark,,N,Desconocido,YEAR,edad_limpia
+1109,australia,M,27,"Tiger shark, 2.5 m ",,N,Tiger,YEAR,edad_limpia
+1110,south africa,M,25,3.5 m [11.5'] shark,,N,Desconocido,YEAR,edad_limpia
+1111,reunion,M,22,1.8 m [6'] white shark,,N,white,YEAR,edad_limpia
+1112,usa,M,29,4 m to 5 m [13' to 16.5'] white shark,,N,white,YEAR,edad_limpia
+1113,usa,M,19,4 m to 5 m [13' to 16.5'] white shark,,N,white,YEAR,edad_limpia
+1114,usa,F,22,4' to 8' shark,,N,Desconocido,YEAR,edad_limpia
+1115,south africa,M,22,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+1116,mexico,F,13,Tiger shark,,N,Tiger,YEAR,edad_limpia
+1117,south africa,M,24,"2.8 m [9'3""] white shark",,N,white,YEAR,edad_limpia
+1118,south africa,M,29,"2 m [6'9""] Zambesi shark",,N,Desconocido,YEAR,edad_limpia
+1119,south africa,M,25,"Raggedtooth shark, 2 m [6'9""] ",,N,Desconocido,YEAR,edad_limpia
+1120,south africa,M,20,Invalid,,N,Desconocido,YEAR,edad_limpia
+1121,usa,M,20,"White shark, 4 m [13'] ",,N,white,YEAR,edad_limpia
+1122,south africa,M,25,"White shark, 2.5 m [8.25']  ",,N,white,YEAR,edad_limpia
+1123,usa,M,27,Blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+1124,south africa,M,19,1.5 m to 2 m [5' to 6.75'] shark,,N,Desconocido,YEAR,edad_limpia
+1125,south africa,M,23,"White shark, 2.3 m [7.5'], tooth fragment recovered",,N,white,YEAR,edad_limpia
+1126,south africa,M,27,"White shark, 3.7 m [12'] ",,N,white,YEAR,edad_limpia
+1127,south africa,M,17,Thought to involve a blacktip shark,,N,Desconocido,YEAR,edad_limpia
+1128,south africa,M,18,"Tiger shark, 3 m [10']",,N,Tiger,YEAR,edad_limpia
+1129,south africa,M,25,"White shark, 5 m [16.5'] ",,N,white,YEAR,edad_limpia
+1130,australia,M,17,White shark,,N,white,YEAR,edad_limpia
+1131,usa,M,20,"White shark, 5.5 m to 6 m [18' to 20']  ",,N,white,YEAR,edad_limpia
+1132,usa,M,27,"Bull shark, 8",,N,Bull,YEAR,edad_limpia
+1133,usa,M,29,"White shark, 5.5 m [18'] ",,N,white,YEAR,edad_limpia
+1134,south africa,M,19,"White shark, 3 m [10'] k",,N,white,YEAR,edad_limpia
+1135,usa,M,19,2.1 m [7'] lemon shark or bull shark,,N,Lemon,YEAR,edad_limpia
+1136,usa,M,25,"White shark, 3 m to 4 m [10' to 13'] ",,N,white,YEAR,edad_limpia
+1137,south africa,M,20,"White shark, 3.5 m [11.5'], species identity confirmed by tooth fragment",,N,white,YEAR,edad_limpia
+1138,usa,M,15,"Tiger shark, 6' ",,N,Tiger,YEAR,edad_limpia
+1139,usa,M,19,"White shark, 4.5 m ",,N,white,YEAR,edad_limpia
+1140,usa,M,17,12' to 14' shark,,N,Desconocido,YEAR,edad_limpia
+1141,usa,M,27,White shark,,N,white,YEAR,edad_limpia
+1142,south africa,M,33,Juvenile dusky shark,,N,Desconocido,YEAR,edad_limpia
+1143,south africa,M,19,"White shark, 2.4 m [8']",,N,white,YEAR,edad_limpia
+1144,usa,M,20,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+1145,usa,M,44,White shark,,N,white,YEAR,edad_limpia
+1146,australia,M,37,White shark,,N,white,YEAR,edad_limpia
+1147,usa,M,23,"White shark, 5.8 m [19'] ",,N,white,YEAR,edad_limpia
+1148,usa,M,34,"White shark, 5m to 6m",,N,white,YEAR,edad_limpia
+1149,usa,F,14,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+1150,usa,M,18,4' shark,,N,Desconocido,YEAR,edad_limpia
+1151,south africa,M,16,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+1152,australia,M,12,"White shark, 3 m [10'] ",,N,white,YEAR,edad_limpia
+1153,usa,M,17,"White shark, 5.5 m to 6 m [18' to 20'] ",,N,white,YEAR,edad_limpia
+1154,usa,M,29,"White shark, 4 m to 5 m ",,N,white,YEAR,edad_limpia
+1155,israel,F,20,"Shortfin mako shark, 2.3 m [7.5'] ",,N,Desconocido,YEAR,edad_limpia
+1156,usa,M,41,"White shark, 5 m to 6 m [16.5 to 20'] ",,N,white,YEAR,edad_limpia
+1157,usa,M,48,"White shark, 5 m to 6 m [16.5 to 20'] ",,N,white,YEAR,edad_limpia
+1158,usa,M,24,"White shark, 4.5 m ",,N,white,YEAR,edad_limpia
+1159,usa,M,45,"White shark, 5 m [16.5']",,N,white,YEAR,edad_limpia
+1160,south africa,M,22,"Raggedtooth shark, 1.5 m [5'] ",,N,Desconocido,YEAR,edad_limpia
+1161,south africa,M,17,Juvenile dusky shark,,N,Desconocido,YEAR,edad_limpia
+1162,south africa,M,21,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+1163,south africa,M,33,2 m to 2.5 m [6.75'  to 8.25'] shark,,N,Desconocido,YEAR,edad_limpia
+1164,bahamas,M,11,7' to 8' bull shark,,N,Bull,YEAR,edad_limpia
+1165,mexico,M,37,White shark,,N,white,YEAR,edad_limpia
+1166,south africa,M,26,"2 m shark, possibly a dusky or blacktip shark",,N,Desconocido,YEAR,edad_limpia
+1167,mozambique,M,25,2 m to 3 m shark,,N,Desconocido,YEAR,edad_limpia
+1168,usa,M,22,4.5' shark,,N,Desconocido,YEAR,edad_limpia
+1169,usa,M,32,"White shark, 4.4 m to 5 m [14.5' to 16.5'] ",,N,white,YEAR,edad_limpia
+1170,australia,M,18,7' shark,,N,Desconocido,YEAR,edad_limpia
+1171,south africa,F,30,Zambesi shark,,N,Desconocido,YEAR,edad_limpia
+1172,mozambique,M,24,"White shark, 2.5 m [8.25'] ",,N,white,YEAR,edad_limpia
+1173,south africa,F,16,"White shark, 3 m [10']rk",,N,white,YEAR,edad_limpia
+1174,usa,M,18,5' to 6' shark,,N,Desconocido,YEAR,edad_limpia
+1175,south africa,M,25,1.5 m to 2 m shark,,N,Desconocido,YEAR,edad_limpia
+1176,usa,M,30,"White shark, 5 m to 6 m [16.5' to 20']  ",,N,white,YEAR,edad_limpia
+1177,croatia,M,34,White shark,,N,white,YEAR,edad_limpia
+1178,australia,M,26,"Grey nurse shark, 11'",,N,Grey,YEAR,edad_limpia
+1179,south africa,M,21,"White shark, 3 m [10'], species identity confirmed by witnesses & tooth pattern in leg & board ",,N,white,YEAR,edad_limpia
+1180,south africa,M,>50,White shark according to tooth pattern and witnesses,,N,white,YEAR,edad_limpia
+1181,new zealand,M,16,"White shark, 4.6 m [15'] ",,N,white,YEAR,edad_limpia
+1182,micronesia,M,43,1.8 to 2 m C. albimarginatus,,N,Desconocido,YEAR,edad_limpia
+1183,south africa,M,25,"Raggedtooth shark, 2 m [6'9""], 5-year-old, captive female ",,N,Desconocido,YEAR,edad_limpia
+1184,usa,M,53,"White shark, 4.3 m 4.9 m [14' to 16'] ",,N,white,YEAR,edad_limpia
+1185,usa,M,13,4' shark,,N,Desconocido,YEAR,edad_limpia
+1186,usa,M,23,Nurse shark,,N,Desconocido,YEAR,edad_limpia
+1187,usa,M,16,"White shark, identified by tooth fragments in surfboard",,N,white,YEAR,edad_limpia
+1188,australia,M,49,7-gill shark,,N,Desconocido,YEAR,edad_limpia
+1189,australia,M,27,"Grey nurse shark, 10' ",,N,Grey,YEAR,edad_limpia
+1190,new zealand,M,17,White shark,,N,white,YEAR,edad_limpia
+1191,new zealand,M,24,"White shark, 4.3 m [14'], (tooth fragment recovered)",,N,white,YEAR,edad_limpia
+1192,columbia,M,18,2 m shark,,N,Desconocido,YEAR,edad_limpia
+1193,usa,M,25,"White shark, 4 m [13'] ",,N,white,YEAR,edad_limpia
+1194,usa,M,33,4m [13'] shark,,N,Desconocido,YEAR,edad_limpia
+1195,usa,M,63,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+1196,south africa,M,35,1.5 m to 1.8m [5' to 6'] shark,,N,Desconocido,YEAR,edad_limpia
+1197,usa,M,28,Invalid,,N,Desconocido,YEAR,edad_limpia
+1198,australia,M,26,"Bronze whaler shark, 3 m [10'] ",,N,Desconocido,YEAR,edad_limpia
+1199,south africa,M,22,1.5 m to 1.8 m [5' to 6'] shark,,N,Desconocido,YEAR,edad_limpia
+1200,usa,M,19,small blacktip shark,,N,Desconocido,YEAR,edad_limpia
+1201,usa,M,24,5' blue shark,,N,Desconocido,YEAR,edad_limpia
+1202,australia,M,23,White shark,,N,white,YEAR,edad_limpia
+1203,australia,M,? & 19,Shark involvement prior to death was not confirmed,,N,Desconocido,YEAR,edad_limpia
+1204,usa,M,15,"Nurse shark, 106 cm, 28-lb, male ",,N,Desconocido,YEAR,edad_limpia
+1205,bahamas,M,41,1.5 m to 1.8 m [5' to 6'] sandbar shark,,N,Desconocido,YEAR,edad_limpia
+1206,usa,M,26,"Nurse shark, 1 m ",,N,Desconocido,YEAR,edad_limpia
+1207,south africa,M,32,"White shark, 3 m [10'] ",,N,white,YEAR,edad_limpia
+1208,australia,M,36,Grey nurse shark,,N,Grey,YEAR,edad_limpia
+1209,new zealand,M,21,Thought to involve a white shark,,N,white,YEAR,edad_limpia
+1210,papua new guinea,F,13,3.7 m [12'] shark,,N,Desconocido,YEAR,edad_limpia
+1211,papua new guinea,F,8,3.7 m [12'] shark,,N,Desconocido,YEAR,edad_limpia
+1212,australia,M,32,"Bronze whaler shark, 2.1 m [7'], a tooth was embedded in the speargun ",,N,Desconocido,YEAR,edad_limpia
+1213,australia,M,43,"Mako shark, 1.9 m [6.5'] ",,N,Desconocido,YEAR,edad_limpia
+1214,new britain,F,13,A pack of 6 sharks,,N,Desconocido,YEAR,edad_limpia
+1215,new britain,F,9,A pack of 6 sharks,,N,Desconocido,YEAR,edad_limpia
+1216,usa,M,26,Invalid,,N,Desconocido,YEAR,edad_limpia
+1217,usa,M,8,Spinner or blacktip sharks,,N,Desconocido,YEAR,edad_limpia
+1218,usa,M,34,4' shark,,N,Desconocido,YEAR,edad_limpia
+1219,usa,M,46,Invalid,,N,Desconocido,YEAR,edad_limpia
+1220,usa,M,15,"Local authorities speculated that the water was too cold for sharks, but a 2.1 m [7'], 200-lb pregnant sandbar shark was caught next day",,N,Desconocido,YEAR,edad_limpia
+1221,usa,M,18,1.2 m [4'] hammerhead shark,,N,Desconocido,YEAR,edad_limpia
+1222,usa,M,18,a small shark,,N,Desconocido,YEAR,edad_limpia
+1223,usa,M,24,Invalid,,N,Desconocido,YEAR,edad_limpia
+1224,australia,M,13,"White shark, 2.5 m [8.25'], an immature female, previously injured",,N,white,YEAR,edad_limpia
+1225,south africa,M,33,Copper shark,,N,Desconocido,YEAR,edad_limpia
+1226,usa,M,29,"White shark, 3 m [10'] ",,N,white,YEAR,edad_limpia
+1227,south africa,M,16,1.5 m to 1.8 m [5' to 6'] Zambesi shark,,N,Desconocido,YEAR,edad_limpia
+1228,south africa,M,15,"1.8 m to 2 m [6' to 6'9""] shark",,N,Desconocido,YEAR,edad_limpia
+1229,usa,M,35,Hammerhead shark,,N,Desconocido,YEAR,edad_limpia
+1230,usa,F,15,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+1231,australia,M,24,"Grey nurse shark, 2.4 m [8'] ",,N,Grey,YEAR,edad_limpia
+1232,usa,M,19,Invalid,,N,Desconocido,YEAR,edad_limpia
+1233,usa,M,28,"White shark, 10' to 12' ",,N,white,YEAR,edad_limpia
+1234,palau,M,8,"Tiger shark, tooth fragment recovered",,N,Tiger,YEAR,edad_limpia
+1235,usa,M,17,Blacktip or spinner shark,,N,Desconocido,YEAR,edad_limpia
+1236,usa,M,16,Mako shark,,N,Desconocido,YEAR,edad_limpia
+1237,south africa,M,25,"1.8 m [6'], 136-kg [300-lb] shark ",,N,Desconocido,YEAR,edad_limpia
+1238,usa,M,18,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+1239,south africa,M,22,"White shark, 3.7 m [12'] ",,N,white,YEAR,edad_limpia
+1240,south africa,M,19,Raggedtooth shark ,,N,Desconocido,YEAR,edad_limpia
+1241,papua new guinea,M,28,2.1 m [7'] shark,,N,Desconocido,YEAR,edad_limpia
+1242,australia,M,25,"White shark, 2.4 m [8'] ",,N,white,YEAR,edad_limpia
+1243,australia,M,19,"Grey nurse shark, 1.8 m [6']",,N,Grey,YEAR,edad_limpia
+1244,taiwan,M,20,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+1245,mexico,M,19,1.8 to 2.4 m [6' to 8'] shark,,N,Desconocido,YEAR,edad_limpia
+1246,usa,M,18,Invalid,,N,Desconocido,YEAR,edad_limpia
+1247,usa,M,28,Hammerhead shark,,N,Desconocido,YEAR,edad_limpia
+1248,usa,F,29,Shark involvement prior to death was not confirmed,,N,Desconocido,YEAR,edad_limpia
+1249,south africa,M,40,Shark involvement prior to death was not confirmed,,N,Desconocido,YEAR,edad_limpia
+1250,fiji,M,35,Tiger shark,,N,Tiger,YEAR,edad_limpia
+1251,usa,M,38,1.7 m [5.5'] shark,,N,Desconocido,YEAR,edad_limpia
+1252,new zealand,M,26,"White shark, 3 m [10'] ",,N,white,YEAR,edad_limpia
+1253,south africa,M,25,"White shark, 1.5 m [5'] k",,N,white,YEAR,edad_limpia
+1254,new zealand,M,19,"White shark, 3 m to 3.7 m [10' to 12'] ",,N,white,YEAR,edad_limpia
+1255,australia,M,23,Shark involvement prior to death was not confirmed,,N,Desconocido,YEAR,edad_limpia
+1256,usa,M,21,White shark (tooth fragment recovered),,N,white,YEAR,edad_limpia
+1257,south africa,F,20,"Zambesi shark, 1.8 m [6'] ",,N,Desconocido,YEAR,edad_limpia
+1258,south africa,M,24,1.8 m [6']  shark,,N,Desconocido,YEAR,edad_limpia
+1259,south africa,M,13,"Dusky shark, 1 m ",,N,Desconocido,YEAR,edad_limpia
+1260,south africa,M,15,300- to 400-lb Zambesi shark,,N,Desconocido,YEAR,edad_limpia
+1261,australia,M,23,White shark,,N,white,YEAR,edad_limpia
+1262,new zealand,M,20,Possibly a broadnose 7-gill shark,,N,Desconocido,YEAR,edad_limpia
+1263,papua new guinea,F,18,Tiger shark,,N,Tiger,YEAR,edad_limpia
+1264,fiji,F,21,>1.2 m [4'] tiger shark,,N,Tiger,YEAR,edad_limpia
+1265,palau,M,35,Dooley believed his Injury was caused by stingray (Dasyatidae family),,N,Desconocido,YEAR,edad_limpia
+1266,usa,M,28,500-lb shark,,N,Desconocido,YEAR,edad_limpia
+1267,solomon islands,M,30,5.5 m [18'] shark,,N,Desconocido,YEAR,edad_limpia
+1268,australia,M,18,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+1269,usa,M,16,"Nurse shark, 1.2 m [4'] ",,N,Desconocido,YEAR,edad_limpia
+1270,federated states of micronesia,M,26,Tiger shark,,N,Tiger,YEAR,edad_limpia
+1271,greece,F,42,"White shark, 3 m ",,N,white,YEAR,edad_limpia
+1272,papua new guinea,M,30,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+1273,usa,M,25,"Hand found in gut of 2.9 m to 3.3 m [9'7"" to 10'11""] Galapagos shark, C. galapagensis",,N,Desconocido,YEAR,edad_limpia
+1274,usa,M,15,3.7 to 4.5 m [12' to 15'] shark seen in vicinity,,N,Desconocido,YEAR,edad_limpia
+1275,australia,M,18,"Bronze whaler shark, 3 m [10'] ",,N,Desconocido,YEAR,edad_limpia
+1276,fiji,M,28,"White shark, 2.1 m [7'] ",,N,white,YEAR,edad_limpia
+1277,australia,F,32,"Tooth fragments of whaler shark were recovered, a bull shark, according to Edwards",,N,Bull,YEAR,edad_limpia
+1278,australia,M,25,Shark involvement prior to death was not confirmed,,N,Desconocido,YEAR,edad_limpia
+1279,south africa,M,27,1 m shark,,N,Desconocido,YEAR,edad_limpia
+1280,south africa,M,24,"Zambesi shark, 2 m [6'9""] ",,N,Desconocido,YEAR,edad_limpia
+1281,australia,M,16,"White shark, 4.3 m [14'] (or bronze whaler)",,N,white,YEAR,edad_limpia
+1282,usa,M,24,"White shark, 4.3 m to 4.9m [14' to 16']",,N,white,YEAR,edad_limpia
+1283,mexico,M,32,2.7 m [9'] shark,,N,Desconocido,YEAR,edad_limpia
+1284,british west indies,M,24," Blacktip shark, C. maculipinnis. 1.9 m to 2.1 m [6.5' to 7'] ",,N,Desconocido,YEAR,edad_limpia
+1285,italy,M,28,White shark,,N,white,YEAR,edad_limpia
+1286,papua new guinea,M,49,"""A long thin brown-colored shark""",,N,Desconocido,YEAR,edad_limpia
+1287,usa,M,39,"Horn shar,k Heterodontus francisci, 1.2 m [4'] ",,N,Desconocido,YEAR,edad_limpia
+1288,usa,M,40,Unknown,,N,Desconocido,YEAR,edad_limpia
+1289,usa,M,24,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+1290,usa,M,19,Blue shark,,N,Desconocido,YEAR,edad_limpia
+1291,usa,M,11,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+1292,usa,M,55," Sevengill  shark, 1.2 m [4'] ",,N,Desconocido,YEAR,edad_limpia
+1293,south africa,M,13,"Zambesi shark, 1.2 m [4'] ",,N,Desconocido,YEAR,edad_limpia
+1294,papua new guinea,M,10,Possibly a bronze whaler shark,,N,Desconocido,YEAR,edad_limpia
+1295,south africa,M,13,"White shark, 3 m ",,N,white,YEAR,edad_limpia
+1296,australia,M,35,60 cm  shark ,,N,Desconocido,YEAR,edad_limpia
+1297,new zealand,M,18,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+1298,south africa,M,40,Shark involvement prior to death was not confirmed,,N,Desconocido,YEAR,edad_limpia
+1299,usa,M,29,"White shark, 4 m [13'] ",,N,white,YEAR,edad_limpia
+1300,australia,M,19,"Bronze whaler shark, 2.1 m [7'] shark",,N,Desconocido,YEAR,edad_limpia
+1301,papua new guinea,M,24,White shark,,N,white,YEAR,edad_limpia
+1302,new zealand,F,54,"36""  shark",,N,Desconocido,YEAR,edad_limpia
+1303,marshall islands,M,57,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+1304,australia,F,18,3 m [10'] shark,,N,Desconocido,YEAR,edad_limpia
+1305,australia,M,24,3 m [10'] shark,,N,Desconocido,YEAR,edad_limpia
+1306,south africa,M,18,Zambesi shark,,N,Desconocido,YEAR,edad_limpia
+1307,australia,M,23,"Grey nurse shark, 2.4 m [8'] ",,N,Grey,YEAR,edad_limpia
+1308,australia,M,22,Next morning a 3 m [10'] shark was caught that had Andrews' leg in its gut,,N,Desconocido,YEAR,edad_limpia
+1309,australia,M,17,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+1310,croatia,M,19,White shark,,N,white,YEAR,edad_limpia
+1311,usa,M,16,"White shark, 4 m [13'] ",,N,white,YEAR,edad_limpia
+1312,usa,M,19,White shark,,N,white,YEAR,edad_limpia
+1313,usa,M,38,2.4 m [8'] shark,,N,Desconocido,YEAR,edad_limpia
+1314,usa,M,57,"43"" shark",,N,Desconocido,YEAR,edad_limpia
+1315,italy,M,21,"White shark, 4.5 m ",,N,white,YEAR,edad_limpia
+1316,usa,M,20,White shark,,N,white,YEAR,edad_limpia
+1317,usa,M,52,"Hammerhead shark, 500-llb ",,N,Desconocido,YEAR,edad_limpia
+1318,usa,M,10,Shark involvement not confirmed,,N,Desconocido,YEAR,edad_limpia
+1319,mozambique,M,37,Zambesi shark,,N,Desconocido,YEAR,edad_limpia
+1320,australia,M,40," ""gummy"" shark (Rhizoprionodon or Loxodon) 1.2 m [4']",,N,Desconocido,YEAR,edad_limpia
+1321,mozambique,M,38,Zambesi shark,,N,Desconocido,YEAR,edad_limpia
+1323,australia,M,21,"White shark, 3.7 m [12'] ",,N,white,YEAR,edad_limpia
+1324,north pacific ocean,M,33,"Grey reef shark, 1.8 m [6'] grey reef shark, identified by Dr. L.P. L. Schultz based on photographs; identified as C. melanopterus by Stewart",,N,Grey,YEAR,edad_limpia
+1325,south africa,M,27,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+1326,south africa,M,14,"2.1 m [7'], 90-kg shark",,N,Desconocido,YEAR,edad_limpia
+1327,south africa,M,15,White shark,,N,white,YEAR,edad_limpia
+1328,australia,M,27,"Wobbegong shark, 1.5 m [5'] ",,N,Desconocido,YEAR,edad_limpia
+1329,south africa,M,13,"White shark, based on bite pattern",,N,white,YEAR,edad_limpia
+1330,south africa,M,25,"White shark, 3 m [10'], tooth fragment from wounds identified as that of a white shark",,N,white,YEAR,edad_limpia
+1331,australia,M,33,"Grey nurse shark, 1m ",,N,Grey,YEAR,edad_limpia
+1332,australia,M,41,3' shark,,N,Desconocido,YEAR,edad_limpia
+1333,usa,M,15,"Lemon shark, 1164 mm, immature male, identified by  V.G. Springer",,N,Lemon,YEAR,edad_limpia
+1334,usa,M,41,"""sand shark""",,N,Desconocido,YEAR,edad_limpia
+1335,usa,M,39,"Mako shark, 1.8 m to 2.1 m [6' to 7']  with hook & wire leader caught in mouth",,N,Desconocido,YEAR,edad_limpia
+1336,bermuda,M,25,"Dusky shark, 2.7 m [9'] dusky shark C. obscurus identified by S. Springer on tooth recovered",,N,Desconocido,YEAR,edad_limpia
+1337,usa,F,16,"White shark, 4 m to 5 m [13' to 16.5'] ",,N,white,YEAR,edad_limpia
+1338,south africa,M,16,"White shark, 2.1 m [7']  based on tooth pattern",,N,white,YEAR,edad_limpia
+1339,usa,M,48,"White shark, 4.9 m [16'] ",,N,white,YEAR,edad_limpia
+1340,bermuda,M,"21, 34,24 & 35",Questionable incident,,N,Desconocido,YEAR,edad_limpia
+1341,australia,M,17,"White shark, 3.7 m [12'] ",,N,white,YEAR,edad_limpia
+1342,usa,M,42,"1.2 m [4'], possibly  larger shark",,N,Desconocido,YEAR,edad_limpia
+1343,australia,M,30 & 32,Two 2.1 m [7'] sharks,,N,Desconocido,YEAR,edad_limpia
+1344,usa,M,36,"According to Benjamin, the injury was inflicted by a barracuda, not a shark",,N,Desconocido,YEAR,edad_limpia
+1345,australia,M,13,Bull shark,,N,Bull,YEAR,edad_limpia
+1346,australia,M,19,3.5 m [11.5'] shark,,N,Desconocido,YEAR,edad_limpia
+1347,australia,M,17,"""a small shark""",,N,Desconocido,YEAR,edad_limpia
+1348,australia,M,19,3 m to 4.3 m [10' to 14'] shark,,N,Desconocido,YEAR,edad_limpia
+1349,usa,M,21,"Blue shark, 1.5 m [5'] ",,N,Desconocido,YEAR,edad_limpia
+1350,usa,M,30,"White shark, 5 m [16.5'], identified by Dr. W. I. Follett on tooth marks",,N,white,YEAR,edad_limpia
+1351,fiji,M,36,"Tiger shark, 1.8 m [6']",,N,Tiger,YEAR,edad_limpia
+1352,usa,M,30,"A hammerhead shark, then 8 to 10 other sharks were said to be  involved",,N,Desconocido,YEAR,edad_limpia
+1353,philippines,M,10,Shark involvement prior to death was not confirmed,,N,Desconocido,YEAR,edad_limpia
+1354,japan,M,13 or 18,"Blue shark, 3 m [10']",,N,Desconocido,YEAR,edad_limpia
+1355,usa,M,25,"Hammerhead shark, 1.8 m [6'] S. zygena identified by C. Limbaugh on description",,N,Desconocido,YEAR,edad_limpia
+1356,usa,M,33,"Reported to involve a White shark, 6 m to 7m [20' to 23'] ",,N,white,YEAR,edad_limpia
+1357,usa,M,18,"White shark, 3 m [10']; identifed by Dr. W.I. Follett on tooth marks",,N,white,YEAR,edad_limpia
+1358,usa,M,19,"Tiger shark, 3.7 m [12']",,N,Tiger,YEAR,edad_limpia
+1359,south africa,M,14,1.8 to 2.1 m [6' to 7'] shark,,N,Desconocido,YEAR,edad_limpia
+1360,australia,M,20,"Grey nurse shark, 1.8 m [6']",,N,Grey,YEAR,edad_limpia
+1361,australia,M,22,Said to involve 2 sharks: 5.2 m & 6 m [17' & 20'] ,,N,Desconocido,YEAR,edad_limpia
+1362,australia,M,17,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+1363,south africa,M,18,"White shark, 1.8 m to 2.1 m [6' to 7']  according to Shreuder and a witness",,N,white,YEAR,edad_limpia
+1364,usa,M,15,"Tiger shark, 4.6 m to 7.6 m [15' to 25'] ",,N,Tiger,YEAR,edad_limpia
+1365,american samoa,M,22,Tiger shark,,N,Tiger,YEAR,edad_limpia
+1366,australia,M,21,12' shark,,N,Desconocido,YEAR,edad_limpia
+1367,bahamas,M,42,200-lb shark,,N,Desconocido,YEAR,edad_limpia
+1368,usa,M,12,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] ",,N,Tiger,YEAR,edad_limpia
+1369,usa,M,8,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] ",,N,Tiger,YEAR,edad_limpia
+1370,pacific ocean,M,31,Sharks averaged 1.8 m [6'] in length,,N,Desconocido,YEAR,edad_limpia
+1371,usa,M,20,"Nurse shark, 1.5 m [5']  identified by Dr. E. Clark on description of shark",,N,Desconocido,YEAR,edad_limpia
+1372,bahamas,M,36,"Tiger shark, <2 m TL",,N,Tiger,YEAR,edad_limpia
+1373,usa,M,59,"Nurse shark, 2.1 m [7']  identified by Dr. E. Clark on color & tooth impressions",,N,Desconocido,YEAR,edad_limpia
+1374,usa,M,17,Tiger shark?,,N,Tiger,YEAR,edad_limpia
+1375,taiwan,M,29,"Mako shark, 100-kg [221-lb] ",,N,Desconocido,YEAR,edad_limpia
+1376,south africa,F,28,3 m [10'] shark,,N,Desconocido,YEAR,edad_limpia
+1377,south africa,M,29,3 m [10'] shark,,N,Desconocido,YEAR,edad_limpia
+1378,australia,M,14,6' shark,,N,Desconocido,YEAR,edad_limpia
+1379,south africa,F,14,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+1380,south africa,M,23,>3 m [10'] shark,,N,Desconocido,YEAR,edad_limpia
+1381,usa,M,57,White shark,,N,white,YEAR,edad_limpia
+1382,australia,M,28,4.6 m [15'] shark,,N,Desconocido,YEAR,edad_limpia
+1383,usa,M,25,White shark,,N,white,YEAR,edad_limpia
+1384,usa,M,17,4 m [13'] shark,,N,Desconocido,YEAR,edad_limpia
+1385,australia,M,22,Shark seen feeding on turtle scraps thrown overboard prior to incident.,,N,Desconocido,YEAR,edad_limpia
+1386,papua new guinea,M,19,2.4 m [8'] tiger shark caught 40 hours later with shorts of the boy in its gut,,N,Tiger,YEAR,edad_limpia
+1387,senegal,M,19,Lemon shark,,N,Lemon,YEAR,edad_limpia
+1388,usa,M,10,"White shark, 2.7 m [9'] ",,N,white,YEAR,edad_limpia
+1389,australia,M,26,3.7 m [12'] shark & may have been another shark nearby,,N,Desconocido,YEAR,edad_limpia
+1390,australia,M,15,1.8 m [6'] shark,,N,Desconocido,YEAR,edad_limpia
+1391,papua new guinea,M,8,Wobbegong shark,,N,Desconocido,YEAR,edad_limpia
+1392,american samoa,M,28,Blue shark,,N,Desconocido,YEAR,edad_limpia
+1393,usa,M,19,"White shark, 5 m to 6 m [16.5' to 20] ",,N,white,YEAR,edad_limpia
+1394,australia,M,25,3.6 m  white shark  (or bronze whaler),,N,white,YEAR,edad_limpia
+1395,australia,M,13,"Bronze whaler shark,3.7 m [12'] ",,N,Desconocido,YEAR,edad_limpia
+1396,australia,M,30,2.4 m [8']  shark,,N,Desconocido,YEAR,edad_limpia
+1397,argentina,M,18,White shark tooth fragment recovered from ankle & identified by Dr. W. I. Follett,,N,white,YEAR,edad_limpia
+1398,papua new guinea,M,26,14' shark,,N,Desconocido,YEAR,edad_limpia
+1399,mexico,M,19,Invalid,,N,Desconocido,YEAR,edad_limpia
+1400,usa,M,15,3 m [10'] shark seen in vicinity,,N,Desconocido,YEAR,edad_limpia
+1401,australia,M,25,Wobbegong shark,,N,Desconocido,YEAR,edad_limpia
+1402,australia,M,25,2.4 m [8'] shark,,N,Desconocido,YEAR,edad_limpia
+1403,usa,M,17,"White shark,4.6 m [15'] ",,N,white,YEAR,edad_limpia
+1404,australia,M,21,2.4 m [8']  shark,,N,Desconocido,YEAR,edad_limpia
+1405,south africa,M,23,"White shark, 1.8 m [6'] ",,N,white,YEAR,edad_limpia
+1406,south africa,M,24,"White shark, 2.4 m [8'] ",,N,white,YEAR,edad_limpia
+1407,australia,M,23,"Wobbegong shark, 4'",,N,Desconocido,YEAR,edad_limpia
+1408,south africa,M,31,136-kg [300-lb] shark,,N,Desconocido,YEAR,edad_limpia
+1409,australia,M,21,"White shark, 3m, seen in area and hooked 3 days later",,N,white,YEAR,edad_limpia
+1410,usa,M,31,White shark,,N,white,YEAR,edad_limpia
+1411,australia,M,25,4' shark,,N,Desconocido,YEAR,edad_limpia
+1412,el salvador,M,27,"1,100-lb shark",,N,Desconocido,YEAR,edad_limpia
+1413,south africa,M,14,"White shark, 3.7 m [12']  according to witnesses",,N,white,YEAR,edad_limpia
+1414,indonesia,M,7 or 8,"Tiger shark, 3.7 m to 4.3 m  [12' to 14']",,N,Tiger,YEAR,edad_limpia
+1415,australia,M,36,6' shark,,N,Desconocido,YEAR,edad_limpia
+1416,australia,M,13,"3.3 m [10'9""] shark",,N,Desconocido,YEAR,edad_limpia
+1417,australia,M,20,"White shark, 3.6 m [11'9""] ",,N,white,YEAR,edad_limpia
+1418,australia,M,32,Invalid,,N,Desconocido,YEAR,edad_limpia
+1419,greece,M,17,Said to be 6.4 m [21'] shark,,N,Desconocido,YEAR,edad_limpia
+1420,usa,M,48,Nurse shark,,N,Desconocido,YEAR,edad_limpia
+1421,australia,M,9,Grey nurse shark,,N,Grey,YEAR,edad_limpia
+1422,usa,M,20,Possibly C. leucas,,N,Desconocido,YEAR,edad_limpia
+1423,south africa,M,21,"1.5 m, 45-kg shark",,N,Desconocido,YEAR,edad_limpia
+1424,south africa,M,22,"Blacktip shark, 2 m [6.75'] ",,N,Desconocido,YEAR,edad_limpia
+1425,south africa,M,18,>1.6 m shark,,N,Desconocido,YEAR,edad_limpia
+1426,australia,M,30,4.3 m [14'] shark,,N,Desconocido,YEAR,edad_limpia
+1427,australia,M,18,"White shark, 4.2 m [13'9""] ",,N,white,YEAR,edad_limpia
+1428,south africa,M,18,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+1429,south africa,M,37,Thought to involve a Zambesi shark,,N,Desconocido,YEAR,edad_limpia
+1430,iraq,M,15,Bull shark,,N,Bull,YEAR,edad_limpia
+1431,south africa,M,17,"White shark, according to witnesses",,N,white,YEAR,edad_limpia
+1432,panama,M,20,"White shark, 2 m [6'9""]  (Tooth fragment recovered from victim's shoulder & identified by J.T. Nicholls)",,N,white,YEAR,edad_limpia
+1433,mexico,M,68,Invalid,,N,Desconocido,YEAR,edad_limpia
+1434,australia,F,15,Bull shark,,N,Bull,YEAR,edad_limpia
+1435,south africa,M,18,"White shark, 4.5 m  to 6 m [14'9"" to 20'] according to witnesses",,N,white,YEAR,edad_limpia
+1436,australia,M,24,"Tiger shark, 2.4 m to 3 m [8' to 10'] ",,N,Tiger,YEAR,edad_limpia
+1437,australia,F,28,"Bull shark, 4 m [13'] ",,N,Bull,YEAR,edad_limpia
+1438,bahamas,M,48,1.2 m to 1.5 m [4' to 5'] shark,,N,Desconocido,YEAR,edad_limpia
+1439,usa,M,43,2.1 m [7'] shark,,N,Desconocido,YEAR,edad_limpia
+1440,usa,M,53,Mako shark (aka bonito shark) 1.2 m [4'] ,,N,Desconocido,YEAR,edad_limpia
+1441,south africa,M,25,"White shark, species identity confirmed by tooth pattern",,N,white,YEAR,edad_limpia
+1442,south africa,M,17,"White shark, 160-kg [353-lb], identity confirmed by tooth pattern",,N,white,YEAR,edad_limpia
+1443,australia,M,13,3 m [10'] shark,,N,Desconocido,YEAR,edad_limpia
+1444,south africa,M,18,2.4 m [8'] shark,,N,Desconocido,YEAR,edad_limpia
+1445,australia,M,20,2.6 m [8.5'] shark landed 2 hours later,,N,Desconocido,YEAR,edad_limpia
+1446,bahamas,M,38,"Nurse shark, 2.1 m [7']",,N,Desconocido,YEAR,edad_limpia
+1447,australia,M,18,"Tiger shark, 6'",,N,Tiger,YEAR,edad_limpia
+1448,iraq,M,9 or 10,Bull shark,,N,Bull,YEAR,edad_limpia
+1449,australia,M,24,Questionable incident,,N,Desconocido,YEAR,edad_limpia
+1450,australia,M,25,Tiger shark,,N,Tiger,YEAR,edad_limpia
+1451,australia,M,18,"Tiger shark,  3.6 m [11'9""], 850-kg [1874-lb] female, contained Girvan's remains ",,N,Tiger,YEAR,edad_limpia
+1452,australia,M,38,"Tiger shark, 9' to 10' ",,N,Tiger,YEAR,edad_limpia
+1453,australia,M,33,2 days later a 600-lb shark was caught 100 yards from the site,,N,Desconocido,YEAR,edad_limpia
+1454,australia,M,32,White shark,,N,white,YEAR,edad_limpia
+1455,usa,M,16,White shark (identified by Dr. Hugh Smith) ,,N,white,YEAR,edad_limpia
+1456,australia,M,16,"Tiger shark, 4.6 m [15'] ",,N,Tiger,YEAR,edad_limpia
+1457,australia,M,14,White shark,,N,white,YEAR,edad_limpia
+1458,australia,M,13,White shark,,N,white,YEAR,edad_limpia
+1459,australia,M,38,3.7 m [12'] shark,,N,Desconocido,YEAR,edad_limpia
+1460,australia,M,27,"White shark, 4 m [13'] ",,N,white,YEAR,edad_limpia
+1461,australia,M,22,"White shark, 3.5 m to 4 m [11.5' to 13'] ",,N,white,YEAR,edad_limpia
+1462,australia,F,13,"Tiger shark, 1.5 m [5'] ",,N,Tiger,YEAR,edad_limpia
+1463,australia,M,15,4.3 m [14'] shark seen in vicinity,,N,Desconocido,YEAR,edad_limpia
+1464,australia,M,17,4 m [13'] shark seen in vicinity,,N,Desconocido,YEAR,edad_limpia
+1465,australia,M,22,4.3 m [14'] shark seen in area previous week,,N,Desconocido,YEAR,edad_limpia
+1466,australia,M,24,Thought to involve a mako or grey nurse shark,,N,Grey,YEAR,edad_limpia
+1467,south africa,M,23,"Raggedtooth shark, 1.2 m to 1.5 m [4' to 5'] ",,N,Desconocido,YEAR,edad_limpia
+1468,australia,M,39,Shark involvement prior to death unconfirmed,,N,Desconocido,YEAR,edad_limpia
+1469,australia,M,18,1.5 m [5'] shark,,N,Desconocido,YEAR,edad_limpia
+1470,australia,M,18,White shark 4.9 m [16'] ,,N,white,YEAR,edad_limpia
+1471,south africa,M,23,"White shark, 4.5 m [14'9""], identity confirmed by witness & tooth pattern",,N,white,YEAR,edad_limpia
+1472,australia,M,19,"Grey nurse shark, 4' ",,N,Grey,YEAR,edad_limpia
+1473,australia,M,39,Galapagos shark,,N,Desconocido,YEAR,edad_limpia
+1474,australia,M,14,12' shark,,N,Desconocido,YEAR,edad_limpia
+1475,panama,M,17,Morenos leg  & part of his swim suit found in 9' shark caught two hours after the attack. Identified as carcharhinid shark by L. Schultz & C. Limbaugh on photograph,,N,Desconocido,YEAR,edad_limpia
+1476,australia,M,15,4' shark,,N,Desconocido,YEAR,edad_limpia
+1477,south africa,M,18,1.2 m [4'] shark,,N,Desconocido,YEAR,edad_limpia
+1478,south africa,M,17,"White shark, 4.4 m [14.5'] . ",,N,white,YEAR,edad_limpia
+1479,australia,M,17,Grey nurse shark?,,N,Grey,YEAR,edad_limpia
+1480,australia,M,15,3.7 m [12'] shark,,N,Desconocido,YEAR,edad_limpia
+1481,australia,M,17,"Grey nurse shark, 4'",,N,Grey,YEAR,edad_limpia
+1482,italy,M,20,Said to involve 6 to 7 m [20' to 23'] white shark,,N,white,YEAR,edad_limpia
+1483,usa,M,15,1.5 m [5'] white shark or sevengill shark,,N,white,YEAR,edad_limpia
+1484,australia,M,55,"Tiger shark, 4 m [13'] female",,N,Tiger,YEAR,edad_limpia
+1485,australia,M,16,Said to be a small shark,,N,Desconocido,YEAR,edad_limpia
+1486,australia,M,16,3 m [10'] shark,,N,Desconocido,YEAR,edad_limpia
+1487,australia,M,19,"2.7 m [9'] ""blue"" shark",,N,Desconocido,YEAR,edad_limpia
+1488,jamaica,M,19,6' shark,,N,Desconocido,YEAR,edad_limpia
+1489,south africa,M,18,"White shark, 12', identity confirmed by tooth fragment, witness and photograph of captured shark ",,N,white,YEAR,edad_limpia
+1490,australia,M,21,"White shark, 2.4 m [8'] ",,N,white,YEAR,edad_limpia
+1491,australia,M,18,White shark,,N,white,YEAR,edad_limpia
+1492,australia,M,13,12' shark,,N,Desconocido,YEAR,edad_limpia
+1493,usa,M,24,Thought to involve a 2.6 m [8.5'] white shark,,N,white,YEAR,edad_limpia
+1494,australia,M,21,"2.8 m [9'3""] whaler shark captured 3 days later with his remains in its gut",,N,Desconocido,YEAR,edad_limpia
+1495,south africa,M,30,1.8 m to 2.7 m [6' to 9'] shark,,N,Desconocido,YEAR,edad_limpia
+1496,australia,M,40,5' shark,,N,Desconocido,YEAR,edad_limpia
+1497,south africa,M,29,White shark,,N,white,YEAR,edad_limpia
+1498,australia,M,19,10' to 12' shark,,N,Desconocido,YEAR,edad_limpia
+1499,australia,M,21,12' shark,,N,Desconocido,YEAR,edad_limpia
+1500,australia,M,12,Bull shark,,N,Bull,YEAR,edad_limpia
+1501,india,M,35,Identified as C. gangeticus by Dr. J. Fayrer,,N,Desconocido,YEAR,edad_limpia
+1502,seychelles,M,,,,Y,Desconocido,YEAR,edad_limpia
+1503,,M,,,,Y,Desconocido,YEAR,edad_limpia
+1504,england,M,,,Sep,Y,Desconocido,YEAR,edad_limpia
+1505,australia,M,,,,Y,Desconocido,YEAR,edad_limpia
+1506,australia,M,,,May,N,Desconocido,YEAR,edad_limpia
+1507,,M,,,Jul,Y,Desconocido,YEAR,edad_limpia
+1508,barbados,M,,,,Y,Desconocido,YEAR,edad_limpia
+1509,england,M,,,,Y,Desconocido,YEAR,edad_limpia
+1510,jamaica,M,,,Dec,Y,Desconocido,YEAR,edad_limpia
+1511,martinique,M,,,Mar,Y,Desconocido,YEAR,edad_limpia
+1512,usa,M,,,Aug,Y,Desconocido,YEAR,edad_limpia
+1513,usa,M,young,,,Y,Desconocido,YEAR,edad_limpia
+1514,guinea,M,,,,Y,Desconocido,YEAR,edad_limpia
+1515,greenland,M,,,,Y,Desconocido,YEAR,edad_limpia
+1516,usa,M,,,,Y,Desconocido,YEAR,edad_limpia
+1517,france,M,,,,,Desconocido,YEAR,edad_limpia
+1518,spain,M,,,,Y,Desconocido,YEAR,edad_limpia
+1519,mediterranean sea,M,,,,N,Desconocido,YEAR,edad_limpia
+1520,jamaica,M,,,,Y,Desconocido,YEAR,edad_limpia
+1521,usa,M,,,Jul,Y,Desconocido,YEAR,edad_limpia
+1522,cuba,M,14,,,N,Desconocido,YEAR,edad_limpia
+1523,sweden,M,,,,,Desconocido,YEAR,edad_limpia
+1524,panama,M,,,,Y,Desconocido,YEAR,edad_limpia
+1525,,M,,,Dec,Y,Desconocido,YEAR,edad_limpia
+1526,italy,M,,,,Y,Desconocido,YEAR,edad_limpia
+1527,iceland,M,,,,,Desconocido,YEAR,edad_limpia
+1528,roatan,M,,,,,Desconocido,YEAR,edad_limpia
+1529,italy,M,,,,Y,Desconocido,YEAR,edad_limpia
+1530,barbados,M,19,,Mar,N,Desconocido,YEAR,edad_limpia
+1531,france,M,,,,Y,Desconocido,YEAR,edad_limpia
+1532,france,M,,,,N,Desconocido,YEAR,edad_limpia
+1533,barbados,M,,,,Y,Desconocido,YEAR,edad_limpia
+1534,guinea,M,,,,,Desconocido,YEAR,edad_limpia
+1535,,M,,,,,Desconocido,YEAR,edad_limpia
+1536,india,M,,,,,Desconocido,YEAR,edad_limpia
+1537,india,M,,,,,Desconocido,YEAR,edad_limpia
+1538,usa,M,,,,Y,Desconocido,YEAR,edad_limpia
+1539,india,M,,,,,Desconocido,YEAR,edad_limpia
+1540,between portugal & india,M,,,,Y,Desconocido,YEAR,edad_limpia
+1541,,M,,,,,Desconocido,YEAR,edad_limpia
+1542,france,M,,,,,Desconocido,YEAR,edad_limpia
+1543,venezuela,M,,,,Y,Desconocido,YEAR,edad_limpia
+1544,mexico,M,,,,N,Desconocido,YEAR,edad_limpia
+1545,,M,,,,Y,Desconocido,YEAR,edad_limpia
+1546,australia,M,,,,N,Desconocido,YEAR,edad_limpia
+1547,,M,,,,Y,Desconocido,YEAR,edad_limpia
+1548,greece,M,,,,Y,Desconocido,YEAR,edad_limpia
+1550,italy,M,,,,Y,Desconocido,YEAR,edad_limpia
+1551,canada,M,,,,N,Desconocido,YEAR,edad_limpia
+1552,kenya,M,,,,N,Desconocido,YEAR,edad_limpia
+1553,kenya,M,,,,Y,Desconocido,YEAR,edad_limpia
+1554,panama,M,20,,,Y,Desconocido,YEAR,edad_limpia
+1555,uruguay,M,,,,N,Desconocido,YEAR,edad_limpia
+1556,uruguay,M,,,,Y,Desconocido,YEAR,edad_limpia
+1557,usa,M,,,,N,Desconocido,YEAR,edad_limpia
+1558,papua new guinea,M,,,,Y,Desconocido,YEAR,edad_limpia
+1559,australia,M,15,,,N,Desconocido,YEAR,edad_limpia
+1560,australia,M,,,,Y,Desconocido,YEAR,edad_limpia
+1562,bermuda,M,,,,Y,Desconocido,YEAR,edad_limpia
+1564,usa,M,,,,Y,Desconocido,YEAR,edad_limpia
+1565,india,M,,,,N,Desconocido,YEAR,edad_limpia
+1566,lebanon,M,,,,N,Desconocido,YEAR,edad_limpia
+1567,spain,M,,,,N,Desconocido,YEAR,edad_limpia
+1568,sudan,M,,,,N,Desconocido,YEAR,edad_limpia
+1569,,M,,,,N,Desconocido,YEAR,edad_limpia
+1570,usa,M,21,,,N,Desconocido,YEAR,edad_limpia
+1572,djibouti,M,,,,Y,Desconocido,YEAR,edad_limpia
+1573,libya,M,,,,Y,Desconocido,YEAR,edad_limpia
+1574,australia,M,,,,N,Desconocido,YEAR,edad_limpia
+1575,new zealand,M,,,,Y,Desconocido,YEAR,edad_limpia
+1577,vietnam,M,,,,N,Desconocido,YEAR,edad_limpia
+1578,sri lanka,M,,,,N,Desconocido,YEAR,edad_limpia
+1579,venezuela,M,,,,Y,Desconocido,YEAR,edad_limpia
+1582,mozambique,M,,,,N,Desconocido,YEAR,edad_limpia
+1583,south africa,M,,,,Y,Desconocido,YEAR,edad_limpia
+1585,bahrein,M,,,,Y,Desconocido,YEAR,edad_limpia
+1586,bahamas,M,,,,N,Desconocido,YEAR,edad_limpia
+1588,reunion,M,,,,N,Desconocido,YEAR,edad_limpia
+1589,solomon islands,M,,,,N,Desconocido,YEAR,edad_limpia
+1590,korea,M,,,,Y,Desconocido,YEAR,edad_limpia
+1591,french polynesia,M,,,,N,Desconocido,YEAR,edad_limpia
+1593,vanuatu,M,,,,Y,Desconocido,YEAR,edad_limpia
+1594,vanuatu,M,,,,N,Desconocido,YEAR,edad_limpia
+1595,iran,M,,,,N,Desconocido,YEAR,edad_limpia
+1596,usa,M,19,,,N,Desconocido,YEAR,edad_limpia
+1598,red sea?,M,,,,N,Desconocido,YEAR,edad_limpia
+1602,usa,M,,,,,Desconocido,YEAR,edad_limpia
+1604,mediterranean sea,M,,,,Y,Desconocido,YEAR,edad_limpia
+1607,singapore,M,,,,N,Desconocido,YEAR,edad_limpia
+1608,fiji,M,27,,,N,Desconocido,YEAR,edad_limpia
+1609,mozambique,M,36,,,N,Desconocido,YEAR,edad_limpia
+1610,seychelles,M,,,,Y,Desconocido,YEAR,edad_limpia
+1611,iraq,M,25,,,N,Desconocido,YEAR,edad_limpia
+1612,iraq,M,6,,,N,Desconocido,YEAR,edad_limpia
+1613,iraq,M,16,,,N,Desconocido,YEAR,edad_limpia
+1616,bermuda,M,,,,N,Desconocido,YEAR,edad_limpia
+1617,fiji,M,,,,N,Desconocido,YEAR,edad_limpia
+1618,madagascar,M,,,,Y,Desconocido,YEAR,edad_limpia
+1621,indonesia,M,,,,Y,Desconocido,YEAR,edad_limpia
+1622,india,M,,,,Y,Desconocido,YEAR,edad_limpia
+1623,nicaragua,M,,,,Y,Desconocido,YEAR,edad_limpia
+1624,cuba,M,50,,,Y,Desconocido,YEAR,edad_limpia
+1625,marshall islands,M,,,,N,Desconocido,YEAR,edad_limpia
+1626,kiribati,M,,,,N,Desconocido,YEAR,edad_limpia
+1627,north pacific ocean,M,,,,N,Desconocido,YEAR,edad_limpia
+1628,kiribati,M,,,,Y,Desconocido,YEAR,edad_limpia
+1632,iran,M,,,,Y,Desconocido,YEAR,edad_limpia
+1635,iraq,M,13 or 14,,,Y,Desconocido,YEAR,edad_limpia
+1636,saudi arabia,M,,,,Y,Desconocido,YEAR,edad_limpia
+1637,saudi arabia,M,,,,N,Desconocido,YEAR,edad_limpia
+1639,pacific ocean,M,,,,Y,Desconocido,YEAR,edad_limpia
+1640,burma,M,,,,N,Desconocido,YEAR,edad_limpia
+1641,papua new guinea,M,,,,N,Desconocido,YEAR,edad_limpia
+1643,burma,M,,,,Y,Desconocido,YEAR,edad_limpia
+1644,italy,M,,,,N,Desconocido,YEAR,edad_limpia
+1645,greece,M,,,,N,Desconocido,YEAR,edad_limpia
+1646,belize,M,16,,,Y,Desconocido,YEAR,edad_limpia
+1647,australia,M,,,,,Desconocido,YEAR,edad_limpia
+1648,reunion,M,,,,Y,Desconocido,YEAR,edad_limpia
+1649,south africa,M,,,,N,Desconocido,YEAR,edad_limpia
+1657,fiji,M,,,,Y,Desconocido,YEAR,edad_limpia
+1661,asia?,M,,,,N,Desconocido,YEAR,edad_limpia
+1670,panama,M,,,,Y,Desconocido,YEAR,edad_limpia
+1671,ceylon (sri lanka),M,15,,,Y,Desconocido,YEAR,edad_limpia
